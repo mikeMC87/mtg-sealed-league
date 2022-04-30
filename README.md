@@ -14,11 +14,13 @@ This is a newly formed league of friends that will play games of Magic: The Gath
 
 We'll be playing online/digitally on the [MTG Arena](https://magic.wizards.com/en/mtgarena) app (available for PC, mac, or mobile). The benefits of doing this, of course, is that everyone can play remotely - and the client enforces the gameplay rules so we don't have to! (if you're new to Magic you'll see why this is awesome).
 
-Every 2 weeks you'll need to complete 2 matches against your paired opponents *any time* during those 2 weeks. You may play those 2 opponents in any order. Pairings will be randomized and published at the beginning of the league so you'll be able to schedule in advance with your opponents. So, if we have 10 people, you'll play everyone once over the course of 9 weeks. 
+Every week you'll need to complete one match against your paired opponent *any time* during that week. We'll be using the [Swiss format](https://en.wikipedia.org/wiki/Swiss-system_tournament), so all matches must be completed each round before the following round pairings can be generated. Swiss is only 5 rounds but can accommodate up to 32 players.
 
-In addition, you'll get to add 2 new packs to your card pool after every 2 weeks. Use the new cards to improve your current deck or completely change your deck altogether!
+In addition, you'll get to add a new pack to your card pool after every week. Use the new cards to improve your current deck or completely change your deck altogether!
 
-The 6 players with the highest win-loss record at the end of this "regular" season will go on to the playoff bracket, to play for eternal glory. Top 2 players will have a first round bye. Bottom 4 players will have a losers bracket.
+The 8 players with the highest Swiss ranking at the end of this "regular" season will go on to the playoff bracket, to play for eternal glory. This will be a double elimination bracket, with the top 4 starting in the winners bracket and the bottom 4 starting in the losers bracket.
+
+If you're still curious on these formats - you can peruse the official [MTG Tournament rulebook](https://media.wpn.wizards.com/attachements/mtg_mtr_2022mar7_en.pdf) . We're basically following it.
 
 
 ## New to Magic?
@@ -29,10 +31,6 @@ The 6 players with the highest win-loss record at the end of this "regular" seas
 4. Ask any questions in our Discord server
 5. Redeem free packs/stuff with codes on MTGA found [here](https://draftsim.com/mtg-arena-codes/)! (I just set up a new account to test this out and just by doing this I got the majority of wildcards needed for a season. There will also be a new code after the new set is released for 3 free packs. I'd advise not to use the wildcards yet, as you'll need them throughout the season (see FAQ).)
 
-
-## Start date
-
-We'll be starting at the beginning of the next set release, *Kamigawa Neon Dynasty*, - which is scheduled for [February 10th on MTG Arena](https://magic.wizards.com/en/products/kamigawa-neon-dynasty). I'll set up a time for us to meet on Discord for those that can join, to stream/walkthru the process, but it's not strictly required to attend.
 
 ## FAQ
 
@@ -55,11 +53,6 @@ We'll be starting at the beginning of the next set release, *Kamigawa Neon Dynas
 **Q**: Why is the cost $5-$25?
 
 **A**: For new players on MTGA, there is a "welcome bundle" in the store to get 2500 gems (and some packs) for $5. This is the absolute best deal on gems you'll get and will cover the initial 2000 gem cost of the Sealed event. For those MTGA veterans who already used that deal, its ~$10 for the Sealed event. Depending on how much you play MTGA (you "earn" gold, wildcards etc, from playing outside our event) I'm estimating it may cost another $15 at most to craft the cards throughout the season. 
-
-
-**Q**: Why did you pick 2 matches every 2 weeks?
-
-**A**: As a casual league, we thought having the flexibility of only needing to be able to play 2 matches within a 2 week timespan was preferred to having to play one match every week. We'll see how it goes!
 
 **Q**: How do we keep track of all the cards added to our sealed pool?
 
