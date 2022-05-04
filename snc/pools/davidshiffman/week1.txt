@@ -1,4 +1,6 @@
+Deck
 1 Backup Agent (SNC) 2
+9 Plains (SNC) 263
 1 Raffine's Informant (SNC) 26
 3 Revelation of Power (SNC) 28
 1 Sky Crier (SNC) 31
@@ -10,12 +12,15 @@
 1 Speakeasy Server (SNC) 32
 1 Angelic Observer (SNC) 1
 1 An Offer You Can't Refuse (SNC) 51
+8 Island (SNC) 265
 1 Expendable Lackey (SNC) 43
 1 Slip Out the Back (SNC) 62
 2 Witness Protection (SNC) 66
 1 Security Bypass (SNC) 59
 2 Case the Joint (SNC) 37
 1 Run Out of Town (SNC) 58
+
+Sideboard
 1 Snooping Newsie (SNC) 222
 3 Demon's Due (SNC) 75
 2 Rakish Revelers (SNC) 214
