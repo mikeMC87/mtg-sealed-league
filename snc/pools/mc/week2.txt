@@ -1,0 +1,86 @@
+2 Boon of Safety (SNC) 4
+1 Brokers Initiate (SNC) 5
+1 Raffine's Guidance (SNC) 25
+1 Hold for Ransom (SNC) 16
+1 Revelation of Power (SNC) 28
+1 Gathering Throng (SNC) 13
+1 Inspiring Overseer (SNC) 18
+1 Knockout Blow (SNC) 20
+1 Rumor Gatherer (SNC) 29
+1 Celebrity Fencer (SNC) 7
+1 Dapper Shieldmate (SNC) 9
+1 Angelic Observer (SNC) 1
+1 Expendable Lackey (SNC) 43
+1 Slip Out the Back (SNC) 62
+1 Brokers Veteran (SNC) 36
+1 Disdainful Stroke (SNC) 39
+2 Security Bypass (SNC) 59
+1 Case the Joint (SNC) 37
+1 Psychic Pickpocket (SNC) 54
+1 Cutthroat Contender (SNC) 73
+1 Corrupt Court Official (SNC) 70
+1 Crooked Custodian (SNC) 71
+1 Extract the Truth (SNC) 78
+1 Maestros Initiate (SNC) 86
+1 Deal Gone Bad (SNC) 74
+1 Girder Goons (SNC) 80
+1 Join the Maestros (SNC) 85
+1 Shadow of Mortality (SNC) 94
+1 Daring Escape (SNC) 104
+1 Goldhound (SNC) 108
+2 Strangle (SNC) 125
+1 Light 'Em Up (SNC) 113
+1 Mayhem Patrol (SNC) 114
+2 Riveteers Initiate (SNC) 120
+1 Riveteers Requisitioner (SNC) 121
+1 Exhibition Magician (SNC) 106
+1 Pyre-Sledge Arsonist (SNC) 118
+2 Big Score (SNC) 102
+1 Arcane Bombardment (SNC) 101
+1 Torch Breath (SNC) 127
+1 For the Family (SNC) 146
+1 Civic Gardener (SNC) 140
+1 Prizefight (SNC) 154
+1 Broken Wings (SNC) 136
+1 Jewel Thief (SNC) 151
+1 Most Wanted (SNC) 153
+1 Social Climber (SNC) 157
+1 Rhox Pummeler (SNC) 155
+1 Tainted Indulgence (SNC) 227
+1 Body Dropper (SNC) 168
+1 Fatal Grudge (SNC) 187
+1 Civil Servant (SNC) 176
+1 Obscura Charm (SNC) 208
+2 Obscura Interceptor (SNC) 209
+1 Maestros Charm (SNC) 199
+1 Glamorous Outlaw (SNC) 190
+2 Mr. Orfeo, the Boulder (SNC) 204
+1 Masked Bandits (SNC) 201
+1 Cabaretti Ascendancy (SNC) 172
+1 Incandescent Aria (SNC) 192
+3 Rakish Revelers (SNC) 214
+1 Brokers Charm (SNC) 171
+1 Lagrella, the Magpie (SNC) 196
+1 Spara's Adjudicators (SNC) 224
+2 Cabaretti Courtyard (SNC) 249
+2 Maestros Theater (SNC) 251
+1 Obscura Storefront (SNC) 252
+1 Riveteers Overlook (SNC) 255
+2 Cement Shoes (SNC) 235
+2 Gilded Pinions (SNC) 238
+1 Paragon of Modernity (SNC) 242
+1 Civic Gardener
+1 Cleanup Crew
+1 Cutthroat Contender
+1 Dig Up the Body
+1 For the Family
+1 Forest
+1 Gilded Pinions
+1 Majestic Metamorphosis
+1 Plasma Jockey
+1 Quick-Draw Dagger
+1 Rooftop Nuisance
+1 Run Out of Town
+1 Suspicious Bookcase
+1 Take to the Streets
+1 Tenacious Underdog
