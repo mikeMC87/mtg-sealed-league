@@ -1,0 +1,104 @@
+1 Boon of Safety (SNC) 4
+1 Strangle (SNC) 125
+1 Raffine's Guidance (SNC) 25
+1 Hold for Ransom (SNC) 16
+2 Raffine's Informant (SNC) 26
+1 Sky Crier (SNC) 31
+1 Gathering Throng (SNC) 13
+1 Swooping Protector (SNC) 33
+1 Ballroom Brawlers (SNC) 3
+1 Buy Your Silence (SNC) 6
+1 Speakeasy Server (SNC) 32
+1 Expendable Lackey (SNC) 43
+1 Unlucky Witness (SNC) 128
+1 Backstreet Bruiser (SNC) 35
+1 Faerie Vandal (SNC) 44
+1 Obscura Initiate (SNC) 50
+1 Psionic Snoop (SNC) 53
+1 Rooftop Nuisance (SNC) 57
+1 Cutthroat Contender (SNC) 73
+1 Antagonize (SNC) 100
+1 Grisly Sigil (SNC) 82
+1 Corrupt Court Official (SNC) 70
+1 Crooked Custodian (SNC) 71
+1 Murder (SNC) 88
+1 Deal Gone Bad (SNC) 74
+1 Demon's Due (SNC) 75
+1 Daring Escape (SNC) 104
+1 Sticky Fingers (SNC) 124
+1 Mayhem Patrol (SNC) 114
+1 Riveteers Initiate (SNC) 120
+1 Rob the Archives (SNC) 122
+1 Exhibition Magician (SNC) 106
+1 Witty Roastmaster (SNC) 131
+1 Hoard Hauler (SNC) 109
+1 Sizzling Soloist (SNC) 123
+1 Pugnacious Pugilist (SNC) 117
+1 Attended Socialite (SNC) 133
+1 Gala Greeters (SNC) 148
+1 Bouncer's Beatdown (SNC) 135
+1 Masked Bandits (SNC) 201
+2 Expendable Lackey (SNC) 43
+3 Quick-Draw Dagger (SNC) 243
+1 Rhox Pummeler (SNC) 155
+1 Demon's Due (SNC) 75
+1 Antagonize (SNC) 100
+1 Ziatora's Proving Ground (SNC) 261
+1 Most Wanted (SNC) 153
+1 Crooked Custodian (SNC) 71
+2 Riveteers Overlook (SNC) 255
+3 Warm Welcome (SNC) 164
+1 Disciplined Duelist (SNC) 182
+1 Fight Rigging (SNC) 145
+2 Corrupt Court Official (SNC) 70
+2 Snooping Newsie (SNC) 222
+1 Cabaretti Courtyard (SNC) 249
+1 Elegant Entourage (SNC) 143
+1 Fatal Grudge (SNC) 187
+1 Cleanup Crew (SNC) 141
+1 Obscura Initiate (SNC) 50
+1 Social Climber (SNC) 157
+2 Jetmir's Fixer (SNC) 194
+1 Botanical Plaza (SNC) 247
+1 Spara's Adjudicators (SNC) 224
+1 Waterfront District (SNC) 259
+1 Broken Wings (SNC) 136
+1 Mr. Orfeo, the Boulder (SNC) 204
+1 Freelance Muscle (SNC) 147
+1 Suspicious Bookcase (SNC) 245
+1 Topiary Stomper (SNC) 160
+1 Rakish Revelers (SNC) 214
+1 Maestros Ascendancy (SNC) 198
+1 Gilded Pinions (SNC) 238
+1 Rogues' Gallery (SNC) 92
+1 Brokers Charm (SNC) 171
+1 Broken Wings
+1 Call In a Professional
+1 Crooked Custodian
+1 Gilded Pinions
+1 Glittering Stockpile
+1 Join the Maestros
+1 Make Disappear
+1 Most Wanted
+1 Mountain
+1 Plasma Jockey
+1 Riveteers Initiate
+1 Shattered Seraph
+1 Soul of Emancipation
+1 Sticky Fingers
+1 Swooping Protector
+1 Attended Socialite
+1 Backstreet Bruiser
+1 Call In a Professional
+1 Civil Servant
+1 Corpse Appraiser
+1 Corrupt Court Official
+1 Fake Your Own Death
+1 Inspiring Overseer
+1 Jinnie Fay, Jetmir's Second
+1 Nimble Larcenist
+1 Obscura Initiate
+1 Plains
+1 Revelation of Power
+1 Rooftop Nuisance
+1 Witty Roastmaster

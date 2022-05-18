@@ -1,0 +1,104 @@
+Deck
+1 Botanical Plaza (SNC) 247
+1 Brokers Hideout (SNC) 248
+1 Cabaretti Courtyard (SNC) 249
+2 Ziatora's Proving Ground (SNC) 261
+4 Forest (SNC) 271
+4 Mountain (SNC) 269
+4 Plains (SNC) 263
+1 Sticky Fingers (SNC) 124
+1 Strangle (SNC) 125
+1 Illuminator Virtuoso (SNC) 17
+1 Black Market Tycoon (SNC) 167
+2 Jetmir's Fixer (SNC) 194
+1 Park Heights Pegasus (SNC) 211
+1 Citizen's Crowbar (SNC) 8
+1 Light 'Em Up (SNC) 113
+1 Prizefight (SNC) 154
+1 Inspiring Overseer (SNC) 18
+1 Exhibition Magician (SNC) 106
+1 High-Rise Sawjack (SNC) 150
+1 Kill Shot (SNC) 19
+1 Voice of the Vermin (SNC) 163
+2 Security Rhox (SNC) 220
+1 Jetmir, Nexus of Revels (SNC) 193
+1 Capenna Express (SNC) 139
+1 Freelance Muscle (SNC) 147
+1 Rakish Revelers (SNC) 214
+1 Glittermonger (SNC) 149
+1 Luxurious Libation (SNC) 152
+
+Sideboard
+1 Boon of Safety (SNC) 4
+1 Brokers Initiate (SNC) 5
+1 Raffine's Guidance (SNC) 25
+2 Backup Agent (SNC) 2
+1 Raffine's Informant (SNC) 26
+1 Revelation of Power (SNC) 28
+1 Errant, Street Artist (SNC) 41
+1 Expendable Lackey (SNC) 43
+1 Witness Protection (SNC) 66
+2 Disdainful Stroke (SNC) 39
+2 Security Bypass (SNC) 59
+1 Obscura Initiate (SNC) 50
+3 Run Out of Town (SNC) 58
+1 Cutthroat Contender (SNC) 73
+2 Incriminate (SNC) 84
+1 Dig Up the Body (SNC) 76
+2 Murder (SNC) 88
+1 Revel Ruiner (SNC) 91
+2 Girder Goons (SNC) 80
+1 Vampire Scrivener (SNC) 98
+1 Daring Escape (SNC) 104
+1 Goldhound (SNC) 108
+1 Sticky Fingers (SNC) 124
+1 Rob the Archives (SNC) 122
+1 Pugnacious Pugilist (SNC) 117
+1 Wrecking Crew (SNC) 132
+1 Cabaretti Initiate (SNC) 137
+1 Broken Wings (SNC) 136
+2 Social Climber (SNC) 157
+1 Voice of the Vermin (SNC) 163
+2 Caldaia Strongarm (SNC) 138
+1 Exotic Pets (SNC) 185
+1 Celebrity Fencer (SNC) 7
+2 Tainted Indulgence (SNC) 227
+1 Brokers Charm (SNC) 171
+1 Nimble Larcenist (SNC) 205
+2 Shattered Seraph (SNC) 221
+1 Glamorous Outlaw (SNC) 190
+1 Arc Spitter (SNC) 233
+1 Brass Knuckles (SNC) 234
+1 Skybridge Towers (SNC) 256
+2 Tramway Station (SNC) 258
+1 Waterfront District (SNC) 259
+1 Body Dropper
+1 Caldaia Strongarm
+1 Case the Joint
+1 Corrupt Court Official
+1 Dig Up the Body
+1 Forest
+1 Forge Boss
+1 Freelance Muscle
+1 Halo Scarab
+1 High-Rise Sawjack
+1 Make Disappear
+1 Most Wanted
+1 Obscura Storefront
+1 Riveteers Decoy
+1 Void Rend
+1 Boon of Safety
+1 Botanical Plaza
+1 Celebrity Fencer
+1 Crew Captain
+1 Dapper Shieldmate
+1 Dusk Mangler
+1 Endless Detour
+1 Extract the Truth
+1 Halo Scarab
+1 Island
+1 Obscura Initiate
+1 Riveteers Overlook
+1 Rumor Gatherer
+1 Strangle
+1 Wrecking Crew

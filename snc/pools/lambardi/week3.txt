@@ -1,0 +1,102 @@
+Deck
+1 Shakedown Heavy (SNC) 95
+1 Plasma Jockey (SNC) 115
+1 Murder (SNC) 88
+1 Fake Your Own Death (SNC) 79
+2 Corrupt Court Official (SNC) 70
+1 Light 'Em Up (SNC) 113
+1 Unlucky Witness (SNC) 128
+2 Sticky Fingers (SNC) 124
+1 Riveteers Decoy (SNC) 156
+2 Torch Breath (SNC) 127
+4 Swamp (SNC) 267
+1 Tramway Station (SNC) 258
+1 Caldaia Strongarm (SNC) 138
+2 Crew Captain (SNC) 180
+2 Body Dropper (SNC) 168
+2 Racers' Ring (SNC) 253
+1 Security Rhox (SNC) 220
+5 Mountain (SNC) 269
+2 Forest (SNC) 271
+1 Riveteers Overlook (SNC) 255
+1 Cabaretti Courtyard (SNC) 249
+1 Jewel Thief (SNC) 151
+1 Fight Rigging (SNC) 145
+1 Ziatora's Envoy (SNC) 232
+1 Quick-Draw Dagger (SNC) 243
+1 Pyre-Sledge Arsonist (SNC) 118
+
+Sideboard
+1 Light 'Em Up (SNC) 113
+1 Attended Socialite (SNC) 133
+2 Waterfront District (SNC) 259
+1 Aven Heartstabber (SNC) 166
+1 Snooping Newsie (SNC) 222
+1 Obscura Storefront (SNC) 252
+1 Evelyn, the Covetous (SNC) 184
+1 Shattered Seraph (SNC) 221
+1 Hold for Ransom (SNC) 16
+2 Gathering Throng (SNC) 13
+1 Buy Your Silence (SNC) 6
+1 Speakeasy Server (SNC) 32
+2 Brokers Veteran (SNC) 36
+1 Obscura Initiate (SNC) 50
+1 Paragon of Modernity (SNC) 242
+1 Darling of the Masses (SNC) 181
+2 Sky Crier (SNC) 31
+2 Echo Inspector (SNC) 40
+2 Raffine's Guidance (SNC) 25
+1 Prizefight (SNC) 154
+1 Demon's Due (SNC) 75
+3 A Little Chat (SNC) 47
+2 Celebrity Fencer (SNC) 7
+1 Security Bypass (SNC) 59
+1 Witty Roastmaster (SNC) 131
+1 Social Climber (SNC) 157
+1 Extract the Truth (SNC) 78
+1 Raffine's Informant (SNC) 26
+1 Rakish Revelers (SNC) 214
+1 Disdainful Stroke (SNC) 39
+2 Tainted Indulgence (SNC) 227
+1 Soul of Emancipation (SNC) 223
+1 Masked Bandits (SNC) 201
+2 Rooftop Nuisance (SNC) 57
+1 Halo Scarab (SNC) 239
+1 Revel Ruiner (SNC) 91
+1 Glittering Stockpile (SNC) 107
+1 Warm Welcome (SNC) 164
+1 Voice of the Vermin (SNC) 163
+1 Graveyard Shift (SNC) 81
+1 Capenna Express (SNC) 139
+1 Revelation of Power (SNC) 28
+1 Brokers Initiate (SNC) 5
+1 Luxurious Libation (SNC) 152
+1 Antagonize
+2 Botanical Plaza
+1 Civic Gardener
+1 Crew Captain
+1 Crooked Custodian
+1 Echo Inspector
+1 Exhibition Magician
+1 Island
+1 Jinnie Fay, Jetmir's Second
+1 Patch Up
+1 Skybridge Towers
+1 Strangle
+1 Tavern Swindler
+1 Tramway Station
+1 A Little Chat
+1 Civil Servant
+1 Crooked Custodian
+1 Girder Goons
+1 Hypnotic Grifter
+1 Island
+1 Join the Maestros
+1 Knockout Blow
+1 Ledger Shredder
+1 Prizefight
+1 Rhox Pummeler
+1 Shattered Seraph
+1 Social Climber
+1 Tramway Station
+1 Vampire Scrivener
