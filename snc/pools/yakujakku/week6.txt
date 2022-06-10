@@ -1,144 +1,118 @@
+1 Brokers Initiate
+2 Citizen's Crowbar
+1 Raffine's Informant
+3 Revelation of Power
+2 Sky Crier
+1 Extraction Specialist
 1 Gathering Throng
+1 Inspiring Overseer
 3 Kill Shot
-1 Revelation of Power
-1 Sky Crier
+1 Knockout Blow
+1 Swooping Protector
+1 Buy Your Silence
 1 Speakeasy Server
-1 Brokers Veteran
-1 Case the Joint
-2 Disdainful Stroke
-2 Echo Inspector
-1 Errant, Street Artist
-1 Majestic Metamorphosis
 1 An Offer You Can't Refuse
-1 Reservoir Kraken
+1 Errant, Street Artist
+1 Expendable Lackey
+1 Slip Out the Back
+1 Witness Protection
+1 Backstreet Bruiser
+3 Brokers Veteran
+2 Disdainful Stroke
+1 Make Disappear
+2 Majestic Metamorphosis
+1 Psionic Snoop
+1 Public Enemy
 1 Rooftop Nuisance
+2 Wingshield Agent
+1 Case the Joint
+3 Echo Inspector
+1 Out of the Way
+1 Reservoir Kraken
 1 Run Out of Town
 1 Sleep with the Fishes
-1 Slip Out the Back
-2 Wingshield Agent
 1 Wiretapping
 1 Cutthroat Contender
-1 Demon's Due
-1 Dig Up the Body
 1 Extract the Truth
 2 Fake Your Own Death
-1 Girder Goons
-1 Illicit Shipment
+1 Dig Up the Body
 1 Maestros Initiate
 1 Murder
-1 Whack
-1 Big Score
-1 Call In a Professional
-1 Exhibition Magician
+1 Raffine's Silencer
+2 Demon's Due
+2 Whack
+1 Girder Goons
+1 Graveyard Shift
+1 Illicit Shipment
+1 Dusk Mangler
+2 Daring Escape
 1 Goldhound
+3 Strangle
+1 Antagonize
 1 Jackhammer
 1 Light 'Em Up
-2 Riveteers Initiate
-3 Strangle
-1 Torch Breath
-1 Witty Roastmaster
-2 Wrecking Crew
-1 Caldaia Strongarm
-1 Courier's Briefcase
-1 Fight Rigging
-1 Freelance Muscle
-1 Glittermonger
-1 Jewel Thief
-1 Most Wanted
-1 Rhox Pummeler
-3 Social Climber
-1 Cabaretti Charm
-1 Corpse Appraiser
-1 Darling of the Masses
-2 Glamorous Outlaw
-1 Incandescent Aria
-1 Maestros Charm
-2 Masked Bandits
-1 Obscura Ascendancy
-1 Obscura Charm
-1 Rakish Revelers
-1 Security Rhox
-1 Cement Shoes
-1 Chrome Cat
-1 Halo Scarab
-1 Ominous Parcel
-1 Quick-Draw Dagger
-1 Brokers Hideout
-1 Obscura Storefront
-1 Racers' Ring
-1 Tramway Station
-1 Waterfront District
-1 Botanical Plaza
-1 Brokers Veteran
-1 Cabaretti Courtyard
-1 Citizen's Crowbar
-1 Echo Inspector
-1 For the Family
-1 Gilded Pinions
-1 High-Rise Sawjack
-1 Mountain
-1 Obscura Charm
-1 Plasma Jockey
-1 Ready to Rumble
-1 Revelation of Power
-1 Structural Assault
-1 Whack
-1 Botanical Plaza
-1 Brokers Initiate
-1 Citizen's Crowbar
-1 Civic Gardener
-1 Devilish Valet
-1 Dusk Mangler
-1 Expendable Lackey
-1 Inspiring Overseer
-1 Island
-1 Maestros Theater
-1 Majestic Metamorphosis
-1 Racers' Ring
-1 Sky Crier
-1 Swooping Protector
-1 Tramway Station
-1 Attended Socialite
-1 Black Market Tycoon
-1 Brazen Upstart
-1 Broken Wings
-1 Brokers Hideout
-1 Buy Your Silence
-1 Graveyard Shift
-1 Island
-1 Jewel Thief
-1 Knockout Blow
-1 Make Disappear
-1 Psionic Snoop
-1 Ready to Rumble
-1 Revelation of Power
-1 Witness Protection
-1 Antagonize
-1 Broken Wings
-1 Cabaretti Charm
-1 Cabaretti Initiate
-1 Chrome Cat
-1 Daring Escape
-1 Extraction Specialist
-1 Nimble Larcenist
-1 Out of the Way
-1 Raffine's Informant
-1 Shattered Seraph
-1 Swamp
-2 Tramway Station
-1 Warm Welcome
-1 Backstreet Bruiser
-1 Brokers Veteran
-1 Courier's Briefcase
-1 Daring Escape
-1 Demon's Due
-1 Jetmir's Fixer
 1 Mayhem Patrol
-1 Most Wanted
-1 Plains
-1 Public Enemy
-1 Raffine's Silencer
-1 Rakish Revelers
+2 Riveteers Initiate
+1 Call In a Professional
+1 Devilish Valet
+1 Exhibition Magician
+1 Witty Roastmaster
+1 Big Score
+1 Plasma Jockey
+2 Ready to Rumble
+1 Structural Assault
+2 Wrecking Crew
+1 Torch Breath
+1 Cabaretti Initiate
+1 For the Family
+1 Attended Socialite
+1 Civic Gardener
+2 Courier's Briefcase
+2 Broken Wings
+1 Fight Rigging
+1 High-Rise Sawjack
+2 Jewel Thief
+2 Most Wanted
+3 Social Climber
+1 Warm Welcome
+1 Glittermonger
+1 Caldaia Strongarm
+1 Freelance Muscle
+1 Rhox Pummeler
 1 Snooping Newsie
+1 Black Market Tycoon
+1 Jetmir's Fixer
+1 Security Rhox
+1 Darling of the Masses
 1 Spara's Adjudicators
+1 Nimble Larcenist
+1 Obscura Ascendancy
+2 Obscura Charm
+1 Shattered Seraph
+1 Corpse Appraiser
+1 Maestros Charm
+2 Glamorous Outlaw
+2 Masked Bandits
 1 Ziatora, the Incinerator
+1 Brazen Upstart
+2 Cabaretti Charm
+1 Incandescent Aria
+2 Rakish Revelers
+1 Cement Shoes
+1 Ominous Parcel
+1 Gilded Pinions
+1 Halo Scarab
+2 Chrome Cat
+1 Quick-Draw Dagger
+2 Botanical Plaza
+2 Brokers Hideout
+1 Cabaretti Courtyard
+1 Maestros Theater
+1 Obscura Storefront
+2 Racers' Ring
+4 Tramway Station
+1 Waterfront District
+2 Island
+1 Mountain
+1 Plains
+1 Swamp

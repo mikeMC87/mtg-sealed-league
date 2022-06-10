@@ -1,147 +1,109 @@
-1 Boon of Safety (SNC) 4
-1 Backup Agent (SNC) 2
-2 Brokers Initiate (SNC) 5
-1 Giada, Font of Hope (SNC) 14
-1 Refuse to Yield (SNC) 27
-1 Revelation of Power (SNC) 28
-1 Sky Crier (SNC) 31
-1 Inspiring Overseer (SNC) 18
-1 Kill Shot (SNC) 19
-1 Rumor Gatherer (SNC) 29
-1 Ballroom Brawlers (SNC) 3
-1 Expendable Lackey (SNC) 43
-1 Hypnotic Grifter (SNC) 45
-1 Witness Protection (SNC) 66
-2 Make Disappear (SNC) 49
-2 Majestic Metamorphosis (SNC) 48
-1 Public Enemy (SNC) 55
-2 Case the Joint (SNC) 37
-1 Echo Inspector (SNC) 40
-1 Run Out of Town (SNC) 58
-1 Sleep with the Fishes (SNC) 61
-1 Undercover Operative (SNC) 63
-2 Crooked Custodian (SNC) 71
-1 Extract the Truth (SNC) 78
-1 Maestros Initiate (SNC) 86
-2 Murder (SNC) 88
-1 Rogues' Gallery (SNC) 92
-1 Deal Gone Bad (SNC) 74
-1 Demon's Due (SNC) 75
-1 Join the Maestros (SNC) 85
-1 Daring Escape (SNC) 104
-1 Sticky Fingers (SNC) 124
-1 Strangle (SNC) 125
-3 Antagonize (SNC) 100
-1 Riveteers Initiate (SNC) 120
-1 Call In a Professional (SNC) 103
-1 Exhibition Magician (SNC) 106
-1 Professional Face-Breaker (SNC) 116
-1 Pyre-Sledge Arsonist (SNC) 118
-1 Witty Roastmaster (SNC) 131
-1 Structural Assault (SNC) 126
-2 Wrecking Crew (SNC) 132
-1 Torch Breath (SNC) 127
-1 Cabaretti Initiate (SNC) 137
-2 For the Family (SNC) 146
-1 Attended Socialite (SNC) 133
-1 Civic Gardener (SNC) 140
-1 Bouncer's Beatdown (SNC) 135
-1 Broken Wings (SNC) 136
-1 High-Rise Sawjack (SNC) 150
-1 Social Climber (SNC) 157
-1 Warm Welcome (SNC) 164
-1 Elegant Entourage (SNC) 143
-1 Glittermonger (SNC) 149
-1 Caldaia Strongarm (SNC) 138
-1 Cleanup Crew (SNC) 141
-1 Rhox Pummeler (SNC) 155
-1 Celestial Regulator (SNC) 174
-1 Exotic Pets (SNC) 185
-2 Waterfront District (SNC) 259
-1 Body Dropper (SNC) 168
-1 Security Rhox (SNC) 220
-1 Civil Servant (SNC) 176
-1 Ceremonial Groundbreaker (SNC) 175
-1 Toluz, Clever Conductor (SNC) 228
-1 Queza, Augur of Agonies (SNC) 212
-1 Mr. Orfeo, the Boulder (SNC) 204
-1 Unleash the Inferno (SNC) 229
-1 Spara's Adjudicators (SNC) 224
-1 Cabaretti Courtyard (SNC) 249
-2 Quick-Draw Dagger (SNC) 243
-1 Paragon of Modernity (SNC) 242
-1 Chrome Cat
-1 Daring Escape
-1 Glittermonger
-1 Illuminator Virtuoso
-1 Kill Shot
-1 Masked Bandits
-1 Mountain
-1 Paragon of Modernity
-1 Prizefight
-1 Raffine's Informant
-1 Revel Ruiner
-1 Sleep with the Fishes
-1 Syndicate Infiltrator
-1 Unlicensed Hearse
-1 Witness Protection
-1 Antagonize
-1 Brokers Veteran
-1 Cut Your Losses
-1 Island
-1 Join the Maestros
-1 Light 'Em Up
-1 Majestic Metamorphosis
-1 Mayhem Patrol
-1 Ominous Parcel
-1 Out of the Way
-1 Ready to Rumble
-1 Revel Ruiner
-1 Social Climber
-1 Suspicious Bookcase
-1 Venom Connoisseur
-1 Angelic Observer
-1 Brazen Upstart
-1 Cement Shoes
-1 Civil Servant
-1 Getaway Car
-1 Glamorous Outlaw
-1 Glittermonger
-1 Incriminate
-1 Island
-1 Maestros Theater
-1 Make Disappear
-1 Prizefight
-1 Snooping Newsie
-1 Warm Welcome
-1 Waterfront District
-1 Echo Inspector
+1 Boon of Safety
+2 Brokers Initiate
+1 Backup Agent
+1 Giada, Font of Hope
 1 Hold for Ransom
-1 Illicit Shipment
-1 Kill Shot
-1 Light 'Em Up
-1 Maestros Initiate
-1 Nimble Larcenist
-1 Plains
-1 Pyre-Sledge Arsonist
-1 Raffine's Informant
-1 Ready to Rumble
-1 Rigo, Streetwise Mentor
-1 Riveteers Initiate
-1 Riveteers Overlook
-1 Waterfront District
-1 Case the Joint
-1 Chrome Cat
-1 Civil Servant
-1 Crooked Custodian
+1 Illuminator Virtuoso
+2 Raffine's Informant
+1 Refuse to Yield
+1 Revelation of Power
+1 Sky Crier
+2 Inspiring Overseer
+4 Kill Shot
+1 Rumor Gatherer
 1 Dapper Shieldmate
-1 Illicit Shipment
-1 Inspiring Overseer
-1 Jetmir's Fixer
-1 Kill Shot
-1 Majestic Metamorphosis
-1 Plains
-1 Prizefight
-1 Queza, Augur of Agonies
+1 Ballroom Brawlers
+1 Angelic Observer
+1 Expendable Lackey
+1 Hypnotic Grifter
+2 Witness Protection
+1 Brokers Veteran
+3 Make Disappear
+4 Majestic Metamorphosis
+1 Public Enemy
+3 Case the Joint
+2 Echo Inspector
+1 Out of the Way
+1 Run Out of Town
+2 Sleep with the Fishes
+1 Undercover Operative
+1 Cut Your Losses
+3 Crooked Custodian
+1 Extract the Truth
+1 Incriminate
 1 Tavern Swindler
 1 Tenacious Underdog
+2 Maestros Initiate
+2 Murder
+1 Rogues' Gallery
+1 Deal Gone Bad
+1 Demon's Due
+2 Revel Ruiner
+2 Illicit Shipment
+2 Join the Maestros
+2 Daring Escape
+1 Sticky Fingers
+1 Strangle
+4 Antagonize
+2 Light 'Em Up
+1 Mayhem Patrol
+2 Riveteers Initiate
+1 Call In a Professional
+1 Exhibition Magician
+1 Professional Face-Breaker
+2 Pyre-Sledge Arsonist
+1 Witty Roastmaster
+2 Ready to Rumble
+1 Structural Assault
+2 Wrecking Crew
+1 Torch Breath
+1 Cabaretti Initiate
+2 For the Family
+1 Attended Socialite
+1 Civic Gardener
+3 Prizefight
+1 Venom Connoisseur
+1 Bouncer's Beatdown
+1 Broken Wings
+1 High-Rise Sawjack
+2 Social Climber
+2 Warm Welcome
+1 Elegant Entourage
+3 Glittermonger
+1 Caldaia Strongarm
+1 Cleanup Crew
+1 Rhox Pummeler
+1 Celestial Regulator
+1 Exotic Pets
+1 Snooping Newsie
+1 Syndicate Infiltrator
+1 Body Dropper
+1 Jetmir's Fixer
+1 Security Rhox
+3 Civil Servant
+1 Ceremonial Groundbreaker
+1 Rigo, Streetwise Mentor
+1 Spara's Adjudicators
+1 Nimble Larcenist
+1 Toluz, Clever Conductor
+2 Queza, Augur of Agonies
+1 Glamorous Outlaw
+1 Mr. Orfeo, the Boulder
+1 Unleash the Inferno
+1 Masked Bandits
+1 Brazen Upstart
+1 Cement Shoes
+1 Ominous Parcel
+1 Suspicious Bookcase
+1 Unlicensed Hearse
+2 Chrome Cat
+1 Getaway Car
+2 Quick-Draw Dagger
+2 Paragon of Modernity
+1 Cabaretti Courtyard
+1 Maestros Theater
+1 Riveteers Overlook
+4 Waterfront District
+2 Island
+1 Mountain
+2 Plains
