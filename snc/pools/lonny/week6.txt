@@ -1,149 +1,117 @@
-1 Depopulate
-1 Errant, Street Artist
-1 Topiary Stomper
-1 Corpse Explosion
-1 Riveteers Ascendancy
-1 Jetmir's Garden
-1 Illuminator Virtuoso
-1 Refuse to Yield
-1 Patch Up
-1 Ballroom Brawlers
-1 Wingshield Agent
-1 Unlucky Witness
-1 Involuntary Employment
-1 Cleanup Crew
-1 Luxurious Libation
-1 Exotic Pets
-1 Security Rhox
-1 Disciplined Duelist
-1 Nimble Larcenist
-1 Maestros Charm
-1 Crew Captain
-2 Riveteers Charm
-1 Arc Spitter
-1 Boon of Safety
-1 Brokers Initiate
+2 Boon of Safety
+3 Brokers Initiate
 1 Raffine's Guidance
-1 Backup Agent
-1 Hold for Ransom
+2 Backup Agent
+1 Citizen's Crowbar
+2 Hold for Ransom
+1 Illuminator Virtuoso
+1 Raffine's Informant
+1 Refuse to Yield
 1 Revelation of Power
-1 Sky Crier
+2 Sky Crier
+1 Gathering Throng
+1 Halo Fountain
 1 Inspiring Overseer
+1 Patch Up
+1 Rumor Gatherer
 2 Celebrity Fencer
-1 Speakeasy Server
+1 Depopulate
+1 Ballroom Brawlers
+2 Speakeasy Server
+1 Errant, Street Artist
 1 Backstreet Bruiser
+1 Disdainful Stroke
 1 Security Bypass
 1 Majestic Metamorphosis
-2 Obscura Initiate
+3 Obscura Initiate
 1 Psionic Snoop
+1 Wingshield Agent
 1 Case the Joint
-1 Echo Inspector
+2 Echo Inspector
+1 Reservoir Kraken
 1 Run Out of Town
-1 Sewer Crocodile
+2 Sewer Crocodile
+1 Cutthroat Contender
 1 Corrupt Court Official
-1 Extract the Truth
-1 Incriminate
+1 Crooked Custodian
+2 Extract the Truth
+3 Incriminate
 1 Dig Up the Body
+1 Maestros Initiate
+1 Midnight Assassin
 1 Demon's Due
 1 Revel Ruiner
 1 Girder Goons
-2 Join the Maestros
+3 Join the Maestros
+1 Dusk Mangler
+1 Daring Escape
 2 Goldhound
+1 Sticky Fingers
+1 Unlucky Witness
 1 Antagonize
 1 Jackhammer
-1 Mayhem Patrol
-1 Plasma Jockey
-1 Wrecking Crew
+2 Mayhem Patrol
+1 Call In a Professional
+1 Exhibition Magician
+2 Involuntary Employment
+2 Plasma Jockey
+1 Pugnacious Pugilist
+2 Wrecking Crew
+1 Torch Breath
 1 Cabaretti Initiate
-1 Prizefight
+1 For the Family
+1 Attended Socialite
+2 Prizefight
 1 High-Rise Sawjack
 2 Most Wanted
 1 Social Climber
+1 Topiary Stomper
 1 Capenna Express
 1 Glittermonger
 2 Caldaia Strongarm
-1 Rhox Pummeler
+1 Cleanup Crew
+3 Rhox Pummeler
+1 Luxurious Libation
+1 Celestial Regulator
+1 Exotic Pets
+1 Snooping Newsie
+2 Syndicate Infiltrator
+1 Body Dropper
+1 Corpse Explosion
+1 Security Rhox
 1 Civil Servant
-2 Ominous Parcel
-1 Quick-Draw Dagger
+2 Brokers Charm
+1 Disciplined Duelist
+1 Lagrella, the Magpie
+2 Soul of Emancipation
+1 Nimble Larcenist
+1 Corpse Appraiser
+1 Maestros Charm
+1 Glamorous Outlaw
+1 Crew Captain
+1 Riveteers Ascendancy
+2 Riveteers Charm
+1 Unleash the Inferno
+1 Cabaretti Charm
+1 Rakish Revelers
+1 Arc Spitter
+4 Ominous Parcel
+1 Gilded Pinions
+1 Chrome Cat
+3 Quick-Draw Dagger
+1 Brass Knuckles
+1 Paragon of Modernity
 1 Botanical Plaza
 1 Brokers Hideout
+1 Jetmir's Garden
 2 Maestros Theater
 1 Obscura Storefront
-1 Tramway Station
-2 Waterfront District
-1 Cabaretti Charm
-1 Cutthroat Contender
-1 Daring Escape
-1 Echo Inspector
-1 Exhibition Magician
-1 For the Family
-1 Involuntary Employment
-1 Ominous Parcel
-1 Plains
-1 Plasma Jockey
-1 Racers' Ring
-1 Rakish Revelers
-1 Snooping Newsie
-1 Soul of Emancipation
-1 Syndicate Infiltrator
-1 Attended Socialite
-1 Boon of Safety
-1 Brokers Charm
-1 Celestial Regulator
-1 Citizen's Crowbar
-1 Crooked Custodian
-1 Forest
-1 Gilded Pinions
-1 Hold for Ransom
-1 Join the Maestros
-1 Lagrella, the Magpie
-1 Mayhem Patrol
+2 Racers' Ring
 1 Riveteers Overlook
-1 Speakeasy Server
-1 Unleash the Inferno
-1 Backup Agent
-1 Brokers Charm
-1 Call In a Professional
-1 Chrome Cat
-1 Disdainful Stroke
-1 Dusk Mangler
-1 Halo Fountain
-1 Incriminate
-1 Mountain
-1 Quick-Draw Dagger
-1 Racers' Ring
-1 Raffine's Informant
-1 Sewer Crocodile
 1 Skybridge Towers
-1 Tramway Station
-1 Body Dropper
-1 Brass Knuckles
-1 Brokers Initiate
-1 Extract the Truth
-1 Gathering Throng
-1 Glamorous Outlaw
-1 Incriminate
-1 Pugnacious Pugilist
-1 Quick-Draw Dagger
-1 Rhox Pummeler
-1 Sky Crier
-1 Soul of Emancipation
+2 Tramway Station
+3 Waterfront District
+1 Forest
+2 Mountain
+1 Plains
 1 Swamp
-1 Torch Breath
-1 Wrecking Crew
-1 Brokers Initiate
-1 Corpse Appraiser
-1 Maestros Initiate
-1 Midnight Assassin
-1 Mountain
-1 Obscura Initiate
-1 Ominous Parcel
-1 Paragon of Modernity
-1 Prizefight
-1 Reservoir Kraken
-1 Rhox Pummeler
-1 Rumor Gatherer
-1 Sticky Fingers
-1 Syndicate Infiltrator
-1 Waterfront District
