@@ -1,0 +1,43 @@
+Deck
+1 Botanical Plaza
+1 Brokers Hideout
+1 Jetmir's Garden
+1 Obscura Storefront
+1 Skybridge Towers
+3 Forest
+5 Island
+4 Plains
+1 Backup Agent
+1 Citizen's Crowbar
+1 Hold for Ransom
+1 Illuminator Virtuoso
+1 Raffine's Informant
+1 Halo Fountain
+1 Inspiring Overseer
+1 Majestic Metamorphosis
+1 Wingshield Agent
+1 Celestial Regulator
+1 Exotic Pets
+1 Brokers Charm
+1 Disciplined Duelist
+1 Lagrella, the Magpie
+1 Depopulate
+2 Echo Inspector
+1 Reservoir Kraken
+1 Ballroom Brawlers
+2 Caldaia Strongarm
+2 Soul of Emancipation
+
+Sideboard
+1 Backup Agent
+1 Hold for Ransom
+2 Sky Crier
+1 Rumor Gatherer
+2 Speakeasy Server
+1 Disdainful Stroke
+1 Security Bypass
+2 Obscura Initiate
+1 Psionic Snoop
+1 Sewer Crocodile
+1 Cleanup Crew
+1 Luxurious Libation

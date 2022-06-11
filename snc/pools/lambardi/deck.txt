@@ -1,0 +1,38 @@
+Deck
+2 Racers' Ring
+1 Riveteers Overlook
+3 Tramway Station
+1 Forest
+4 Mountain
+5 Swamp
+2 Sticky Fingers
+1 Strangle
+1 Unlucky Witness
+1 Corrupt Court Official
+2 Crooked Custodian
+4 Body Dropper
+1 Murder
+1 Shakedown Heavy
+1 Pyre-Sledge Arsonist
+1 Witty Roastmaster
+1 Fight Rigging
+1 Ob Nixilis, the Adversary
+1 Plasma Jockey
+1 Ziatora's Envoy
+1 Girder Goons
+1 Ziatora, the Incinerator
+2 Torch Breath
+1 Fake Your Own Death
+
+Sideboard
+2 Extract the Truth
+1 Murder
+1 Deal Gone Bad
+2 Racers' Ring
+1 Antagonize
+2 Light 'Em Up
+1 Exhibition Magician
+1 Corrupt Court Official
+2 Join the Maestros
+1 Luxurious Libation
+1 Jewel Thief

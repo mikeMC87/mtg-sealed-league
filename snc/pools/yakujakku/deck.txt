@@ -1,0 +1,44 @@
+Deck
+2 Botanical Plaza
+2 Brokers Hideout
+1 Cabaretti Courtyard
+3 Forest
+6 Island
+3 Plains
+1 Expendable Lackey
+1 Citizen's Crowbar
+1 Raffine's Informant
+1 Sky Crier
+1 Disdainful Stroke
+1 Courier's Briefcase
+1 Extraction Specialist
+1 Inspiring Overseer
+1 Kill Shot
+1 Knockout Blow
+1 Wingshield Agent
+1 Fight Rigging
+2 Jewel Thief
+1 Swooping Protector
+1 Echo Inspector
+1 Reservoir Kraken
+1 Sleep with the Fishes
+1 Darling of the Masses
+1 Wiretapping
+1 Freelance Muscle
+1 Spara's Adjudicators
+1 Rhox Pummeler
+
+Sideboard
+1 An Offer You Can't Refuse
+1 Slip Out the Back
+1 Witness Protection
+1 Brokers Veteran
+1 Disdainful Stroke
+1 Make Disappear
+1 Case the Joint
+1 Run Out of Town
+1 For the Family
+1 High-Rise Sawjack
+2 Social Climber
+1 Glittermonger
+1 Caldaia Strongarm
