@@ -1,0 +1,44 @@
+Deck
+1 Cabaretti Courtyard
+2 Maestros Theater
+1 Obscura Storefront
+1 Raffine's Tower
+2 Skybridge Towers
+1 Tramway Station
+1 Waterfront District
+1 Forest
+1 Island
+3 Mountain
+2 Plains
+2 Swamp
+1 An Offer You Can't Refuse
+2 Strangle
+1 A Little Chat
+1 Make Disappear
+3 Corrupt Court Official
+1 Inspiring Overseer
+1 Knockout Blow
+1 Rogues' Gallery
+1 Void Rend
+1 Maestros Charm
+1 Incandescent Aria
+1 Deal Gone Bad
+2 Big Score
+2 Obscura Interceptor
+1 Buy Your Silence
+1 Join the Maestros
+1 Structural Assault
+1 Arcane Bombardment
+
+Sideboard
+1 Disdainful Stroke
+1 Make Disappear
+2 Run Out of Town
+1 Corrupt Court Official
+1 Extract the Truth
+2 Torch Breath
+1 Broken Wings
+1 Tainted Indulgence
+1 Obscura Charm
+1 Riveteers Overlook
+2 Mountain

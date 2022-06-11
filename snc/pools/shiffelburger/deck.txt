@@ -1,0 +1,43 @@
+Deck
+1 Obscura Storefront
+1 Skybridge Towers
+2 Waterfront District
+5 Plains
+4 Island
+4 Swamp
+1 Boon of Safety
+1 Expendable Lackey
+1 Witness Protection
+1 Citizen's Crowbar
+1 Illuminator Virtuoso
+2 Raffine's Informant
+1 Security Bypass
+1 Backstreet Bruiser
+1 Inspiring Overseer
+2 Murder
+1 Exotic Pets
+1 Nimble Larcenist
+1 Obscura Ascendancy
+1 Toluz, Clever Conductor
+1 Void Rend
+1 Swooping Protector
+1 Echo Inspector
+1 Queza, Augur of Agonies
+2 Girder Goons
+1 Shattered Seraph
+
+Sideboard
+1 Dusk Mangler
+1 Make Disappear
+1 Revelation of Power
+1 Security Bypass
+1 Errant, Street Artist
+2 Disdainful Stroke
+1 Kill Shot
+1 Nimble Larcenist
+1 Obscura Initiate
+1 Rooftop Nuisance
+1 Revel Ruiner
+1 Shattered Seraph
+1 Corrupt Court Official
+1 Dig Up the Body

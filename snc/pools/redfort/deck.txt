@@ -1,0 +1,30 @@
+Deck
+2 Riveteers Overlook
+1 Ziatora's Proving Ground
+6 Forest
+7 Mountain
+1 Swamp
+1 Strangle
+1 Unlucky Witness
+1 Antagonize
+1 Mayhem Patrol
+1 Riveteers Initiate
+1 Gala Greeters
+2 Jetmir's Fixer
+1 Rogues' Gallery
+1 Exhibition Magician
+1 Witty Roastmaster
+1 Bouncer's Beatdown
+1 Fight Rigging
+1 Rhox Pummeler
+1 Topiary Stomper
+1 Quick-Draw Dagger
+1 Sizzling Soloist
+1 Elegant Entourage
+1 Mr. Orfeo, the Boulder
+1 Pugnacious Pugilist
+1 Freelance Muscle
+1 Cleanup Crew
+1 Masked Bandits
+
+Sideboard

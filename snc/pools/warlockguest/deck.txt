@@ -1,0 +1,30 @@
+Deck
+1 Backup Agent
+1 Giada, Font of Hope
+1 Sky Crier
+2 Inspiring Overseer
+1 Rumor Gatherer
+1 Ballroom Brawlers
+1 Tenacious Underdog
+1 Hypnotic Grifter
+2 Witness Protection
+1 Exotic Pets
+2 Sleep with the Fishes
+3 Swamp
+2 Murder
+4 Island
+6 Plains
+1 Celestial Regulator
+4 Waterfront District
+1 Toluz, Clever Conductor
+2 Queza, Augur of Agonies
+1 Undercover Operative
+1 Unlicensed Hearse
+1 Getaway Car
+
+Sideboard
+1 Crooked Custodian
+2 Kill Shot
+1 Demon's Due
+1 Illuminator Virtuoso
+1 Boon of Safety
