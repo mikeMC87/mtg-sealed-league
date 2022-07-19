@@ -1,0 +1,1718 @@
+{
+    "12343": {
+        "name": "Klement, Novice Acolyte",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51dbd7e4-51f9-4995-8cb1-78ae302cdbbb.jpg?1656630180",
+        "url_back": ""
+    },
+    "12109": {
+        "name": "Shadowheart, Sharran Cleric",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a6e81c8-7118-4c54-93b2-f1e8134446d2.jpg?1656629476",
+        "url_back": ""
+    },
+    "12007": {
+        "name": "Rally Maneuver",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bbf80b0-950c-492f-bf10-61d82118f72a.jpg?1656559360",
+        "url_back": ""
+    },
+    "12073": {
+        "name": "Rescuer Chwinga",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/4/14fd6c9e-2946-4de5-9e71-a188151bb603.jpg?1656559482",
+        "url_back": ""
+    },
+    "12265": {
+        "name": "Scouting Hawk",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/570f6894-04f6-4edd-82f4-d2c0d8bb8a43.jpg?1656559552",
+        "url_back": ""
+    },
+    "12267": {
+        "name": "Steadfast Paladin",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d41d187-ad32-4ce5-b7e9-7bfd9faff746.jpg?1656559693",
+        "url_back": ""
+    },
+    "12159": {
+        "name": "Steadfast Unicorn",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a93d9c2-2ff3-4f51-918c-577260aa08fc.jpg?1656559708",
+        "url_back": ""
+    },
+    "12068": {
+        "name": "Stick Together",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef996874-a499-46ca-875e-107a1ddca5f5.jpg?1656559727",
+        "url_back": ""
+    },
+    "12218": {
+        "name": "You Hear Something on Watch",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/a/fad0c103-f2e5-431d-a3f5-c4d41f68e3b5.jpg?1656560119",
+        "url_back": ""
+    },
+    "12374": {
+        "name": "You're Ambushed on the Road",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a6e9e51-06be-4a85-975b-794ccb22c630.jpg?1656560151",
+        "url_back": ""
+    },
+    "12297": {
+        "name": "You're Confronted by Robbers",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c1bc645-c2b7-4fc4-94e1-9c617c92fdc2.jpg?1656560166",
+        "url_back": ""
+    },
+    "12152": {
+        "name": "Air-Cult Elemental",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/5728b197-b637-49fc-b671-5b8762573caa.jpg?1656556202",
+        "url_back": ""
+    },
+    "12011": {
+        "name": "Viconia, Nightsinger's Disciple",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b965f765-35a8-471b-b9e1-d7d539b9ae1a.jpg?1656629090",
+        "url_back": ""
+    },
+    "12314": {
+        "name": "Ancient Silver Dragon",
+        "cmc": 8.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73fab3ee-db5c-49ee-a440-a81f2485122f.jpg?1656556568",
+        "url_back": ""
+    },
+    "12336": {
+        "name": "Blur",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc778175-23a7-4010-9e82-b782c593a94a.jpg?1656556861",
+        "url_back": ""
+    },
+    "12165": {
+        "name": "Charmed Sleep",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/3052b051-be90-4ac9-8411-321d0a08eb50.jpg?1656557046",
+        "url_back": ""
+    },
+    "12026": {
+        "name": "Clever Conjurer",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/775ea3c2-bcc3-4503-8c22-1b2ab09539e3.jpg?1656557117",
+        "url_back": ""
+    },
+    "12142": {
+        "name": "Contact Other Plane",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e8dd6879-5140-4923-a335-917ede5dd4a4.jpg?1656557154",
+        "url_back": ""
+    },
+    "12283": {
+        "name": "Displacer Kitten",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b1e73eb3-374a-489b-a77d-014f17031192.jpg?1656557241",
+        "url_back": ""
+    },
+    "12344": {
+        "name": "Draconic Lore",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b195c003-2a3c-4a1c-b66b-ed9722893204.jpg?1656651953",
+        "url_back": ""
+    },
+    "12119": {
+        "name": "Dragonborn Looter",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/1/1144083f-c181-49b6-b565-abf36ecc2b9d.jpg?1656557336",
+        "url_back": ""
+    },
+    "12029": {
+        "name": "Dream Fracture",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/2871a9cb-01d7-4c1a-96df-2de4b40f521a.jpg?1656651935",
+        "url_back": ""
+    },
+    "12279": {
+        "name": "Gale's Redirection",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1ab06021-8896-4c6c-9c56-9714270f8e4e.jpg?1656557606",
+        "url_back": ""
+    },
+    "12112": {
+        "name": "Ambergris, Citadel Agent",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09044a22-8b27-4402-bf58-04ad9ef898a0.jpg?1656556251",
+        "url_back": ""
+    },
+    "12079": {
+        "name": "Goggles of Night",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7c89b1d0-dd63-4e2c-a75c-b6e700189bae.jpg?1656652863",
+        "url_back": ""
+    },
+    "12130": {
+        "name": "Guild Thief",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6e467da-d428-4895-8917-30de48a8b9b0.jpg?1656557784",
+        "url_back": ""
+    },
+    "12045": {
+        "name": "Illithid Harvester",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1b6d4bb-013a-4fb0-9a7d-a9222c197d6a.jpg?1656478568",
+        "url_back": ""
+    },
+    "12252": {
+        "name": "Irenicus's Vile Duplication",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/3/038b38f0-2068-48cb-99a6-0a02e4eabae2.jpg?1656392081",
+        "url_back": ""
+    },
+    "12099": {
+        "name": "Juvenile Mist Dragon",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1779397-f67b-462b-8a87-ff8cd26261d9.jpg?1656558606",
+        "url_back": ""
+    },
+    "12300": {
+        "name": "Kenku Artificer",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8ae5a520-2c73-4fd7-9f45-19d42799baee.jpg?1656651864",
+        "url_back": ""
+    },
+    "12341": {
+        "name": "Kindred Discovery",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f208590-dc11-49e6-85ec-2feb9ef0146d.jpg?1656558674",
+        "url_back": ""
+    },
+    "12181": {
+        "name": "Lapis Orb of Dragonkind",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4ad6e6a-fecf-4fb0-b1e8-00f9f0ca5c5a.jpg?1656558823",
+        "url_back": ""
+    },
+    "12329": {
+        "name": "Pseudodragon Familiar",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdbfb127-62b5-4547-be19-987201161c51.jpg?1656559325",
+        "url_back": ""
+    },
+    "12332": {
+        "name": "Ray of Frost",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e706e127-59a7-4306-8820-3509938e0fd3.jpg?1656559434",
+        "url_back": ""
+    },
+    "12264": {
+        "name": "Gut, Fanatical Priestess",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0dcebc8-d992-4902-94bc-5623d4d78d36.jpg?1656626329",
+        "url_back": ""
+    },
+    "12137": {
+        "name": "Rimeshield Frost Giant",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54ccbadf-daa4-4066-bd18-7569c07802d4.jpg?1656559501",
+        "url_back": ""
+    },
+    "12337": {
+        "name": "Robe of the Archmagi",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/166d028a-6310-4ad3-802e-a4398302373c.jpg?1656559519",
+        "url_back": ""
+    },
+    "12219": {
+        "name": "Shocking Grasp",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/9/39a0031e-2aaa-4c06-b39a-ee2ae98d1d10.jpg?1656559581",
+        "url_back": ""
+    },
+    "12342": {
+        "name": "Soulknife Spy",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65872337-d0cb-43c5-8b7f-6529879d0af6.jpg?1656559633",
+        "url_back": ""
+    },
+    "12224": {
+        "name": "Sword Coast Serpent",
+        "cmc": 7.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/be695f79-b3d1-4269-97d4-7da515149066.jpg?1656559776",
+        "url_back": ""
+    },
+    "12192": {
+        "name": "Tymora's Invoker",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/6/168feea8-0a87-46be-afa0-5eedca011e90.jpg?1656559893",
+        "url_back": ""
+    },
+    "12359": {
+        "name": "You Come to a River",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/a/8a247116-45c4-480f-b380-da9d5e24fcc2.jpg?1656392098",
+        "url_back": ""
+    },
+    "12316": {
+        "name": "You Find the Villains' Lair",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a9175e23-8b5b-4366-bc4b-c008a2d65ab6.jpg?1656560102",
+        "url_back": ""
+    },
+    "12143": {
+        "name": "Young Blue Dragon",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dc3fbd5a-5949-4663-9e8d-76c2a27b5358.jpg?1656560188",
+        "url_back": ""
+    },
+    "12086": {
+        "name": "Altar of Bhaal",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/68d9ed46-9796-4bbd-b74e-b497aab70d5c.jpg?1656392906",
+        "url_back": ""
+    },
+    "12260": {
+        "name": "Karlach, Raging Tiefling",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8baf28ee-22d3-4bfe-84ee-ec3d2ad34179.jpg?1656629687",
+        "url_back": ""
+    },
+    "12074": {
+        "name": "Ambition's Cost",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f497bbe-8ffc-44ad-a4ea-9ebdd16df0e5.jpg?1656556472",
+        "url_back": ""
+    },
+    "12211": {
+        "name": "Ancient Brass Dragon",
+        "cmc": 7.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/952acfb9-41e1-4387-8dbd-746f52ae6395.jpg?1656392924",
+        "url_back": ""
+    },
+    "12357": {
+        "name": "Armor of Shadows",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06df9797-86d5-40ce-9efe-c18162d23118.jpg?1656556606",
+        "url_back": ""
+    },
+    "12235": {
+        "name": "Baleful Beholder",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/8/e82c5735-e3d7-43ab-afab-b3c417703e33.jpg?1656556708",
+        "url_back": ""
+    },
+    "12097": {
+        "name": "Black Dragon",
+        "cmc": 7.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af77bcd1-988d-4507-92f4-f3e9de9c8dd4.jpg?1656556795",
+        "url_back": ""
+    },
+    "12034": {
+        "name": "Black Market Connections",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96935668-b98d-45cf-9c68-a30596c47a6a.jpg?1656556812",
+        "url_back": ""
+    },
+    "12126": {
+        "name": "Blood Money",
+        "cmc": 7.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d35bc54-bf22-475d-8b2f-8e91dba2cde1.jpg?1656556844",
+        "url_back": ""
+    },
+    "12236": {
+        "name": "Bonecaller Cleric",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b97a2196-af40-4476-ae26-b979149ceba7.jpg?1656556893",
+        "url_back": ""
+    },
+    "12268": {
+        "name": "Cast Down",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6ae43fa8-b828-4938-90b6-5532e05bedb2.jpg?1656556963",
+        "url_back": ""
+    },
+    "12366": {
+        "name": "Chain Devil",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/351b64b3-5697-4b18-a0fa-334fb66c1bdb.jpg?1656557014",
+        "url_back": ""
+    },
+    "12102": {
+        "name": "Wyll, Pact-Bound Duelist",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d50ed97-3580-4808-9f91-4e2cd596552e.jpg?1656630650",
+        "url_back": ""
+    },
+    "12319": {
+        "name": "Deadly Dispute",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/08bda846-99ac-4516-9dd0-3e22e437599b.jpg?1656557192",
+        "url_back": ""
+    },
+    "12379": {
+        "name": "Demogorgon's Clutches",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/c/6c710040-5060-4eaa-b69d-c0505805e963.jpg?1656651811",
+        "url_back": ""
+    },
+    "12204": {
+        "name": "Drider",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f157946-5152-4e93-b378-854844e64a11.jpg?1656557370",
+        "url_back": ""
+    },
+    "12282": {
+        "name": "Eldritch Pact",
+        "cmc": 7.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/927bbf0a-094f-48b6-add1-3947570669c4.jpg?1656557461",
+        "url_back": ""
+    },
+    "12249": {
+        "name": "Eyes of the Beholder",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/3424e8c7-1e32-4bcb-99f8-9b73d9b636cc.jpg?1656557540",
+        "url_back": ""
+    },
+    "12069": {
+        "name": "Ghost Lantern",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fd7aa8b6-63d4-4e81-9df1-b672e703cdad.jpg?1656557621",
+        "url_back": ""
+    },
+    "12356": {
+        "name": "Gray Slaad",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e60dac4-cafa-4a8d-9185-7a64f7520c62.jpg?1656557702",
+        "url_back": ""
+    },
+    "12021": {
+        "name": "Grim Bounty",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3df2884c-cdee-4768-9191-d5bc009a9166.jpg?1656557720",
+        "url_back": ""
+    },
+    "12037": {
+        "name": "Grim Hireling",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d0233453-76b0-42e1-b168-fd5352f8163d.jpg?1656557737",
+        "url_back": ""
+    },
+    "12081": {
+        "name": "Grim Wanderer",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00989da2-ccbe-449b-b4e2-60e020e82803.jpg?1656557754",
+        "url_back": ""
+    },
+    "12008": {
+        "name": "Jaheira, Harper Emissary",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c26f4277-8807-4c15-8680-172aa3f0d984.jpg?1656625769",
+        "url_back": ""
+    },
+    "12215": {
+        "name": "Guildsworn Prowler",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6ae551e0-c2fa-4107-892b-1a4a01072929.jpg?1656557799",
+        "url_back": ""
+    },
+    "12056": {
+        "name": "Hoard Robber",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aafb10ba-5e51-438a-958b-ded0896a0acc.jpg?1656631756",
+        "url_back": ""
+    },
+    "12240": {
+        "name": "Intellect Devourer",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c02f6cb-dbcc-44c6-b13e-98fca2ce271a.jpg?1656558484",
+        "url_back": ""
+    },
+    "12355": {
+        "name": "Manticore",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9fdb0ed8-284a-40b3-96de-7ae898c07189.jpg?1656558874",
+        "url_back": ""
+    },
+    "12330": {
+        "name": "Nefarious Imp",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9891429-a4bd-45fb-9f5f-32c35026c38e.jpg?1656559076",
+        "url_back": ""
+    },
+    "12339": {
+        "name": "Pact Weapon",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2955608-8e7b-4052-b5ff-49bb7888a358.jpg?1656559140",
+        "url_back": ""
+    },
+    "12105": {
+        "name": "Shambling Ghast",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/903bb66f-9720-4e34-ae46-ce22c8afe053.jpg?1656559566",
+        "url_back": ""
+    },
+    "12032": {
+        "name": "Sigil of Myrkul",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/3076991f-a893-4265-af5d-bbd948a68ec2.jpg?1656559596",
+        "url_back": ""
+    },
+    "12195": {
+        "name": "Skullport Merchant",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/868030a6-60a8-424b-999b-ee6bd49b29e4.jpg?1656559612",
+        "url_back": ""
+    },
+    "12368": {
+        "name": "Lukamina, Moon Druid",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/acaeef14-b606-42a4-8966-636b45e01b72.jpg?1656627343",
+        "url_back": ""
+    },
+    "12354": {
+        "name": "Summon Undead",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2b450f6-ef95-4ac9-b7e8-d07f2ab09177.jpg?1656559758",
+        "url_back": ""
+    },
+    "12312": {
+        "name": "Thieves' Tools",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf96d169-df60-4390-8069-d66e7e7d0cc2.jpg?1656559811",
+        "url_back": ""
+    },
+    "12115": {
+        "name": "Vampire Spawn",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a1ac636-7a9a-43a3-8ef5-07ca2f2224b3.jpg?1656559981",
+        "url_back": ""
+    },
+    "12315": {
+        "name": "Wand of Orcus",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98756620-8f76-42f5-a83b-e9f300c7d202.jpg?1656560019",
+        "url_back": ""
+    },
+    "12233": {
+        "name": "Ancient Copper Dragon",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4c0e755-ef3d-4001-8899-1f38ec43b274.jpg?1656556535",
+        "url_back": ""
+    },
+    "12270": {
+        "name": "Battle Cry Goblin",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d6adaa2-62ac-44f3-9665-8361135ccf6a.jpg?1656556762",
+        "url_back": ""
+    },
+    "12030": {
+        "name": "Breath Weapon",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20b51219-15d2-47af-b661-3687b1a54d6f.jpg?1656652034",
+        "url_back": ""
+    },
+    "12120": {
+        "name": "Carnelian Orb of Dragonkind",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/7/d72899a5-90cf-4a34-8049-abde1ce0c094.jpg?1656651969",
+        "url_back": ""
+    },
+    "12313": {
+        "name": "Dragon's Fire",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/5/65a354dc-cd7d-4210-ad06-a0dbef27fd5f.jpg?1656557295",
+        "url_back": ""
+    },
+    "12173": {
+        "name": "Dueling Rapier",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99d01b5c-6b86-4153-8939-24503cbdb76a.jpg?1656557423",
+        "url_back": ""
+    },
+    "12116": {
+        "name": "Skanos, Dragon Vassal",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/0/60af8bda-e92f-400d-aedf-00a534184e20.jpg?1656630507",
+        "url_back": ""
+    },
+    "12052": {
+        "name": "Earth-Cult Elemental",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/24e8bc6a-7ac3-47da-9e22-aa400e8d9a92.jpg?1656557442",
+        "url_back": ""
+    },
+    "12361": {
+        "name": "Farideh's Fireball",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/affad7d3-6257-4590-b8eb-d3a815e2f670.jpg?1656395540",
+        "url_back": ""
+    },
+    "12070": {
+        "name": "Fiendlash",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/cc67eaef-1407-45c8-a3c4-306445fe40ec.jpg?1656557558",
+        "url_back": ""
+    },
+    "12371": {
+        "name": "Hobgoblin Captain",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7fd459a1-1ce6-43a0-8c23-9ff3028056b1.jpg?1656558344",
+        "url_back": ""
+    },
+    "12162": {
+        "name": "Improvised Weaponry",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a46ffc96-3344-481f-a33b-1742610e12c8.jpg?1656558448",
+        "url_back": ""
+    },
+    "12042": {
+        "name": "Jaded Sell-Sword",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba53e104-56ea-4a65-91d8-b62573aa46c8.jpg?1656558530",
+        "url_back": ""
+    },
+    "12287": {
+        "name": "Nalfeshnee",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5ca10af3-62e9-4b2b-a1a7-967e4a5321fe.jpg?1656559003",
+        "url_back": ""
+    },
+    "12188": {
+        "name": "Reckless Barbarian",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/ab59455c-21db-46aa-96c9-d4ce2c7dc012.jpg?1656559449",
+        "url_back": ""
+    },
+    "12310": {
+        "name": "Red Dragon",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6ed3c657-6b25-457b-8a6f-d953faa7200b.jpg?1656559467",
+        "url_back": ""
+    },
+    "12176": {
+        "name": "Storm King's Thunder",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/318f753c-71b9-42f9-b0a4-39ab02922e4d.jpg?1656559743",
+        "url_back": ""
+    },
+    "12346": {
+        "name": "Wilson, Bear Comrade",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/eb78e3ad-7fc1-4478-8c32-1bc7c3dbe70a.jpg?1656628754",
+        "url_back": ""
+    },
+    "12144": {
+        "name": "Swashbuckler Extraordinaire",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/81c75dbe-8666-4881-8f69-58da7504c4b1.jpg?1656560000",
+        "url_back": ""
+    },
+    "12202": {
+        "name": "Two-Handed Axe",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/3575fc0e-fa64-482f-9a45-e646c3e5e328.jpg?1656559874",
+        "url_back": ""
+    },
+    "12101": {
+        "name": "Unexpected Windfall",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05c4a0cf-79cd-4a40-a5d0-b7893f0f46e6.jpg?1656559943",
+        "url_back": ""
+    },
+    "12048": {
+        "name": "Valor Singer",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/970473fd-1160-4097-ba80-ccbcd5a223d2.jpg?1656559963",
+        "url_back": ""
+    },
+    "12288": {
+        "name": "Wrathful Red Dragon",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/1/011c2566-7b86-4000-bf84-3319dc58d715.jpg?1656560052",
+        "url_back": ""
+    },
+    "12194": {
+        "name": "You Come to the Gnoll Camp",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86a705e0-d3a8-4c13-9327-53d8c2cc7f1a.jpg?1656560068",
+        "url_back": ""
+    },
+    "12241": {
+        "name": "You Find Some Prisoners",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/d/4d0cede1-292b-4711-8b2d-9a7a9fe5f19c.jpg?1656651785",
+        "url_back": ""
+    },
+    "12091": {
+        "name": "Young Red Dragon",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0ab0c038-318c-4801-95b3-721947d08f61.jpg?1656560208",
+        "url_back": ""
+    },
+    "12095": {
+        "name": "Ambitious Dragonborn",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c00a4386-cd1c-4358-815c-53726b056e6d.jpg?1656556487",
+        "url_back": ""
+    },
+    "12024": {
+        "name": "Ancient Bronze Dragon",
+        "cmc": 7.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00c29e58-aafc-480c-9ad3-25a9b4bca8b5.jpg?1656556515",
+        "url_back": ""
+    },
+    "12277": {
+        "name": "Lae'zel, Githyanki Warrior",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6a54aff-1282-4881-b10f-c1a811a20a00.jpg?1656625498",
+        "url_back": ""
+    },
+    "12153": {
+        "name": "Boareskyr Tollkeeper",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/6165eb5d-be6f-4784-8461-b8497d9abb86.jpg?1656556878",
+        "url_back": ""
+    },
+    "12244": {
+        "name": "Band Together",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d96b9e68-78fb-4ee6-b4d5-a845df94d6ad.jpg?1656556727",
+        "url_back": ""
+    },
+    "12168": {
+        "name": "Belt of Giant Strength",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/09c38169-05f5-4a3e-896f-e5148a40a38a.jpg?1656556779",
+        "url_back": ""
+    },
+    "12340": {
+        "name": "Choose Your Weapon",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/7/87923d44-97ed-4716-9334-be5cf6a0bbbe.jpg?1656557065",
+        "url_back": ""
+    },
+    "12253": {
+        "name": "Circle of the Land Druid",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/4/94f78b51-78a3-4477-b6ab-c21e31a227b3.jpg?1656557080",
+        "url_back": ""
+    },
+    "12171": {
+        "name": "Circle of the Moon Druid",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/f/8f6dee55-dfa3-4caf-bed5-3e507249c4bb.jpg?1656557097",
+        "url_back": ""
+    },
+    "12351": {
+        "name": "Draconic Muralists",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29baacd6-265e-45b9-bec1-0cb079bcd93f.jpg?1656557278",
+        "url_back": ""
+    },
+    "12041": {
+        "name": "Dread Linnorm",
+        "cmc": 7.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce513813-c2ae-4a91-84c9-f0876a78192b.jpg?1656478387",
+        "url_back": ""
+    },
+    "12078": {
+        "name": "Druid of the Emerald Grove",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9fde5481-d9c7-42a2-a53b-efe0c45eb990.jpg?1656651894",
+        "url_back": ""
+    },
+    "12326": {
+        "name": "Druidic Ritual",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/63bc86a4-9031-474a-9a8f-e6c2f62cf2f5.jpg?1656557406",
+        "url_back": ""
+    },
+    "12226": {
+        "name": "Champions of Tyr",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19461956-6287-4ee5-9a90-96d2805fe636.jpg?1656390864",
+        "url_back": ""
+    },
+    "12015": {
+        "name": "Emerald Dragon",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/5543a456-0f2d-476f-ab10-51c535ec848c.jpg?1656397349",
+        "url_back": ""
+    },
+    "12076": {
+        "name": "Ettercap",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71928338-88d8-4c85-9f1a-a20a146ace5b.jpg?1656478418",
+        "url_back": ""
+    },
+    "12367": {
+        "name": "Gnoll Hunter",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3e9e1ab5-f31b-4796-8ce5-303196c7fcf8.jpg?1656557635",
+        "url_back": ""
+    },
+    "12110": {
+        "name": "Hill Giant Herdgorger",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/dad33820-d5ea-427c-997a-adaf1f761d80.jpg?1656558305",
+        "url_back": ""
+    },
+    "12291": {
+        "name": "Inspiring Bard",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d671cc92-7e5a-4bf6-b405-3e1e48f494a5.jpg?1656558463",
+        "url_back": ""
+    },
+    "12100": {
+        "name": "Jade Orb of Dragonkind",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a81a33cb-c099-4699-b5a8-9c188569c443.jpg?1656558516",
+        "url_back": ""
+    },
+    "12035": {
+        "name": "Lurking Roper",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/2361ba1d-c6fb-42cf-9ce9-5683a0c31bb9.jpg?1656558857",
+        "url_back": ""
+    },
+    "12320": {
+        "name": "Owlbear",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/366e69c0-a374-49fa-ab3f-e0114fd5bc93.jpg?1656559104",
+        "url_back": ""
+    },
+    "12362": {
+        "name": "Owlbear Shepherd",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/3/73f079db-1ace-4bb2-9f64-7b29039f1627.jpg?1656559123",
+        "url_back": ""
+    },
+    "12327": {
+        "name": "Flaming Fist Duskguard",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/7818f932-989a-4a29-8deb-77619c760d04.jpg?1656478502",
+        "url_back": ""
+    },
+    "12146": {
+        "name": "Poison the Blade",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5caffb75-e1af-427b-8cfa-b2db9644da28.jpg?1656559175",
+        "url_back": ""
+    },
+    "12156": {
+        "name": "Prosperous Innkeeper",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d348e4b-57f9-442c-8a9f-2ed7d123750f.jpg?1656559210",
+        "url_back": ""
+    },
+    "12189": {
+        "name": "Scaled Nurturer",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/8/0883ebd7-002b-48a4-9591-6042d9fe151f.jpg?1656559538",
+        "url_back": ""
+    },
+    "12225": {
+        "name": "Split the Spoils",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/97a5249b-14cd-416a-b84c-6854112180ef.jpg?1656559670",
+        "url_back": ""
+    },
+    "12228": {
+        "name": "Sylvan Shepherd",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1cf6b857-d402-4d7f-b2ca-80adfe10a0c3.jpg?1656559794",
+        "url_back": ""
+    },
+    "12375": {
+        "name": "Traverse the Outlands",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f112d1ad-20b4-4bdc-a4f7-01be9e16cb41.jpg?1656559842",
+        "url_back": ""
+    },
+    "12113": {
+        "name": "Undercellar Myconid",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b446141a-601c-4594-90bd-c6a1443f7a60.jpg?1656559909",
+        "url_back": ""
+    },
+    "12067": {
+        "name": "Underdark Basilisk",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/472f9839-a2e9-4939-a133-51d28b32ef40.jpg?1656559925",
+        "url_back": ""
+    },
+    "12222": {
+        "name": "Wild Shape",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c4f512e-3048-42e6-9e69-1670ae7fb2dd.jpg?1656560034",
+        "url_back": ""
+    },
+    "12246": {
+        "name": "You Meet in a Tavern",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/5/95243a6f-7402-4734-bdc4-c2060a353007.jpg?1656560135",
+        "url_back": ""
+    },
+    "12338": {
+        "name": "Mace of Disruption",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93bbb378-cbb9-4cce-a413-3a2fcc85a7be.jpg?1656390972",
+        "url_back": ""
+    },
+    "12213": {
+        "name": "Alaundo the Seer",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/3/a35114cd-94a6-4a43-ace6-de509b1ab784.jpg?1656556156",
+        "url_back": ""
+    },
+    "12186": {
+        "name": "Astarion, the Decadent",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c993df3-9ecf-471b-b27f-1204f6892dd9.jpg?1656556638",
+        "url_back": ""
+    },
+    "12239": {
+        "name": "Catti-brie of Mithral Hall",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/f/1f1f4b0c-d014-4550-b213-4b82cf637509.jpg?1656556980",
+        "url_back": ""
+    },
+    "12200": {
+        "name": "Gorion, Wise Mentor",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7aef62d5-7af3-4df5-8bd4-40442bded9d7.jpg?1656557682",
+        "url_back": ""
+    },
+    "12177": {
+        "name": "Jan Jansen, Chaos Crafter",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4ba9aeb8-2a2c-4057-9648-277dce7032ed.jpg?1656558547",
+        "url_back": ""
+    },
+    "12059": {
+        "name": "Kagha, Shadow Archdruid",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4dd1ea5-6587-44af-abe8-7651fb70f0b2.jpg?1656558622",
+        "url_back": ""
+    },
+    "12075": {
+        "name": "Kalain, Reclusive Painter",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/1/b13143d7-cdc0-4703-a1b4-d4563f03b964.jpg?1656558638",
+        "url_back": ""
+    },
+    "12136": {
+        "name": "Korlessa, Scale Singer",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/291690bd-840a-4520-9e3f-a2fd12d16a79.jpg?1656558694",
+        "url_back": ""
+    },
+    "12055": {
+        "name": "Krydle of Baldur's Gate",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd295b4a-0b9b-43d3-bc85-ee894e3eb42f.jpg?1656558718",
+        "url_back": ""
+    },
+    "12378": {
+        "name": "Moradin's Disciples",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca2b7022-4168-43c8-ba01-9ec89b249f53.jpg?1656391017",
+        "url_back": ""
+    },
+    "12163": {
+        "name": "Lozhan, Dragons' Legacy",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b0112998-d67d-4c3b-8814-079fc86a3416.jpg?1656558839",
+        "url_back": ""
+    },
+    "12036": {
+        "name": "Mazzy, Truesword Paladin",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/740ae8f7-d7bc-4280-b536-7f3b80ec00da.jpg?1656558890",
+        "url_back": ""
+    },
+    "12206": {
+        "name": "Miirym, Sentinel Wyrm",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/a/3a855c5e-f272-4597-bac5-a42ddc493140.jpg?1656558928",
+        "url_back": ""
+    },
+    "12149": {
+        "name": "Nalia de'Arnise",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/2654cf2b-d200-44f7-9b4a-21babfc35bb1.jpg?1656559022",
+        "url_back": ""
+    },
+    "12229": {
+        "name": "Neera, Wild Mage",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/47734f39-04fb-4786-8d80-a21a1830ab49.jpg?1656559059",
+        "url_back": ""
+    },
+    "12294": {
+        "name": "Oji, the Exquisite Blade",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/9/593b7480-0215-485b-90ca-e95ca0bd555d.jpg?1656559090",
+        "url_back": ""
+    },
+    "12247": {
+        "name": "Prosper, Tome-Bound",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eecb1a63-26e5-45e9-9b2f-2789d66f12f0.jpg?1656398220",
+        "url_back": ""
+    },
+    "12299": {
+        "name": "Raggadragga, Goreguts Boss",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c848e32d-4de9-4800-9365-3f6449cb3fa8.jpg?1656559340",
+        "url_back": ""
+    },
+    "12170": {
+        "name": "Raphael, Fiendish Savior",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4a82a5d8-e940-4bae-9d78-0485bd6c427e.jpg?1656559377",
+        "url_back": ""
+    },
+    "12292": {
+        "name": "Patriar's Humiliation",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bcaac85a-6ba5-4e7c-bbb6-5711afd4b5b5.jpg?1656478781",
+        "url_back": ""
+    },
+    "12082": {
+        "name": "Thrakkus the Butcher",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/279d5c9f-4bfb-472c-a418-0b981c180767.jpg?1656559826",
+        "url_back": ""
+    },
+    "12140": {
+        "name": "Trelasarra, Moon Dancer",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/3/630aa833-d4a2-4912-aee6-f28c9c486d77.jpg?1656559858",
+        "url_back": ""
+    },
+    "12103": {
+        "name": "Bag of Holding",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf83ed78-abb0-41a6-a799-798ee53dee3a.jpg?1656556671",
+        "url_back": ""
+    },
+    "12353": {
+        "name": "Basilisk Collar",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/c/dcbf66e1-2318-423b-88d6-5b366840aa57.jpg?1656556744",
+        "url_back": ""
+    },
+    "12250": {
+        "name": "Bronze Walrus",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e263d8b6-3205-4d8f-aaa4-5af9e2368999.jpg?1656651995",
+        "url_back": ""
+    },
+    "12209": {
+        "name": "Chardalyn Dragon",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/3788480d-941f-43cf-8764-4402cbb6d560.jpg?1656557030",
+        "url_back": ""
+    },
+    "12262": {
+        "name": "Cloak of the Bat",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/4/04d7fc41-fe0e-4db2-806a-aa04ac8bb2c9.jpg?1656557134",
+        "url_back": ""
+    },
+    "12017": {
+        "name": "Fraying Line",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55180b44-cb8c-40fb-95ed-9469e4c10238.jpg?1656557591",
+        "url_back": ""
+    },
+    "12180": {
+        "name": "Iron Golem",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/5/05da8f0b-0932-4e95-bfe3-26bfddbf4a0c.jpg?1656651802",
+        "url_back": ""
+    },
+    "12147": {
+        "name": "Lantern of Revealing",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/8/182f2983-abdb-4cf8-b956-01643095fe94.jpg?1656558753",
+        "url_back": ""
+    },
+    "12014": {
+        "name": "Ranger Squadron",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/afcd3f5e-34cd-4612-a8a6-1e2e4db04ba3.jpg?1656391049",
+        "url_back": ""
+    },
+    "12135": {
+        "name": "Meteor Golem",
+        "cmc": 7.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/3648a4cd-dbae-41c3-8df3-7535914dc705.jpg?1656558906",
+        "url_back": ""
+    },
+    "12328": {
+        "name": "Mirror of Life Trapping",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9bea93b-c0d4-4afb-9b5e-34d4108ff2b2.jpg?1656558968",
+        "url_back": ""
+    },
+    "12148": {
+        "name": "Navigation Orb",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/0/f0fdf879-bb69-4cce-bb50-ad4a98de5606.jpg?1656651854",
+        "url_back": ""
+    },
+    "12072": {
+        "name": "Pilgrim's Eye",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26510d9a-ddf8-4f3f-b225-8cb537df043a.jpg?1656559158",
+        "url_back": ""
+    },
+    "12039": {
+        "name": "Prophetic Prism",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07934684-c54a-4e5b-b16b-9b537b539c89.jpg?1656559190",
+        "url_back": ""
+    },
+    "12303": {
+        "name": "Spiked Pit Trap",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9aa1dfed-d250-4d0a-90ff-0d0f4bfb8ee2.jpg?1656559649",
+        "url_back": ""
+    },
+    "12263": {
+        "name": "Baldur's Gate",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64728dfb-540c-4440-be7f-e9cc09830c95.jpg?1656556691",
+        "url_back": ""
+    },
+    "12363": {
+        "name": "Seatower Imprisonment",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6fb4744e-c3f3-4d8e-9f13-356841fa6aa6.jpg?1656478845",
+        "url_back": ""
+    },
+    "12057": {
+        "name": "Soldiers of the Watch",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/2/e228fc29-fb05-46a3-83dd-5046f2cf3357.jpg?1656391078",
+        "url_back": ""
+    },
+    "12585": {
+        "name": "Plains",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e22f18c-12cc-4eb9-a6ed-01ada7d01efa.jpg?1657779341",
+        "url_back": ""
+    },
+    "12227": {
+        "name": "Sune's Intervention",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2e9034db-d167-4a5b-884c-df4ad661dc99.jpg?1656391129",
+        "url_back": ""
+    },
+    "12600": {
+        "name": "Plains",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/981c2e7b-9218-4b77-9a03-842b0d3375e9.jpg?1657779324",
+        "url_back": ""
+    },
+    "12588": {
+        "name": "Plains",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55430cb5-85d1-4e01-8d4b-d469316408f1.jpg?1657779305",
+        "url_back": ""
+    },
+    "12589": {
+        "name": "Plains",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/973b1f09-f25f-484b-92bb-4a8403fb6529.jpg?1657779356",
+        "url_back": ""
+    },
+    "12591": {
+        "name": "Island",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02a15753-0ea0-4513-9ae0-80fe013fc901.jpg?1657779723",
+        "url_back": ""
+    },
+    "12584": {
+        "name": "Island",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8ede4789-8dcd-4847-b305-8ce745db5f2a.jpg?1657779739",
+        "url_back": ""
+    },
+    "12597": {
+        "name": "Island",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/20610cb0-21f1-4b5a-b43d-d170d2f20b18.jpg?1657779756",
+        "url_back": ""
+    },
+    "12593": {
+        "name": "Island",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f1f74e82-5c4f-426a-b00c-7bef9638483e.jpg?1657779772",
+        "url_back": ""
+    },
+    "12595": {
+        "name": "Swamp",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/e/8e6f28e0-d5f5-4bad-9ae7-1a6493f80009.jpg?1657779789",
+        "url_back": ""
+    },
+    "12582": {
+        "name": "Swamp",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/067f13fa-a17b-4e36-90c2-7c1e945a9c3f.jpg?1657779804",
+        "url_back": ""
+    },
+    "12581": {
+        "name": "Swamp",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06229cb3-baa8-49c9-a0ba-74a1d86f78bf.jpg?1657779821",
+        "url_back": ""
+    },
+    "12210": {
+        "name": "Lulu, Forgetful Hollyphant",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/b/0b833fa8-515b-47fa-868e-ee854a51d384.jpg?1656629267",
+        "url_back": ""
+    },
+    "12061": {
+        "name": "Sworn to the Legion",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/d/5d8dca69-d61e-46bb-9fb5-049b497e5f39.jpg?1656605605",
+        "url_back": ""
+    },
+    "12596": {
+        "name": "Swamp",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d4c7ddf2-f34e-4803-af8f-c9a174ae703e.jpg?1657779835",
+        "url_back": ""
+    },
+    "12583": {
+        "name": "Mountain",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1c4591c4-5494-4e15-b698-ad65935d97b9.jpg?1657779867",
+        "url_back": ""
+    },
+    "12586": {
+        "name": "Mountain",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b1280e5-d1b7-4785-af20-9725357bda38.jpg?1657779886",
+        "url_back": ""
+    },
+    "12599": {
+        "name": "Mountain",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7a05734-8da7-4e6c-b151-16aab7201026.jpg?1657779909",
+        "url_back": ""
+    },
+    "12590": {
+        "name": "Mountain",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93af471c-2ca7-4583-ac10-645f8c1bc002.jpg?1657779927",
+        "url_back": ""
+    },
+    "12598": {
+        "name": "Forest",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/c/2c278588-8110-432e-a1ad-eec56463ce0b.jpg?1657779946",
+        "url_back": ""
+    },
+    "12592": {
+        "name": "Forest",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/5/252381cf-ea4f-46d6-b0fb-485b1e4a6385.jpg?1657779963",
+        "url_back": ""
+    },
+    "12587": {
+        "name": "Forest",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/52a8a98a-71c4-4670-9c8e-ea0aa57caba4.jpg?1657779980",
+        "url_back": ""
+    },
+    "12594": {
+        "name": "Forest",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/0/70e81e33-b5db-4a1e-97e3-422f5a9f21d9.jpg?1657780001",
+        "url_back": ""
+    },
+    "12158": {
+        "name": "Valiant Farewell",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/40debf14-ff15-48c4-bbfc-d8981e6f98a2.jpg?1656391261",
+        "url_back": ""
+    },
+    "12132": {
+        "name": "Vladimir and Godfrey",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b84d1c57-f7b9-4d98-a155-6c3ad7fe9b9d.jpg?1656479231",
+        "url_back": ""
+    },
+    "12271": {
+        "name": "Calim, Djinn Emperor",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/669ffaf7-8b6d-46b4-a790-1715918e6e29.jpg?1656391945",
+        "url_back": ""
+    },
+    "12064": {
+        "name": "Hypnotic Pattern",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71a4973d-3cbe-49ec-b29c-e07baa33291e.jpg?1656391982",
+        "url_back": ""
+    },
+    "12257": {
+        "name": "Lizardfolk Librarians",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/37027949-967a-4215-aa14-f6e3e6bd880c.jpg?1656392019",
+        "url_back": ""
+    },
+    "12331": {
+        "name": "Seek New Knowledge",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/6/365cebf6-6356-4496-89b2-e9edbb294f90.jpg?1656478877",
+        "url_back": ""
+    },
+    "12187": {
+        "name": "Signature Spells",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/1/8121d3a6-b354-4485-a492-6df8a1d6eb67.jpg?1656478954",
+        "url_back": ""
+    },
+    "12128": {
+        "name": "Snowborn Simulacra",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0d1a9b59-f26a-456f-8606-09cfaee2fe69.jpg?1656478993",
+        "url_back": ""
+    },
+    "12261": {
+        "name": "Thayan Evokers",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69b51576-532b-450e-a8bf-0482cac04618.jpg?1656392065",
+        "url_back": ""
+    },
+    "12127": {
+        "name": "Rasaad, Monk of Sel\u00fbne",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2bbac57a-c5ce-4221-93b8-4fa5efe7220a.jpg?1657085577",
+        "url_back": ""
+    },
+    "12296": {
+        "name": "Undersimplify",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3eaebdc1-7a20-45db-9d45-0238fc917496.jpg?1656479084",
+        "url_back": ""
+    },
+    "12217": {
+        "name": "Water Weird",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/9/d9ccb772-6145-4d1d-a619-53451dcdf83e.jpg?1656479265",
+        "url_back": ""
+    },
+    "12134": {
+        "name": "Wizened Githzerai",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef3c3e50-b6b9-430e-9c0c-64960f56b460.jpg?1656479299",
+        "url_back": ""
+    },
+    "12121": {
+        "name": "Grave Choice",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/34aff99e-a638-4e44-802b-f8a828e2061c.jpg?1656392360",
+        "url_back": ""
+    },
+    "12377": {
+        "name": "Hook Horror",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/b/ebb127b7-a11b-44b6-87d2-48819427f1ba.jpg?1656392704",
+        "url_back": ""
+    },
+    "12280": {
+        "name": "The Hourglass Coven",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/7/17857be0-5192-45b6-a893-2675cde25937.jpg?1656653526",
+        "url_back": ""
+    },
+    "12063": {
+        "name": "Mind Spike",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28e74075-8ea3-4a14-80f7-2859ea39f64f.jpg?1656392765",
+        "url_back": ""
+    },
+    "12323": {
+        "name": "Sewer Plague",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/dbfc8eb5-b7a7-4e35-be1d-6dd0d46f4666.jpg?1656478915",
+        "url_back": ""
+    },
+    "12221": {
+        "name": "Stroke of Luck",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/9/f9d4c08d-a6c6-4ece-9a37-e74eecd08eb3.jpg?1656479029",
+        "url_back": ""
+    },
+    "12047": {
+        "name": "Chaos Balor",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06484215-51e5-464e-b3bc-9a7d430611be.jpg?1656395237",
+        "url_back": ""
+    },
+    "12114": {
+        "name": "Alora, Rogue Companion",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/85746149-1119-4238-a8ca-3cc6873cf6e3.jpg?1656478006",
+        "url_back": ""
+    },
+    "12093": {
+        "name": "Craving of Yeenoghu",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/9/69157bc5-ed19-4ee7-b217-b3bf33d85b38.jpg?1656478309",
+        "url_back": ""
+    },
+    "12060": {
+        "name": "Dragonborn Immolator",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d6b11b3-d1fc-44f4-864f-1972c243f88c.jpg?1656478362",
+        "url_back": ""
+    },
+    "12334": {
+        "name": "Flames of Moradin",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f0a2b80-5988-4298-b393-bd96726be00f.jpg?1656478462",
+        "url_back": ""
+    },
+    "12023": {
+        "name": "Genasi Rabble-Rouser",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/67121610-cf44-404b-a367-6dd36b8c7f7d.jpg?1656395273",
+        "url_back": ""
+    },
+    "12285": {
+        "name": "Giant Fire Beetles",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/d/fdf75d9d-b8eb-4a10-8d83-c60c0d595236.jpg?1656395310",
+        "url_back": ""
+    },
+    "12245": {
+        "name": "Gnoll Hunting Party",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/4/2467fb90-f812-47f7-a3cb-a215aa39c133.jpg?1656395357",
+        "url_back": ""
+    },
+    "12166": {
+        "name": "Goblin Trapfinder",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/8967f552-f74a-4a13-bbd9-f7b5ddfe9fe4.jpg?1656557651",
+        "url_back": ""
+    },
+    "12348": {
+        "name": "Incessant Provocation",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca633f0a-1dad-45b6-bc2a-17e7f80f2903.jpg?1656478597",
+        "url_back": ""
+    },
+    "12184": {
+        "name": "Kardum, Patron of Flames",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89c0227a-df80-47d1-9400-5f1fb6b71a00.jpg?1656478636",
+        "url_back": ""
+    },
+    "12040": {
+        "name": "Kobold Warcaller",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/0665034a-5ed5-4393-b4c2-664c50bbb0af.jpg?1656478686",
+        "url_back": ""
+    },
+    "12205": {
+        "name": "Gale, Conduit of the Arcane",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/476144ef-fda4-4b93-b4ed-5acee54a1b65.jpg?1656631750",
+        "url_back": ""
+    },
+    "12318": {
+        "name": "Mephit's Enthusiasm",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/93ac299b-ded0-4648-af3a-3e19c3aeec53.jpg?1656478736",
+        "url_back": ""
+    },
+    "12295": {
+        "name": "Tiefling Outcasts",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cd31c99f-3187-422c-b43a-6f54f5b3c312.jpg?1656514947",
+        "url_back": ""
+    },
+    "12281": {
+        "name": "Unexpected Allies",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/6/c658b34b-4d3d-4495-92a6-b8e8cca0abcd.jpg?1656395504",
+        "url_back": ""
+    },
+    "12266": {
+        "name": "Uthgardt Fury",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f27c0b84-6446-43eb-8705-def24ea5996b.jpg?1656868800",
+        "url_back": ""
+    },
+    "12174": {
+        "name": "Warriors of Tiamat",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d2665dd5-2281-43ee-9db4-95e58ed6d6f1.jpg?1656514955",
+        "url_back": ""
+    },
+    "12080": {
+        "name": "Arcane Archery",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/f/4fd5bcdf-cb78-4fb7-a1b6-c6f577262450.jpg?1656395798",
+        "url_back": ""
+    },
+    "12111": {
+        "name": "Favored Enemy",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/26c521b3-d002-4987-815c-4113d52dce03.jpg?1656395903",
+        "url_back": ""
+    },
+    "12098": {
+        "name": "Follow the Tracks",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/4/f4558a6a-66de-4bee-8e42-86b34fbc6bbb.jpg?1656829066",
+        "url_back": ""
+    },
+    "12321": {
+        "name": "Oyaminartok, Polar Werebear",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/2/a2b767ec-3e0f-473b-b81d-e3f912c464e0.jpg?1656829210",
+        "url_back": ""
+    },
+    "12322": {
+        "name": "Verdant Rejuvenation",
+        "cmc": 8.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/9/19a398cc-da71-4977-811d-399ee490658f.jpg?1656479166",
+        "url_back": ""
+    },
+    "12020": {
+        "name": "Imoen, Trickster Friend",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/8/6835928a-4483-4324-8cae-a5b477649453.jpg?1656626982",
+        "url_back": ""
+    },
+    "12317": {
+        "name": "You Line Up the Shot",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d6fc254-dfdc-425c-9795-ef4e10459b70.jpg?1656397313",
+        "url_back": ""
+    },
+    "12203": {
+        "name": "Yuan-Ti Scaleshield",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c357ee5b-8c9f-40cb-abc2-a95a34380eee.jpg?1656479333",
+        "url_back": ""
+    },
+    "12022": {
+        "name": "Jon Irenicus, the Exile",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/3/8360840b-3edc-4d44-b604-61ae8c99e885.jpg?1656652051",
+        "url_back": ""
+    },
+    "12345": {
+        "name": "Liara of the Flaming Fist",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/98209130-a72f-4946-a1d4-3a437cd9a0b2.jpg?1656397704",
+        "url_back": ""
+    },
+    "12018": {
+        "name": "Minthara of the Absolute",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d3cc82d-06e8-4c0e-bc01-babbf3f9f844.jpg?1656397906",
+        "url_back": ""
+    },
+    "12254": {
+        "name": "Tasha, Unholy Archmage",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa61e5c9-17da-4e75-9a69-a6d520d32646.jpg?1656398201",
+        "url_back": ""
+    },
+    "12013": {
+        "name": "Ulder Ravengard, Marshal",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c379cb69-a57e-4450-a93a-32e1105f330a.jpg?1656398109",
+        "url_back": ""
+    },
+    "12278": {
+        "name": "Gate of the Black Dragon",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/90183d4d-c231-4e45-b1fc-2699b33a3733.jpg?1656398631",
+        "url_back": ""
+    },
+    "12031": {
+        "name": "Gate to Manorborn",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a902d474-0d02-449e-ab6c-8c2f32c99384.jpg?1656398646",
+        "url_back": ""
+    },
+    "12324": {
+        "name": "Gate to Seatower",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86382685-e54c-4152-a500-2148a2d6b5a4.jpg?1656398667",
+        "url_back": ""
+    },
+    "12311": {
+        "name": "Vhal, Eager Scholar",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9ff0f80c-97fc-44e5-ae78-71ba0720550c.jpg?1656626635",
+        "url_back": ""
+    },
+    "12198": {
+        "name": "Gate to the Citadel",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/8/985d1b57-42e0-41a2-a9c6-2f5427c0c1c9.jpg?1656398682",
+        "url_back": ""
+    },
+    "12364": {
+        "name": "Gate to Tumbledown",
+        "cmc": 0.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/8/f8532b98-b69e-4d43-9ec8-0587572a0dff.jpg?1656398700",
+        "url_back": ""
+    },
+    "12325": {
+        "name": "Ancient Gold Dragon",
+        "cmc": 7.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/778f75c4-86c4-40f4-a486-8ca340a07c1b.jpg?1656556552",
+        "url_back": ""
+    },
+    "12230": {
+        "name": "Archivist of Oghma",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/c/3c9a86b4-0bb3-4b87-8240-b6937ad8be27.jpg?1656556586",
+        "url_back": ""
+    },
+    "12088": {
+        "name": "Ascend from Avernus",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/e/6e1c2553-25b5-40a6-ad21-e725651bd0e8.jpg?1656556622",
+        "url_back": ""
+    },
+    "12066": {
+        "name": "Blessed Hippogriff",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/724c00b7-14da-4a42-8684-c1b02bbf44c6.jpg?1656556828",
+        "url_back": ""
+    },
+    "12123": {
+        "name": "Celestial Unicorn",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/a/5a3e1967-5125-4f1c-8d35-1920e6539788.jpg?1656556999",
+        "url_back": ""
+    },
+    "12051": {
+        "name": "Dawnbringer Cleric",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/5/155373aa-cd5f-4a24-ba8e-b7e4e455b6bd.jpg?1656557174",
+        "url_back": ""
+    },
+    "12167": {
+        "name": "Devoted Paladin",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0406a9a-c638-443d-94c6-b9270758ae59.jpg?1656557223",
+        "url_back": ""
+    },
+    "12237": {
+        "name": "Flaming Fist Officer",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e4e9eeb4-5ae6-46d2-8d5c-adbfce499ccf.jpg?1656557574",
+        "url_back": ""
+    },
+    "12259": {
+        "name": "Sarevok the Usurper",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/4/c41156c8-ddd1-4492-ab0f-02c4a7423181.jpg?1656626046",
+        "url_back": ""
+    },
+    "12178": {
+        "name": "Guardian Naga",
+        "cmc": 7.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cbfec87c-64ff-40da-b0c7-3fb69060ff2f.jpg?1656478533",
+        "url_back": ""
+    },
+    "12284": {
+        "name": "Guiding Bolt",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/9/0985700e-0ed3-45f2-8111-fd1aa32da223.jpg?1656651874",
+        "url_back": ""
+    },
+    "12154": {
+        "name": "Horn of Valhalla",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/6/56527495-c4c3-424c-92c4-d5d2d431dff1.jpg?1656558371",
+        "url_back": ""
+    },
+    "12302": {
+        "name": "Icewind Stalwart",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/9/79c9178f-248d-4ee6-a999-89dc775116c1.jpg?1656558392",
+        "url_back": ""
+    },
+    "12373": {
+        "name": "Lae'zel's Acrobatics",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/c/0c46db4a-f28b-4ac5-b639-e2ca5083ad2d.jpg?1656558734",
+        "url_back": ""
+    },
+    "12255": {
+        "name": "Minimus Containment",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/4/a4585966-8080-4986-90fe-b78937d70514.jpg?1656558951",
+        "url_back": ""
+    },
+    "12131": {
+        "name": "Monk of the Open Hand",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/319cae66-2c3a-450c-b38b-2e9161ee3809.jpg?1656558984",
+        "url_back": ""
+    },
+    "12248": {
+        "name": "Pegasus Guardian",
+        "cmc": 6.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/c/fc234414-78fe-490b-92d5-25feb0507a43.jpg?1656391278",
+        "url_back": ""
+    },
+    "12033": {
+        "name": "Portable Hole",
+        "cmc": 1.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/b/cb6973c7-5234-4f4b-89b3-7d220a6dddc9.jpg?1656391295",
+        "url_back": ""
+    },
+    "12050": {
+        "name": "Priest of Ancient Lore",
+        "cmc": 3.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/7/6770fef7-2840-46d8-85ad-455424f6b156.jpg?1656651843",
+        "url_back": ""
+    },
+    "12232": {
+        "name": "A-Sepulcher Ghoul",
+        "cmc": 2.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/bada6831-55b9-499e-afb5-9d0232aece13.jpg?1657241057",
+        "url_back": ""
+    },
+    "12054": {
+        "name": "A-Earthquake Dragon",
+        "cmc": 15.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a5cbda07-53a0-4526-9955-36f902073cf1.jpg?1657240718",
+        "url_back": ""
+    },
+    "12243": {
+        "name": "A-Monster Manual",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8f4c17f-c3c0-4d1c-88e1-40e96c289bcd.jpg?1657241000",
+        "url_back": ""
+    },
+    "12380": {
+        "name": "A-Baba Lysaga, Night Witch",
+        "cmc": 4.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3ffce8af-df0c-413e-b697-3e91347364d6.jpg?1657240965",
+        "url_back": ""
+    },
+    "12307": {
+        "name": "A-Minsc & Boo, Timeless Heroes",
+        "cmc": 5.0,
+        "image_url": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2e28dd8-77f0-40b1-ad03-0d5671d41f0e.jpg?1657241027",
+        "url_back": ""
+    }
+}
