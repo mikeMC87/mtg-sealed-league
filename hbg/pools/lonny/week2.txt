@@ -1,0 +1,86 @@
+1 Blur
+1 Charmed Sleep
+2 Clever Conjurer
+1 Soulknife Spy
+1 Irenicus's Vile Duplication
+1 Water Weird
+1 Juvenile Mist Dragon
+1 Air-Cult Elemental
+1 Armor of Shadows
+1 Shambling Ghast
+1 A-Sepulcher Ghoul
+1 Deadly Dispute
+2 Hoard Robber
+1 Grave Choice
+1 Gray Slaad
+1 Sigil of Myrkul
+1 Ambition's Cost
+2 Chain Devil
+2 Manticore
+1 Sarevok the Usurper
+1 Hook Horror
+1 Baleful Beholder
+1 Eyes of the Beholder
+1 The Hourglass Coven
+1 Black Dragon
+1 Patriar's Humiliation
+1 Hypnotic Pattern
+2 Dueling Rapier
+1 Kobold Warcaller
+1 Battle Cry Goblin
+1 Dragon's Fire
+1 Genasi Rabble-Rouser
+3 Giant Fire Beetles
+1 Earth-Cult Elemental
+1 Archivist of Oghma
+1 Boareskyr Tollkeeper
+1 Flaming Fist Duskguard
+2 Mace of Disruption
+1 Rescuer Chwinga
+1 Soldiers of the Watch
+2 Steadfast Paladin
+1 You Hear Something on Watch
+1 Imoen, Trickster Friend
+1 Tymora's Invoker
+1 You Come to a River
+2 You Line Up the Shot
+2 Circle of the Land Druid
+1 Poison the Blade
+1 Underdark Basilisk
+1 Wilson, Bear Comrade
+1 Arcane Archery
+1 Band Together
+1 Circle of the Moon Druid
+1 Ambitious Dragonborn
+1 You Meet in a Tavern
+1 Owlbear
+1 Emerald Dragon
+1 Lulu, Forgetful Hollyphant
+1 Rally Maneuver
+1 Kalain, Reclusive Painter
+1 Trelasarra, Moon Dancer
+1 Kagha, Shadow Archdruid
+1 Miirym, Sentinel Wyrm
+1 Blessed Hippogriff
+1 Icewind Stalwart
+2 Cloak of the Bat
+1 Prophetic Prism
+1 Pilgrim's Eye
+1 Devoted Paladin
+1 Pegasus Guardian
+1 Guardian Naga
+1 Ascend from Avernus
+1 Stroke of Luck
+1 Drider
+1 Battle Cry Goblin
+1 Gate of the Black Dragon
+1 Celestial Unicorn
+1 Improvised Weaponry
+1 Nefarious Imp
+1 Warriors of Tiamat
+1 Tymora's Invoker
+1 Icewind Stalwart
+1 Follow the Tracks
+1 Steadfast Unicorn
+1 A-Sepulcher Ghoul
+1 You're Ambushed on the Road
