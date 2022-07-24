@@ -1,14 +1,14 @@
-1 Thayan Evokers
-1 Mephit's Enthusiasm
-1 Chardalyn Dragon
-1 Pegasus Guardian
-1 Farideh's Fireball
-1 Eyes of the Beholder
-1 Pseudodragon Familiar
-1 Baleful Beholder
-1 Lantern of Revealing
-1 Gnoll Hunter
+1 Fraying Line
+1 Gate of the Black Dragon
+1 Seek New Knowledge
+1 Dream Fracture
+1 Demogorgon's Clutches
 1 Grim Bounty
-1 Guardian Naga
-1 Minimus Containment
-1 Vampire Spawn
+1 Circle of the Moon Druid
+1 Charmed Sleep
+1 Priest of Ancient Lore
+1 Water Weird
+1 Shambling Ghast
+1 You Come to a River
+1 Incessant Provocation
+1 Manticore

@@ -1,14 +1,14 @@
-1 Fraying Line
-1 Alora, Rogue Companion
-1 Viconia, Nightsinger's Disciple
-1 Kalain, Reclusive Painter
+1 Jan Jansen, Chaos Crafter
+1 Vhal, Eager Scholar
+1 Jade Orb of Dragonkind
+1 Mephit's Enthusiasm
+1 Dueling Rapier
+1 Patriar's Humiliation
+1 Charmed Sleep
+1 Unexpected Allies
+1 Poison the Blade
 1 Hoard Robber
-1 Shambling Ghast
-1 Lizardfolk Librarians
-1 Underdark Basilisk
-1 Sewer Plague
-1 Follow the Tracks
-1 Dragon's Fire
 1 Steadfast Unicorn
-1 Genasi Rabble-Rouser
-1 Gnoll Hunter
+1 Manticore
+1 Wizened Githzerai
+1 Flaming Fist Officer
