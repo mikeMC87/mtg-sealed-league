@@ -1,14 +1,14 @@
-1 Illithid Harvester
-1 Druid of the Emerald Grove
-1 Dragonborn Immolator
-1 Irenicus's Vile Duplication
-1 Tymora's Invoker
-1 Hoard Robber
-1 You Find the Villains' Lair
-1 Demogorgon's Clutches
-1 Manticore
+1 Karlach, Raging Tiefling
+1 Vhal, Eager Scholar
+1 Lulu, Forgetful Hollyphant
+1 Sarevok the Usurper
+1 Hobgoblin Captain
+1 Sylvan Shepherd
+1 Ettercap
+1 Scaled Nurturer
+1 Pseudodragon Familiar
 1 Dueling Rapier
-1 Guardian Naga
-1 You Line Up the Shot
-1 You Hear Something on Watch
-1 Hill Giant Herdgorger
+1 Nefarious Imp
+1 Gray Slaad
+1 Soldiers of the Watch
+1 Young Blue Dragon
