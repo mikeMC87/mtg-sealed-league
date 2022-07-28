@@ -79,3 +79,17 @@
 1 You Come to the Gnoll Camp
 1 Arcane Archery
 1 Hoard Robber
+1 Wrathful Red Dragon
+1 Kagha, Shadow Archdruid
+1 Gate to Seatower
+1 Draconic Lore
+1 Patriar's Humiliation
+1 Nefarious Imp
+1 Manticore
+1 Gray Slaad
+1 Spiked Pit Trap
+1 You Find Some Prisoners
+1 You Hear Something on Watch
+1 You Come to a River
+1 Underdark Basilisk
+1 Arcane Archery
