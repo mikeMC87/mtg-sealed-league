@@ -1,14 +1,14 @@
-1 Displacer Kitten
-1 Lapis Orb of Dragonkind
-1 Gate to Seatower
-1 Mind Spike
-1 Baleful Beholder
-1 Minimus Containment
-1 Giant Fire Beetles
+1 Eldritch Pact
+1 Monk of the Open Hand
+1 Moradin's Disciples
+1 Seek New Knowledge
+1 Genasi Rabble-Rouser
+1 Owlbear
+1 Cloak of the Bat
+1 Improvised Weaponry
+1 Demogorgon's Clutches
+1 Spiked Pit Trap
+1 Flaming Fist Officer
+1 Prophetic Prism
+1 Follow the Tracks
 1 Undersimplify
-1 Circle of the Moon Druid
-1 Jaded Sell-Sword
-1 Flaming Fist Duskguard
-1 A-Sepulcher Ghoul
-1 Farideh's Fireball
-1 Sylvan Shepherd

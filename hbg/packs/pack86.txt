@@ -1,14 +1,14 @@
-1 Tiefling Outcasts
-1 Grave Choice
-1 Druid of the Emerald Grove
-1 Grim Wanderer
-1 Air-Cult Elemental
-1 Druidic Ritual
-1 Celestial Unicorn
-1 Dread Linnorm
-1 Warriors of Tiamat
-1 Unexpected Allies
-1 Scaled Nurturer
-1 Clever Conjurer
+1 Gorion, Wise Mentor
+1 Pegasus Guardian
+1 Alora, Rogue Companion
+1 Portable Hole
+1 Minimus Containment
+1 Devoted Paladin
 1 Gray Slaad
-1 Charmed Sleep
+1 Steadfast Unicorn
+1 Reckless Barbarian
+1 Soulknife Spy
+1 Follow the Tracks
+1 Nefarious Imp
+1 Iron Golem
+1 You Come to a River

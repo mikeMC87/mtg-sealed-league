@@ -1,14 +1,14 @@
-1 Ancient Gold Dragon
-1 Two-Handed Axe
-1 Cast Down
-1 Carnelian Orb of Dragonkind
-1 Baleful Beholder
-1 Armor of Shadows
-1 Devoted Paladin
+1 Gorion, Wise Mentor
+1 Bag of Holding
+1 Liara of the Flaming Fist
+1 Druid of the Emerald Grove
+1 Summon Undead
+1 Chain Devil
+1 Iron Golem
+1 Inspiring Bard
+1 Improvised Weaponry
+1 Tymora's Invoker
+1 Steadfast Unicorn
+1 Deadly Dispute
+1 Dread Linnorm
 1 Circle of the Moon Druid
-1 Grim Bounty
-1 Shambling Ghast
-1 Hobgoblin Captain
-1 Air-Cult Elemental
-1 Gray Slaad
-1 Valiant Farewell

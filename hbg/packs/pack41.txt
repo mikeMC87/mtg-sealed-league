@@ -1,14 +1,14 @@
-1 Fraying Line
-1 Grave Choice
-1 Guild Thief
-1 Vhal, Eager Scholar
-1 Ranger Squadron
-1 Hook Horror
-1 Owlbear
-1 Guardian Naga
-1 Dragonborn Looter
-1 Thieves' Tools
-1 Pilgrim's Eye
-1 Inspiring Bard
+1 Gale's Redirection
+1 Breath Weapon
+1 Alora, Rogue Companion
+1 Oji, the Exquisite Blade
 1 Blessed Hippogriff
-1 Unexpected Windfall
+1 Shocking Grasp
+1 Owlbear
+1 Underdark Basilisk
+1 Manticore
+1 Genasi Rabble-Rouser
+1 Poison the Blade
+1 Ettercap
+1 Blur
+1 Lizardfolk Librarians

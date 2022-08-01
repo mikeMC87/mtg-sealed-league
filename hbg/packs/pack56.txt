@@ -1,14 +1,14 @@
-1 Gorion, Wise Mentor
-1 Bag of Holding
-1 Liara of the Flaming Fist
-1 Druid of the Emerald Grove
-1 Summon Undead
-1 Chain Devil
-1 Iron Golem
-1 Inspiring Bard
-1 Improvised Weaponry
+1 Gale's Redirection
+1 Irenicus's Vile Duplication
+1 Bronze Walrus
+1 Moradin's Disciples
+1 Water Weird
+1 Hypnotic Pattern
+1 Young Red Dragon
+1 You're Ambushed on the Road
 1 Tymora's Invoker
-1 Steadfast Unicorn
-1 Deadly Dispute
-1 Dread Linnorm
-1 Circle of the Moon Druid
+1 You Come to the Gnoll Camp
+1 Sewer Plague
+1 Guardian Naga
+1 Hill Giant Herdgorger
+1 Rimeshield Frost Giant
