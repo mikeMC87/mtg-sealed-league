@@ -1,14 +1,14 @@
-1 Thayan Evokers
-1 Lulu, Forgetful Hollyphant
-1 Seek New Knowledge
-1 Druid of the Emerald Grove
-1 Air-Cult Elemental
-1 Guildsworn Prowler
-1 Soulknife Spy
-1 Clever Conjurer
-1 Band Together
-1 Sylvan Shepherd
-1 Reckless Barbarian
-1 Eyes of the Beholder
-1 Arcane Archery
+1 Snowborn Simulacra
+1 Lurking Roper
+1 Portable Hole
+1 Minthara of the Absolute
+1 Priest of Ancient Lore
 1 Ranger Squadron
+1 Icewind Stalwart
+1 Arcane Archery
+1 Sewer Plague
+1 Ettercap
+1 Air-Cult Elemental
+1 Farideh's Fireball
+1 Charmed Sleep
+1 Armor of Shadows

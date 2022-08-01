@@ -1,14 +1,14 @@
-1 Fraying Line
-1 Draconic Lore
-1 Owlbear Shepherd
-1 Druid of the Emerald Grove
-1 Devoted Paladin
-1 Dueling Rapier
-1 Clever Conjurer
-1 Gnoll Hunter
-1 Shambling Ghast
-1 Contact Other Plane
+1 Robe of the Archmagi
+1 Lozhan, Dragons' Legacy
+1 Grave Choice
+1 Prosperous Innkeeper
+1 Hook Horror
+1 Ambitious Dragonborn
+1 Icewind Stalwart
+1 Prophetic Prism
+1 Giant Fire Beetles
+1 Underdark Basilisk
 1 Band Together
-1 Dread Linnorm
-1 Pseudodragon Familiar
-1 You Hear Something on Watch
+1 Earth-Cult Elemental
+1 Clever Conjurer
+1 You Find Some Prisoners

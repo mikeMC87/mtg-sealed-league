@@ -1,14 +1,14 @@
-1 Gale, Conduit of the Arcane
-1 Drider
-1 Gate of the Black Dragon
-1 Lurking Roper
-1 Valor Singer
-1 Dragonborn Looter
-1 Farideh's Fireball
+1 Shadowheart, Sharran Cleric
+1 Gate to Manorborn
+1 Choose Your Weapon
+1 You're Confronted by Robbers
+1 Hypnotic Pattern
+1 Clever Conjurer
+1 Cloak of the Bat
+1 Hill Giant Herdgorger
+1 Young Red Dragon
 1 Icewind Stalwart
-1 Spiked Pit Trap
-1 Hoard Robber
-1 Guildsworn Prowler
-1 Gray Slaad
-1 Lizardfolk Librarians
-1 Sylvan Shepherd
+1 Dueling Rapier
+1 Underdark Basilisk
+1 A-Sepulcher Ghoul
+1 Pilgrim's Eye

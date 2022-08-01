@@ -1,14 +1,14 @@
-1 Calim, Djinn Emperor
-1 Ghost Lantern
-1 Choose Your Weapon
-1 Trelasarra, Moon Dancer
-1 Valiant Farewell
-1 Valor Singer
-1 Manticore
+1 Ancient Bronze Dragon
+1 Ambergris, Citadel Agent
+1 Guiding Bolt
+1 Alora, Rogue Companion
+1 Dawnbringer Cleric
+1 Lizardfolk Librarians
+1 You're Ambushed on the Road
+1 You Find Some Prisoners
 1 Nefarious Imp
-1 Shocking Grasp
-1 Patriar's Humiliation
-1 Hobgoblin Captain
-1 Giant Fire Beetles
-1 Hill Giant Herdgorger
-1 Undersimplify
+1 Pseudodragon Familiar
+1 Thieves' Tools
+1 Shambling Ghast
+1 Baleful Beholder
+1 You Line Up the Shot

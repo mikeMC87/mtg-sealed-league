@@ -1,14 +1,14 @@
-1 Baldur's Gate
-1 Rasaad, Monk of Selûne
-1 Gate to Seatower
-1 Wild Shape
-1 Ranger Squadron
-1 A-Sepulcher Ghoul
-1 Thieves' Tools
-1 Young Blue Dragon
-1 Sewer Plague
-1 Unexpected Windfall
-1 Poison the Blade
-1 Genasi Rabble-Rouser
-1 Sylvan Shepherd
-1 Young Red Dragon
+1 Ancient Gold Dragon
+1 Two-Handed Axe
+1 Cast Down
+1 Carnelian Orb of Dragonkind
+1 Baleful Beholder
+1 Armor of Shadows
+1 Devoted Paladin
+1 Circle of the Moon Druid
+1 Grim Bounty
+1 Shambling Ghast
+1 Hobgoblin Captain
+1 Air-Cult Elemental
+1 Gray Slaad
+1 Valiant Farewell
