@@ -1,14 +1,14 @@
-1 Klement, Novice Acolyte
-1 Mephit's Enthusiasm
-1 Gate to the Citadel
-1 Gate of the Black Dragon
-1 You Find Some Prisoners
-1 Clever Conjurer
+1 Nalfeshnee
+1 Lulu, Forgetful Hollyphant
+1 Skullport Merchant
+1 Goggles of Night
+1 Druidic Ritual
+1 Improvised Weaponry
+1 Eyes of the Beholder
+1 Soldiers of the Watch
+1 Hypnotic Pattern
+1 Demogorgon's Clutches
 1 Blur
-1 Underdark Basilisk
-1 Scaled Nurturer
-1 Flaming Fist Duskguard
-1 Owlbear
-1 A-Sepulcher Ghoul
-1 Guildsworn Prowler
-1 Jaded Sell-Sword
+1 Air-Cult Elemental
+1 Inspiring Bard
+1 Ambitious Dragonborn

@@ -1,14 +1,14 @@
-1 Snowborn Simulacra
-1 Lurking Roper
-1 Portable Hole
-1 Minthara of the Absolute
-1 Priest of Ancient Lore
-1 Ranger Squadron
+1 Stroke of Luck
+1 Scouting Hawk
+1 Gut, Fanatical Priestess
+1 Alora, Rogue Companion
+1 Devoted Paladin
 1 Icewind Stalwart
-1 Arcane Archery
-1 Sewer Plague
-1 Ettercap
+1 Hill Giant Herdgorger
+1 Dragon's Fire
+1 Jaded Sell-Sword
+1 Blessed Hippogriff
 1 Air-Cult Elemental
-1 Farideh's Fireball
-1 Charmed Sleep
-1 Armor of Shadows
+1 Mace of Disruption
+1 Nefarious Imp
+1 Unexpected Allies

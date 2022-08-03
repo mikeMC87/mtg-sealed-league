@@ -1,14 +1,14 @@
-1 The Hourglass Coven
-1 Emerald Dragon
-1 Krydle of Baldur's Gate
-1 Draconic Lore
-1 Deadly Dispute
-1 Prophetic Prism
-1 Improvised Weaponry
-1 Chain Devil
-1 Nefarious Imp
-1 Spiked Pit Trap
-1 Ambitious Dragonborn
-1 Baleful Beholder
-1 Hypnotic Pattern
-1 A-Sepulcher Ghoul
+1 Fraying Line
+1 Draconic Muralists
+1 Gate to Manorborn
+1 Choose Your Weapon
+1 Dawnbringer Cleric
+1 You Come to a River
+1 Warriors of Tiamat
+1 Pilgrim's Eye
+1 You Find Some Prisoners
+1 Sewer Plague
+1 Scaled Nurturer
+1 You Find the Villains' Lair
+1 Druidic Ritual
+1 Vampire Spawn

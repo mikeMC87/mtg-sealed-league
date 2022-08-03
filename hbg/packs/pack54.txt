@@ -1,14 +1,14 @@
-1 A-Baba Lysaga, Night Witch
-1 Goggles of Night
-1 Gate to Tumbledown
-1 Kalain, Reclusive Painter
-1 Sewer Plague
+1 Stroke of Luck
+1 Prosperous Innkeeper
+1 Grave Choice
+1 Kagha, Shadow Archdruid
+1 Rimeshield Frost Giant
+1 Lizardfolk Librarians
+1 Flaming Fist Duskguard
+1 Vampire Spawn
 1 A-Sepulcher Ghoul
-1 Armor of Shadows
-1 Valiant Farewell
-1 You Find the Villains' Lair
-1 Inspiring Bard
-1 Giant Fire Beetles
-1 Dragon's Fire
-1 Blessed Hippogriff
-1 Hoard Robber
+1 Devoted Paladin
+1 Sylvan Shepherd
+1 Priest of Ancient Lore
+1 Incessant Provocation
+1 Steadfast Paladin

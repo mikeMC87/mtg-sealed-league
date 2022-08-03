@@ -1,14 +1,14 @@
-1 Ancient Gold Dragon
-1 Two-Handed Axe
-1 Kagha, Shadow Archdruid
-1 Thrakkus the Butcher
-1 Thieves' Tools
-1 You Hear Something on Watch
-1 Arcane Archery
-1 Dueling Rapier
-1 Vampire Spawn
-1 Hypnotic Pattern
-1 Nefarious Imp
-1 Shocking Grasp
-1 Soldiers of the Watch
-1 You Come to the Gnoll Camp
+1 Calim, Djinn Emperor
+1 Pegasus Guardian
+1 Bonecaller Cleric
+1 Ambergris, Citadel Agent
+1 Iron Golem
+1 Unexpected Allies
+1 Minimus Containment
+1 Giant Fire Beetles
+1 Flaming Fist Duskguard
+1 Eyes of the Beholder
+1 Hill Giant Herdgorger
+1 Pseudodragon Familiar
+1 Patriar's Humiliation
+1 Undersimplify
