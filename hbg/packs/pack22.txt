@@ -1,14 +1,14 @@
-1 Favored Enemy
-1 Monk of the Open Hand
-1 Draconic Lore
-1 Druid of the Emerald Grove
-1 Shocking Grasp
-1 Manticore
+1 Wrathful Red Dragon
+1 Thrakkus the Butcher
+1 Boareskyr Tollkeeper
+1 Lulu, Forgetful Hollyphant
+1 Lantern of Revealing
+1 Tymora's Invoker
+1 Scaled Nurturer
 1 Wizened Githzerai
-1 Inspiring Bard
-1 Ettercap
-1 Young Red Dragon
-1 Druidic Ritual
-1 Minimus Containment
-1 Charmed Sleep
-1 Warriors of Tiamat
+1 Blur
+1 Hoard Robber
+1 Hobgoblin Captain
+1 Patriar's Humiliation
+1 Earth-Cult Elemental
+1 Soldiers of the Watch

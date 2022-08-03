@@ -1,14 +1,14 @@
-1 Calim, Djinn Emperor
-1 Pegasus Guardian
-1 Bonecaller Cleric
-1 Ambergris, Citadel Agent
-1 Iron Golem
-1 Unexpected Allies
-1 Minimus Containment
-1 Giant Fire Beetles
-1 Flaming Fist Duskguard
-1 Eyes of the Beholder
+1 Tiefling Outcasts
+1 Sarevok the Usurper
+1 Chardalyn Dragon
+1 Carnelian Orb of Dragonkind
+1 Ettercap
+1 Follow the Tracks
+1 Dragonborn Looter
+1 Spiked Pit Trap
 1 Hill Giant Herdgorger
-1 Pseudodragon Familiar
-1 Patriar's Humiliation
-1 Undersimplify
+1 Air-Cult Elemental
+1 Deadly Dispute
+1 Clever Conjurer
+1 Valor Singer
+1 Dawnbringer Cleric

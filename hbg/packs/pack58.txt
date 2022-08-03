@@ -1,14 +1,14 @@
-1 Mazzy, Truesword Paladin
-1 Monk of the Open Hand
-1 Moradin's Disciples
-1 Vhal, Eager Scholar
-1 Shambling Ghast
-1 Dragonborn Looter
-1 Pilgrim's Eye
-1 Shocking Grasp
-1 Druidic Ritual
-1 Earth-Cult Elemental
-1 Hook Horror
+1 Karlach, Raging Tiefling
+1 Gate of the Black Dragon
+1 Guild Thief
+1 Mind Spike
+1 You Come to a River
+1 Blessed Hippogriff
+1 Air-Cult Elemental
+1 A-Sepulcher Ghoul
+1 Guardian Naga
 1 Circle of the Land Druid
-1 Giant Fire Beetles
-1 Steadfast Paladin
+1 Eyes of the Beholder
+1 You're Ambushed on the Road
+1 Hook Horror
+1 Ettercap

@@ -1,14 +1,14 @@
-1 Wand of Orcus
-1 Scouting Hawk
-1 Kalain, Reclusive Painter
-1 Seatower Imprisonment
-1 Lizardfolk Librarians
-1 Young Red Dragon
-1 Gray Slaad
-1 Baleful Beholder
-1 Steadfast Paladin
-1 Iron Golem
-1 Eyes of the Beholder
-1 Gnoll Hunter
+1 Eldritch Pact
+1 Monk of the Open Hand
+1 Moradin's Disciples
+1 Seek New Knowledge
+1 Genasi Rabble-Rouser
+1 Owlbear
+1 Cloak of the Bat
+1 Improvised Weaponry
+1 Demogorgon's Clutches
+1 Spiked Pit Trap
+1 Flaming Fist Officer
 1 Prophetic Prism
-1 Hook Horror
+1 Follow the Tracks
+1 Undersimplify

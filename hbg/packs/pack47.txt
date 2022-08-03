@@ -1,14 +1,14 @@
-1 Baldur's Gate
-1 Rasaad, Monk of Selûne
-1 Gate to Seatower
-1 Wild Shape
-1 Ranger Squadron
-1 A-Sepulcher Ghoul
-1 Thieves' Tools
-1 Young Blue Dragon
-1 Sewer Plague
-1 Unexpected Windfall
-1 Poison the Blade
+1 Intellect Devourer
+1 Lulu, Forgetful Hollyphant
+1 Gate to the Citadel
+1 Mind Spike
+1 Flaming Fist Officer
 1 Genasi Rabble-Rouser
-1 Sylvan Shepherd
-1 Young Red Dragon
+1 Undersimplify
+1 Hill Giant Herdgorger
+1 Celestial Unicorn
+1 Vampire Spawn
+1 Poison the Blade
+1 Valor Singer
+1 Blessed Hippogriff
+1 Unexpected Windfall

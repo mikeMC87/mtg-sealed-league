@@ -1,14 +1,14 @@
-1 Karlach, Raging Tiefling
-1 Vhal, Eager Scholar
-1 Lulu, Forgetful Hollyphant
-1 Sarevok the Usurper
-1 Hobgoblin Captain
-1 Sylvan Shepherd
-1 Ettercap
-1 Scaled Nurturer
-1 Pseudodragon Familiar
-1 Dueling Rapier
-1 Nefarious Imp
-1 Gray Slaad
-1 Soldiers of the Watch
-1 Young Blue Dragon
+1 Kardum, Patron of Flames
+1 Seek New Knowledge
+1 Goblin Trapfinder
+1 Ambergris, Citadel Agent
+1 Thieves' Tools
+1 Poison the Blade
+1 Flaming Fist Duskguard
+1 Giant Fire Beetles
+1 Hill Giant Herdgorger
+1 Genasi Rabble-Rouser
+1 Water Weird
+1 Unexpected Allies
+1 Cloak of the Bat
+1 Steadfast Unicorn

@@ -1,14 +1,14 @@
-1 Gale, Conduit of the Arcane
-1 Drider
-1 Gate of the Black Dragon
-1 Lurking Roper
-1 Valor Singer
-1 Dragonborn Looter
-1 Farideh's Fireball
-1 Icewind Stalwart
-1 Spiked Pit Trap
-1 Hoard Robber
-1 Guildsworn Prowler
-1 Gray Slaad
-1 Lizardfolk Librarians
-1 Sylvan Shepherd
+1 Astarion, the Decadent
+1 Gut, Fanatical Priestess
+1 Kalain, Reclusive Painter
+1 Chardalyn Dragon
+1 Poison the Blade
+1 Air-Cult Elemental
+1 Sewer Plague
+1 Grim Bounty
+1 Owlbear
+1 Hobgoblin Captain
+1 Clever Conjurer
+1 Dragon's Fire
+1 Pseudodragon Familiar
+1 Band Together

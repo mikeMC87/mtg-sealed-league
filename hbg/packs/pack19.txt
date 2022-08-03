@@ -1,14 +1,14 @@
-1 Karlach, Raging Tiefling
-1 Gate of the Black Dragon
-1 Guild Thief
-1 Mind Spike
+1 Wand of Orcus
+1 Drider
+1 Gate to Manorborn
+1 Seek New Knowledge
+1 Clever Conjurer
+1 Inspiring Bard
+1 Valiant Farewell
 1 You Come to a River
-1 Blessed Hippogriff
-1 Air-Cult Elemental
-1 A-Sepulcher Ghoul
-1 Guardian Naga
-1 Circle of the Land Druid
-1 Eyes of the Beholder
-1 You're Ambushed on the Road
-1 Hook Horror
+1 Icewind Stalwart
+1 Ambitious Dragonborn
 1 Ettercap
+1 Farideh's Fireball
+1 Valor Singer
+1 Demogorgon's Clutches

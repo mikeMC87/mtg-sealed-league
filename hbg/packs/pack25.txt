@@ -1,14 +1,14 @@
-1 Miirym, Sentinel Wyrm
-1 Kagha, Shadow Archdruid
-1 You Meet in a Tavern
-1 Split the Spoils
-1 Iron Golem
-1 Guildsworn Prowler
-1 Steadfast Paladin
-1 Lizardfolk Librarians
-1 Underdark Basilisk
-1 Genasi Rabble-Rouser
+1 Sune's Intervention
+1 Grave Choice
+1 Ray of Frost
+1 Draconic Lore
+1 Blur
+1 Improvised Weaponry
+1 Nefarious Imp
+1 Gnoll Hunter
+1 Air-Cult Elemental
+1 Charmed Sleep
+1 Vampire Spawn
+1 Soldiers of the Watch
 1 Reckless Barbarian
-1 Prophetic Prism
-1 Celestial Unicorn
-1 Rimeshield Frost Giant
+1 You Come to the Gnoll Camp
