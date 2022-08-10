@@ -1,14 +1,14 @@
-1 Karlach, Raging Tiefling
-1 Gate of the Black Dragon
-1 Guild Thief
-1 Mind Spike
-1 You Come to a River
-1 Blessed Hippogriff
-1 Air-Cult Elemental
-1 A-Sepulcher Ghoul
-1 Guardian Naga
-1 Circle of the Land Druid
-1 Eyes of the Beholder
-1 You're Ambushed on the Road
-1 Hook Horror
-1 Ettercap
+1 Miirym, Sentinel Wyrm
+1 Kagha, Shadow Archdruid
+1 You Meet in a Tavern
+1 Split the Spoils
+1 Iron Golem
+1 Guildsworn Prowler
+1 Steadfast Paladin
+1 Lizardfolk Librarians
+1 Underdark Basilisk
+1 Genasi Rabble-Rouser
+1 Reckless Barbarian
+1 Prophetic Prism
+1 Celestial Unicorn
+1 Rimeshield Frost Giant

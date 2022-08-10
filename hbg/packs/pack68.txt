@@ -1,14 +1,14 @@
-1 Tiefling Outcasts
-1 Gut, Fanatical Priestess
-1 Draconic Lore
-1 Juvenile Mist Dragon
+1 Gale's Redirection
+1 Breath Weapon
+1 Alora, Rogue Companion
+1 Oji, the Exquisite Blade
+1 Blessed Hippogriff
+1 Shocking Grasp
+1 Owlbear
+1 Underdark Basilisk
+1 Manticore
+1 Genasi Rabble-Rouser
 1 Poison the Blade
-1 Pseudodragon Familiar
-1 Soulknife Spy
-1 Undercellar Myconid
-1 Armor of Shadows
 1 Ettercap
-1 Prophetic Prism
-1 Steadfast Unicorn
-1 Hobgoblin Captain
-1 Devoted Paladin
+1 Blur
+1 Lizardfolk Librarians

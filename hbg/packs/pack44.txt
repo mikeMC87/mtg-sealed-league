@@ -1,14 +1,14 @@
-1 The Hourglass Coven
-1 Emerald Dragon
-1 Krydle of Baldur's Gate
-1 Draconic Lore
-1 Deadly Dispute
-1 Prophetic Prism
-1 Improvised Weaponry
-1 Chain Devil
-1 Nefarious Imp
-1 Spiked Pit Trap
-1 Ambitious Dragonborn
-1 Baleful Beholder
-1 Hypnotic Pattern
-1 A-Sepulcher Ghoul
+1 Astarion, the Decadent
+1 Gut, Fanatical Priestess
+1 Kalain, Reclusive Painter
+1 Chardalyn Dragon
+1 Poison the Blade
+1 Air-Cult Elemental
+1 Sewer Plague
+1 Grim Bounty
+1 Owlbear
+1 Hobgoblin Captain
+1 Clever Conjurer
+1 Dragon's Fire
+1 Pseudodragon Familiar
+1 Band Together

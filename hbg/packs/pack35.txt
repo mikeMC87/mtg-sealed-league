@@ -1,14 +1,14 @@
-1 Traverse the Outlands
-1 Krydle of Baldur's Gate
-1 Thrakkus the Butcher
-1 Battle Cry Goblin
-1 Incessant Provocation
+1 Ancient Bronze Dragon
+1 Ambergris, Citadel Agent
+1 Guiding Bolt
+1 Alora, Rogue Companion
+1 Dawnbringer Cleric
+1 Lizardfolk Librarians
+1 You're Ambushed on the Road
+1 You Find Some Prisoners
 1 Nefarious Imp
-1 Unexpected Allies
-1 Blur
-1 Soldiers of the Watch
-1 Kobold Warcaller
-1 Dragon's Fire
-1 Valor Singer
-1 Rimeshield Frost Giant
-1 Circle of the Land Druid
+1 Pseudodragon Familiar
+1 Thieves' Tools
+1 Shambling Ghast
+1 Baleful Beholder
+1 You Line Up the Shot

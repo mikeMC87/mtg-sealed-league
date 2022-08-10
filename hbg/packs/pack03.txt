@@ -1,14 +1,14 @@
-1 Baldur's Gate
-1 Rasaad, Monk of Selûne
-1 Gate to Seatower
-1 Wild Shape
-1 Ranger Squadron
-1 A-Sepulcher Ghoul
-1 Thieves' Tools
-1 Young Blue Dragon
-1 Sewer Plague
-1 Unexpected Windfall
-1 Poison the Blade
-1 Genasi Rabble-Rouser
-1 Sylvan Shepherd
-1 Young Red Dragon
+1 Ulder Ravengard, Marshal
+1 Goggles of Night
+1 Gnoll Hunting Party
+1 Split the Spoils
+1 Ambitious Dragonborn
+1 Flaming Fist Duskguard
+1 Cloak of the Bat
+1 Chain Devil
+1 Reckless Barbarian
+1 Farideh's Fireball
+1 Lizardfolk Librarians
+1 Baleful Beholder
+1 Manticore
+1 Shambling Ghast

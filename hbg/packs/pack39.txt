@@ -1,14 +1,14 @@
-1 Ancient Bronze Dragon
-1 Ambergris, Citadel Agent
-1 Guiding Bolt
-1 Alora, Rogue Companion
-1 Dawnbringer Cleric
-1 Lizardfolk Librarians
-1 You're Ambushed on the Road
-1 You Find Some Prisoners
-1 Nefarious Imp
-1 Pseudodragon Familiar
-1 Thieves' Tools
-1 Shambling Ghast
-1 Baleful Beholder
-1 You Line Up the Shot
+1 Jan Jansen, Chaos Crafter
+1 Vhal, Eager Scholar
+1 Jade Orb of Dragonkind
+1 Mephit's Enthusiasm
+1 Dueling Rapier
+1 Patriar's Humiliation
+1 Charmed Sleep
+1 Unexpected Allies
+1 Poison the Blade
+1 Hoard Robber
+1 Steadfast Unicorn
+1 Manticore
+1 Wizened Githzerai
+1 Flaming Fist Officer
