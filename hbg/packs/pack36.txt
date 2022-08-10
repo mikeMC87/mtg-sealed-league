@@ -1,14 +1,14 @@
-1 Lae'zel, Githyanki Warrior
-1 Sigil of Myrkul
-1 Grim Wanderer
-1 Grave Choice
-1 Demogorgon's Clutches
-1 Ranger Squadron
-1 Air-Cult Elemental
-1 Follow the Tracks
-1 Undercellar Myconid
-1 Clever Conjurer
-1 Warriors of Tiamat
-1 Soulknife Spy
+1 Ancient Brass Dragon
+1 Trelasarra, Moon Dancer
+1 Skullport Merchant
+1 Bronze Walrus
+1 Priest of Ancient Lore
+1 Charmed Sleep
+1 Shambling Ghast
+1 Sylvan Shepherd
+1 Blessed Hippogriff
 1 Gnoll Hunter
-1 You Find Some Prisoners
+1 Unexpected Windfall
+1 Celestial Unicorn
+1 Blur
+1 Guardian Naga

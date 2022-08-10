@@ -1,14 +1,14 @@
-1 Baldur's Gate
-1 Carnelian Orb of Dragonkind
-1 Skullport Merchant
-1 Goblin Trapfinder
-1 Young Red Dragon
-1 You Hear Something on Watch
-1 Jaded Sell-Sword
-1 Cloak of the Bat
-1 A-Sepulcher Ghoul
-1 Incessant Provocation
-1 Gray Slaad
-1 You Come to a River
+1 Favored Enemy
+1 Monk of the Open Hand
+1 Draconic Lore
+1 Druid of the Emerald Grove
+1 Shocking Grasp
 1 Manticore
-1 Band Together
+1 Wizened Githzerai
+1 Inspiring Bard
+1 Ettercap
+1 Young Red Dragon
+1 Druidic Ritual
+1 Minimus Containment
+1 Charmed Sleep
+1 Warriors of Tiamat

@@ -1,14 +1,14 @@
-1 Astarion, the Decadent
-1 Gut, Fanatical Priestess
-1 Kalain, Reclusive Painter
-1 Chardalyn Dragon
-1 Poison the Blade
-1 Air-Cult Elemental
-1 Sewer Plague
-1 Grim Bounty
-1 Owlbear
-1 Hobgoblin Captain
-1 Clever Conjurer
-1 Dragon's Fire
-1 Pseudodragon Familiar
+1 Baldur's Gate
+1 Carnelian Orb of Dragonkind
+1 Skullport Merchant
+1 Goblin Trapfinder
+1 Young Red Dragon
+1 You Hear Something on Watch
+1 Jaded Sell-Sword
+1 Cloak of the Bat
+1 A-Sepulcher Ghoul
+1 Incessant Provocation
+1 Gray Slaad
+1 You Come to a River
+1 Manticore
 1 Band Together

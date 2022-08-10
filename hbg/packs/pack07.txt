@@ -1,14 +1,14 @@
-1 Shadowheart, Sharran Cleric
-1 Gate to Manorborn
-1 Choose Your Weapon
-1 You're Confronted by Robbers
-1 Hypnotic Pattern
-1 Clever Conjurer
-1 Cloak of the Bat
-1 Hill Giant Herdgorger
-1 Young Red Dragon
-1 Icewind Stalwart
-1 Dueling Rapier
-1 Underdark Basilisk
-1 A-Sepulcher Ghoul
-1 Pilgrim's Eye
+1 Gorion, Wise Mentor
+1 Bag of Holding
+1 Liara of the Flaming Fist
+1 Druid of the Emerald Grove
+1 Summon Undead
+1 Chain Devil
+1 Iron Golem
+1 Inspiring Bard
+1 Improvised Weaponry
+1 Tymora's Invoker
+1 Steadfast Unicorn
+1 Deadly Dispute
+1 Dread Linnorm
+1 Circle of the Moon Druid

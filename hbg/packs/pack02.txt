@@ -1,14 +1,14 @@
-1 Fraying Line
-1 Draconic Muralists
-1 Gate to Manorborn
-1 Choose Your Weapon
-1 Dawnbringer Cleric
-1 You Come to a River
-1 Warriors of Tiamat
-1 Pilgrim's Eye
-1 You Find Some Prisoners
+1 Baldur's Gate
+1 Rasaad, Monk of Selûne
+1 Gate to Seatower
+1 Wild Shape
+1 Ranger Squadron
+1 A-Sepulcher Ghoul
+1 Thieves' Tools
+1 Young Blue Dragon
 1 Sewer Plague
-1 Scaled Nurturer
-1 You Find the Villains' Lair
-1 Druidic Ritual
-1 Vampire Spawn
+1 Unexpected Windfall
+1 Poison the Blade
+1 Genasi Rabble-Rouser
+1 Sylvan Shepherd
+1 Young Red Dragon

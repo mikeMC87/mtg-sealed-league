@@ -1,14 +1,14 @@
-1 Calim, Djinn Emperor
-1 Ghost Lantern
-1 Choose Your Weapon
-1 Trelasarra, Moon Dancer
-1 Valiant Farewell
-1 Valor Singer
-1 Manticore
+1 Alaundo the Seer
+1 Chardalyn Dragon
+1 Goggles of Night
+1 Seek New Knowledge
+1 Lizardfolk Librarians
+1 Pseudodragon Familiar
+1 Circle of the Moon Druid
+1 Improvised Weaponry
 1 Nefarious Imp
-1 Shocking Grasp
-1 Patriar's Humiliation
-1 Hobgoblin Captain
-1 Giant Fire Beetles
-1 Hill Giant Herdgorger
-1 Undersimplify
+1 Valor Singer
+1 Scaled Nurturer
+1 Pilgrim's Eye
+1 Flaming Fist Officer
+1 Dragonborn Looter

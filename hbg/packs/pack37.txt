@@ -1,14 +1,14 @@
-1 Shadowheart, Sharran Cleric
-1 Irenicus's Vile Duplication
-1 Gate to Seatower
-1 Scouting Hawk
-1 Eyes of the Beholder
-1 Rimeshield Frost Giant
-1 Patriar's Humiliation
-1 Steadfast Paladin
-1 Gray Slaad
-1 Warriors of Tiamat
-1 Young Blue Dragon
+1 Displacer Kitten
+1 Gate to Manorborn
+1 Rasaad, Monk of Selûne
+1 Dragonborn Immolator
+1 Minimus Containment
+1 You Line Up the Shot
+1 Band Together
+1 Thieves' Tools
+1 Reckless Barbarian
+1 Arcane Archery
+1 Baleful Beholder
+1 Hobgoblin Captain
 1 Ambitious Dragonborn
-1 Flaming Fist Officer
-1 Shambling Ghast
+1 Rimeshield Frost Giant

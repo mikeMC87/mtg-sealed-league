@@ -1,14 +1,14 @@
-1 Ancient Brass Dragon
-1 Trelasarra, Moon Dancer
-1 Skullport Merchant
-1 Bronze Walrus
-1 Priest of Ancient Lore
-1 Charmed Sleep
-1 Shambling Ghast
-1 Sylvan Shepherd
-1 Blessed Hippogriff
-1 Gnoll Hunter
-1 Unexpected Windfall
-1 Celestial Unicorn
-1 Blur
-1 Guardian Naga
+1 The Hourglass Coven
+1 Emerald Dragon
+1 Krydle of Baldur's Gate
+1 Draconic Lore
+1 Deadly Dispute
+1 Prophetic Prism
+1 Improvised Weaponry
+1 Chain Devil
+1 Nefarious Imp
+1 Spiked Pit Trap
+1 Ambitious Dragonborn
+1 Baleful Beholder
+1 Hypnotic Pattern
+1 A-Sepulcher Ghoul

@@ -1,14 +1,14 @@
-1 Gale, Conduit of the Arcane
-1 Drider
-1 Gate of the Black Dragon
-1 Lurking Roper
-1 Valor Singer
-1 Dragonborn Looter
-1 Farideh's Fireball
-1 Icewind Stalwart
-1 Spiked Pit Trap
-1 Hoard Robber
-1 Guildsworn Prowler
+1 Ancient Gold Dragon
+1 Two-Handed Axe
+1 Cast Down
+1 Carnelian Orb of Dragonkind
+1 Baleful Beholder
+1 Armor of Shadows
+1 Devoted Paladin
+1 Circle of the Moon Druid
+1 Grim Bounty
+1 Shambling Ghast
+1 Hobgoblin Captain
+1 Air-Cult Elemental
 1 Gray Slaad
-1 Lizardfolk Librarians
-1 Sylvan Shepherd
+1 Valiant Farewell

@@ -1,14 +1,14 @@
-1 Mirror of Life Trapping
-1 Black Dragon
-1 Vhal, Eager Scholar
-1 Navigation Orb
-1 Jaded Sell-Sword
-1 Hill Giant Herdgorger
+1 Shadowheart, Sharran Cleric
+1 Irenicus's Vile Duplication
+1 Gate to Seatower
+1 Scouting Hawk
+1 Eyes of the Beholder
+1 Rimeshield Frost Giant
 1 Patriar's Humiliation
-1 Circle of the Moon Druid
-1 Kobold Warcaller
-1 Hypnotic Pattern
-1 Hook Horror
-1 Druidic Ritual
-1 Soulknife Spy
-1 Nefarious Imp
+1 Steadfast Paladin
+1 Gray Slaad
+1 Warriors of Tiamat
+1 Young Blue Dragon
+1 Ambitious Dragonborn
+1 Flaming Fist Officer
+1 Shambling Ghast
