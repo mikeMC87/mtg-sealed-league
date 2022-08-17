@@ -1,7 +1,14 @@
+2 Patriar's Humiliation
+1 Steadfast Unicorn
 1 Archivist of Oghma
+1 Dawnbringer Cleric
+1 Flaming Fist Duskguard
 1 Klement, Novice Acolyte
 1 Soldiers of the Watch
+1 You Hear Something on Watch
 2 Flaming Fist Officer
+1 Priest of Ancient Lore
+1 Scouting Hawk
 2 Blessed Hippogriff
 2 Icewind Stalwart
 1 Lae'zel's Acrobatics
@@ -11,113 +18,89 @@
 1 Ancient Gold Dragon
 1 Hypnotic Pattern
 1 Dragonborn Looter
-1 Seek New Knowledge
+2 Seek New Knowledge
 1 Shocking Grasp
 2 Tymora's Invoker
-2 Undersimplify
+3 Undersimplify
+2 You Come to a River
 1 Blur
 1 Charmed Sleep
 1 Dream Fracture
 1 Kenku Artificer
-1 You Find the Villains' Lair
+1 Lapis Orb of Dragonkind
+1 Pseudodragon Familiar
+1 Vhal, Eager Scholar
+3 You Find the Villains' Lair
+1 Alora, Rogue Companion
 1 Lizardfolk Librarians
-1 Young Blue Dragon
+1 Water Weird
+2 Young Blue Dragon
+1 Draconic Lore
 2 Sword Coast Serpent
 1 Shambling Ghast
 1 Bonecaller Cleric
-1 Guildsworn Prowler
+2 Guildsworn Prowler
+1 Hoard Robber
+1 Thieves' Tools
 1 Viconia, Nightsinger's Disciple
 1 Demogorgon's Clutches
 1 Grave Choice
-1 Sewer Plague
+1 Gray Slaad
+3 Nefarious Imp
+2 Sewer Plague
 1 Sigil of Myrkul
-1 Vampire Spawn
+2 Vampire Spawn
 1 Ambition's Cost
 2 Chain Devil
-2 Manticore
+3 Manticore
 1 Hook Horror
+1 Summon Undead
 1 Baleful Beholder
 3 Eyes of the Beholder
+1 Dueling Rapier
+2 Goblin Trapfinder
 1 Dragon's Fire
+1 Genasi Rabble-Rouser
 1 Hobgoblin Captain
-1 Reckless Barbarian
-1 You Come to the Gnoll Camp
-1 Giant Fire Beetles
+2 Reckless Barbarian
+1 Unexpected Allies
+2 You Come to the Gnoll Camp
+2 You Find Some Prisoners
+1 Ambergris, Citadel Agent
+2 Giant Fire Beetles
 3 Improvised Weaponry
+1 Two-Handed Axe
 1 Uthgardt Fury
 1 Dragonborn Immolator
 3 Incessant Provocation
-1 Young Red Dragon
-1 Warriors of Tiamat
+1 Kardum, Patron of Flames
+2 Young Red Dragon
+2 Warriors of Tiamat
+1 Wrathful Red Dragon
 1 Wild Shape
 1 Circle of the Land Druid
 1 Jaheira, Harper Emissary
-1 Arcane Archery
+1 Poison the Blade
+1 Scaled Nurturer
+1 Underdark Basilisk
+3 Arcane Archery
 2 Band Together
-1 Druidic Ritual
+1 Choose Your Weapon
+2 Druidic Ritual
+1 Lukamina, Moon Druid
 1 Sylvan Shepherd
 1 Undercellar Myconid
-1 Draconic Muralists
-1 Traverse the Outlands
-1 Dread Linnorm
-1 Liara of the Flaming Fist
-1 Spiked Pit Trap
-2 Iron Golem
-1 Chardalyn Dragon
-1 Gate to Seatower
-1 Lukamina, Moon Druid
-1 Goblin Trapfinder
-1 Lapis Orb of Dragonkind
-1 Scouting Hawk
-1 Dueling Rapier
-1 Patriar's Humiliation
-1 Guildsworn Prowler
-1 Dread Linnorm
-1 Young Red Dragon
-1 Pseudodragon Familiar
-1 Nefarious Imp
-1 You Come to the Gnoll Camp
-1 Arcane Archery
-1 Hoard Robber
-1 Wrathful Red Dragon
+2 Draconic Muralists
+2 Traverse the Outlands
+2 Hill Giant Herdgorger
+2 Dread Linnorm
 1 Kagha, Shadow Archdruid
-1 Gate to Seatower
-1 Draconic Lore
-1 Patriar's Humiliation
-1 Nefarious Imp
-1 Manticore
-1 Gray Slaad
-1 Spiked Pit Trap
-1 You Find Some Prisoners
-1 You Hear Something on Watch
-1 You Come to a River
-1 Underdark Basilisk
-1 Arcane Archery
-1 Traverse the Outlands
-1 Two-Handed Axe
-1 Alora, Rogue Companion
-1 Vhal, Eager Scholar
-1 Iron Golem
-1 Undersimplify
-1 Hill Giant Herdgorger
-1 Summon Undead
-1 Young Blue Dragon
-1 You Find the Villains' Lair
-1 Spiked Pit Trap
-1 Reckless Barbarian
-1 Nefarious Imp
-1 Priest of Ancient Lore
-1 Fraying Line
-1 Draconic Muralists
-1 Gate to Manorborn
-1 Choose Your Weapon
-1 Dawnbringer Cleric
-1 You Come to a River
-1 Warriors of Tiamat
+1 Liara of the Flaming Fist
+3 Spiked Pit Trap
+1 Cloak of the Bat
 1 Pilgrim's Eye
-1 You Find Some Prisoners
-1 Sewer Plague
-1 Scaled Nurturer
-1 You Find the Villains' Lair
-1 Druidic Ritual
-1 Vampire Spawn
+1 Fraying Line
+3 Iron Golem
+1 Chardalyn Dragon
+1 Gate to Manorborn
+2 Gate to Seatower
