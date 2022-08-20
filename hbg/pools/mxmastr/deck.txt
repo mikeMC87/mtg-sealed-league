@@ -1,0 +1,37 @@
+Deck
+1 Gate to Manorborn
+7 Forest
+9 Plains
+2 Patriar's Humiliation
+1 Steadfast Unicorn
+1 Flaming Fist Duskguard
+1 Klement, Novice Acolyte
+1 Soldiers of the Watch
+1 Jaheira, Harper Emissary
+1 Scaled Nurturer
+1 Priest of Ancient Lore
+1 Arcane Archery
+2 Band Together
+1 Lukamina, Moon Druid
+1 Undercellar Myconid
+2 Blessed Hippogriff
+1 Seatower Imprisonment
+2 Draconic Muralists
+1 Devoted Paladin
+1 Ancient Gold Dragon
+2 Dread Linnorm
+
+Sideboard
+1 Archivist of Oghma
+1 Dawnbringer Cleric
+1 You Hear Something on Watch
+1 Lae'zel's Acrobatics
+1 Devoted Paladin
+1 Ranger Squadron
+1 Wild Shape
+1 Underdark Basilisk
+2 Arcane Archery
+1 Choose Your Weapon
+2 Hill Giant Herdgorger
+1 Fraying Line
+1 Chardalyn Dragon

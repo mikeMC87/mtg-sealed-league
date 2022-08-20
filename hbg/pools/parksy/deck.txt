@@ -1,0 +1,36 @@
+Deck
+1 Shambling Ghast
+1 Boareskyr Tollkeeper
+1 Soldiers of the Watch
+1 Steadfast Paladin
+1 A-Sepulcher Ghoul
+1 Grim Wanderer
+3 Viconia, Nightsinger's Disciple
+1 Lulu, Forgetful Hollyphant
+2 Vampire Spawn
+2 Blessed Hippogriff
+1 Sarevok the Usurper
+1 Ancient Gold Dragon
+1 Gate of the Black Dragon
+8 Plains
+8 Swamp
+3 Patriar's Humiliation
+2 You're Ambushed on the Road
+1 Minimus Containment
+1 Summon Undead
+
+Sideboard
+1 Monk of the Open Hand
+1 Portable Hole
+1 Steadfast Unicorn
+2 Dawnbringer Cleric
+1 Soldiers of the Watch
+1 You Hear Something on Watch
+1 A-Sepulcher Ghoul
+1 Hook Horror
+1 Celestial Unicorn
+1 Demogorgon's Clutches
+1 Gray Slaad
+1 Sewer Plague
+1 Moradin's Disciples
+1 Blood Money

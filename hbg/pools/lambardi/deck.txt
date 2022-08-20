@@ -1,0 +1,33 @@
+Deck
+9 Forest
+8 Plains
+2 Patriar's Humiliation
+2 Horn of Valhalla
+1 Steadfast Paladin
+1 You Hear Something on Watch
+2 Prosperous Innkeeper
+3 Underdark Basilisk
+1 Catti-brie of Mithral Hall
+1 Guiding Bolt
+1 Priest of Ancient Lore
+1 Rasaad, Monk of Selûne
+1 Band Together
+1 Lurking Roper
+1 Undercellar Myconid
+1 Yuan-Ti Scaleshield
+1 Champions of Tyr
+1 Ancient Bronze Dragon
+2 Dread Linnorm
+
+Sideboard
+1 Dawnbringer Cleric
+1 Valiant Farewell
+1 Guiding Bolt
+2 Minimus Containment
+1 Rally Maneuver
+2 Guardian Naga
+1 Favored Enemy
+1 Sylvan Shepherd
+1 Spiked Pit Trap
+2 Pilgrim's Eye
+1 Meteor Golem

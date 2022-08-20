@@ -1,0 +1,35 @@
+Deck
+1 Gate to Manorborn
+1 Gate to Tumbledown
+6 Forest
+8 Mountain
+1 Goblin Trapfinder
+2 Kobold Warcaller
+1 Dragon's Fire
+1 Fiendlash
+1 Reckless Barbarian
+1 Belt of Giant Strength
+2 Poison the Blade
+1 Scaled Nurturer
+2 Underdark Basilisk
+1 Breath Weapon
+2 Improvised Weaponry
+1 Bronze Walrus
+1 Unexpected Windfall
+2 Young Red Dragon
+1 Raggadragga, Goreguts Boss
+1 Gut, Fanatical Priestess
+1 Red Dragon
+2 Emerald Dragon
+
+Sideboard
+1 Valor Singer
+1 Farideh's Fireball
+2 Warriors of Tiamat
+1 Earth-Cult Elemental
+2 Circle of the Moon Druid
+1 Sylvan Shepherd
+1 Undercellar Myconid
+1 Ambitious Dragonborn
+1 Ettercap
+1 Owlbear
