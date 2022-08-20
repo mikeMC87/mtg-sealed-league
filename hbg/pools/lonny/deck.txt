@@ -1,0 +1,37 @@
+Deck
+1 Gate of the Black Dragon
+9 Forest
+7 Swamp
+1 Shambling Ghast
+1 Guildsworn Prowler
+1 Shadowheart, Sharran Cleric
+1 Scaled Nurturer
+2 Wilson, Bear Comrade
+1 Grave Choice
+1 Gray Slaad
+2 Sewer Plague
+1 Arcane Archery
+1 Band Together
+2 Lurking Roper
+1 Sarevok the Usurper
+1 Inspiring Bard
+1 Kagha, Shadow Archdruid
+1 Summon Undead
+2 Owlbear
+1 The Hourglass Coven
+1 Black Dragon
+1 Dread Linnorm
+
+Sideboard
+1 Wild Shape
+2 You Line Up the Shot
+2 A-Sepulcher Ghoul
+1 Deadly Dispute
+1 Poison the Blade
+1 Underdark Basilisk
+1 Prophetic Prism
+1 Pilgrim's Eye
+2 Chain Devil
+1 Baleful Beholder
+1 Eyes of the Beholder
+1 Emerald Dragon

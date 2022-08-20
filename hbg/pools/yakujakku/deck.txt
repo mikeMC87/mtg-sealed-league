@@ -1,0 +1,38 @@
+Deck
+1 Gate to the Citadel
+8 Plains
+8 Swamp
+1 Patriar's Humiliation
+1 Steadfast Unicorn
+1 Flaming Fist Duskguard
+1 Klement, Novice Acolyte
+2 You Hear Something on Watch
+1 Bonecaller Cleric
+1 Guildsworn Prowler
+1 Guiding Bolt
+2 Rasaad, Monk of Selûne
+1 Grave Choice
+2 Nefarious Imp
+3 Blessed Hippogriff
+1 Lae'zel, Githyanki Warrior
+1 Grim Bounty
+1 Minthara of the Absolute
+1 Pegasus Guardian
+1 The Hourglass Coven
+1 Ascend from Avernus
+
+Sideboard
+1 You're Ambushed on the Road
+1 Steadfast Paladin
+1 Scouting Hawk
+1 Devoted Paladin
+1 Guardian Naga
+1 Grim Wanderer
+1 A-Sepulcher Ghoul
+1 Stroke of Luck
+1 Thieves' Tools
+2 Gray Slaad
+1 Ambition's Cost
+1 Manticore
+1 Spiked Pit Trap
+1 Pilgrim's Eye

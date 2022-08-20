@@ -1,0 +1,33 @@
+Deck
+1 Gate to Seatower
+3 Island
+7 Plains
+6 Swamp
+2 Patriar's Humiliation
+1 Shambling Ghast
+1 Boareskyr Tollkeeper
+1 You Hear Something on Watch
+1 A-Sepulcher Ghoul
+1 Deadly Dispute
+1 Hoard Robber
+1 Stroke of Luck
+2 Krydle of Baldur's Gate
+3 Priest of Ancient Lore
+1 Rasaad, Monk of Selûne
+2 Bronze Walrus
+2 Blessed Hippogriff
+1 Grim Bounty
+2 Oji, the Exquisite Blade
+1 Tasha, Unholy Archmage
+
+Sideboard
+1 Steadfast Unicorn
+4 Young Blue Dragon
+1 Gale's Redirection
+1 Sarevok the Usurper
+1 Black Dragon
+1 Minthara of the Absolute
+1 Pilgrim's Eye
+2 Island
+1 Plains
+2 Swamp

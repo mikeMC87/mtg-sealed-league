@@ -1,0 +1,28 @@
+Deck
+9 Island
+8 Mountain
+1 Kobold Warcaller
+2 Dragonborn Looter
+2 Ray of Frost
+1 Reckless Barbarian
+1 Cloak of the Bat
+2 Blur
+3 Charmed Sleep
+2 Clever Conjurer
+1 Pseudodragon Familiar
+2 Swashbuckler Extraordinaire
+1 Lantern of Revealing
+2 Young Red Dragon
+1 Warriors of Tiamat
+1 Wrathful Red Dragon
+1 Lozhan, Dragons' Legacy
+1 Ancient Copper Dragon
+
+Sideboard
+1 Young Blue Dragon
+1 Dragon's Fire
+1 Genasi Rabble-Rouser
+1 Hobgoblin Captain
+1 Jaded Sell-Sword
+1 Basilisk Collar
+2 Iron Golem
