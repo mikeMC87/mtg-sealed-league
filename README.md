@@ -36,7 +36,7 @@ If you're still curious on these formats - you can peruse the official [MTG Tour
 
 **Q**: How do we determine our initial card pool?
 
-**A**: At the beginning of every set, on MTGA, there is a "Sealed" event available to play for 2000 gems. Everyone will simply enter that event to get their random pool of cards, and save those cards off to a Deck, which will then be used for gameplay. (I'll be walking through this when we start, if anyone is confused).
+**A**: At the beginning of every set, on MTGA, there is a "Sealed" event available to play for 2000 gems. Everyone will simply enter that event to get their random pool of cards, and save those cards off to a Deck ("Add to Decks" from the Sealed event), which will then be used for gameplay ("export" from the Deck menu).
 
 
 **Q**: How do we then add packs to our card pool with MTGA (every two weeks)?
