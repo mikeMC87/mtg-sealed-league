@@ -1,0 +1,16 @@
+// Created by MtG Generator: http://mtgen.net/dmu/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Balmor, Battlemage Captain
+1 Bog Badger
+1 Broken Wings
+1 Crystal Grotto
+1 Flowstone Kavu
+1 Founding the Third Path
+1 Griffin Protector
+1 Juniper Order Rootweaver
+1 Knight of Dusk's Shadow
+1 Meteorite
+1 Mountain
+1 Nemata, Primeval Warden
+1 Sacred Peaks
+1 Shore Up
+1 Talas Lookout
