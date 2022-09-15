@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/dmu/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Barkweave Crusher
-1 Colossal Growth
-1 Flowstone Infusion
-1 Garna, Bloodfist of Keld
-1 Ghitu Amplifier
-1 In Thrall to the Pit
+1 Benalish Faithbonder
+1 Captain's Call
+1 Choking Miasma
+1 Elfhame Wurm
+1 Furious Bellow
+1 Gaea's Might
+1 Haunting Figment
+1 Ivy, Gleeful Spellthief
 1 Jaya's Firenado
-1 Nishoba Brawler
-1 Phyrexian Espionage
+1 Meteorite
+1 Monstrous War-Leech
 1 Plains
-1 Radiant Grove
-1 Snarespinner
-1 Take Up the Shield
-1 Threats Undetected
-1 Zar Ojanen, Scion of Efrava
+1 Sengir Connoisseur
+1 Shield-Wall Sentinel
+1 Wooded Ridgeline

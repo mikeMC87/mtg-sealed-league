@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/dmu/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Aggressive Sabotage
-1 Battlefly Swarm
-1 Broken Wings
-1 Gaea's Might
-1 Haunting Figment
+1 Argivian Cavalier
+1 Elvish Hydromancer
+1 Essence Scatter
+1 Evolved Sleeper
+1 Forest
+1 Geothermal Bog
+1 Goblin Picker
 1 Heroic Charge
-1 Hurler Cyclops
-1 Lightning Strike
-1 Mountain
-1 Phyrexian Rager
-1 Rulik Mons, Warren Chief
-1 Shalai's Acolyte
-1 Soaring Drake
-1 Talas Lookout
-1 Valiant Veteran
+1 Juniper Order Rootweaver
+1 Molten Tributary
+1 Nael, Avizoa Aeronaut
+1 Plains
+1 Shore Up
+1 Tear Asunder
+1 Viashino Branchrider
