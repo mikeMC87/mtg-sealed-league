@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/dmu/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Argivian Phalanx
-1 Battlewing Mystic
-1 Choking Miasma
-1 Crystal Grotto
-1 Essence Scatter
-1 Gaea's Might
-1 Haunting Figment
-1 Jhoira, Ageless Innovator
-1 Keldon Strike Team
-1 Knight of Dawn's Light
-1 Phyrexian Warhorse
-1 Sunbathing Rootwalla
-1 Swamp
-1 Thrill of Possibility
-1 Tidepool Turtle
+1 Benalish Faithbonder
+1 Flowstone Infusion
+1 Furious Bellow
+1 Magnigoth Sentry
+1 Meria, Scholar of Antiquity
+1 Najal, the Storm Runner
+1 Nishoba Brawler
+1 Plains
+1 Samite Herbalist
+1 Splatter Goblin
+1 Tangled Islet
+1 Tattered Apparition
+1 Twinferno
+1 Vanquisher's Axe
+1 Yavimaya Sojourner

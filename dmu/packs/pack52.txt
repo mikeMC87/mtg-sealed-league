@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/dmu/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Bone Splinters
-1 Broken Wings
-1 Deathbloom Gardener
-1 Ertai Resurrected
-1 Inscribed Tablet
-1 Island
-1 Jaya's Firenado
-1 Meteorite
-1 Raff, Weatherlight Stalwart
-1 Scout the Wilderness
-1 Tail Swipe
-1 Take Up the Shield
-1 Tidepool Turtle
-1 Twinferno
-1 Wooded Ridgeline
+1 Aggressive Sabotage
+1 Blight Pile
+1 Clockwork Drawbridge
+1 Djinn of the Fountain
+1 Magnigoth Sentry
+1 Molten Monstrosity
+1 Mountain
+1 Queen Allenal of Ruadach
+1 Shadow Prophecy
+1 Smash to Dust
+1 Stall for Time
+1 Swamp
+1 The Raven Man
+1 Tolarian Terror
+1 Viashino Branchrider
