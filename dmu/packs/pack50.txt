@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/dmu/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Balduvian Atrocity
-1 Captain's Call
-1 Contaminated Aquifer
-1 Eerie Soultender
-1 Elvish Hydromancer
-1 Garna, Bloodfist of Keld
+1 Argivian Cavalier
 1 Geothermal Bog
+1 Idyllic Beachfront
 1 Mountain
-1 Salvaged Manaworker
-1 Sengir Connoisseur
-1 Stenn, Paranoid Partisan
+1 Phyrexian Missionary
+1 Phyrexian Warhorse
+1 Scout the Wilderness
+1 Swamp
+1 Tatyova, Steward of Tides
 1 Tolarian Geyser
-1 Tolarian Terror
-1 Tribute to Urborg
-1 Vineshaper Prodigy
+1 Tori D'Avenant, Fury Rider
+1 Vanquisher's Axe
+1 Voda Sea Scavenger
+1 Vodalian Mindsinger
+1 Wooded Ridgeline
