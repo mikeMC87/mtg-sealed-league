@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/dmu/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Barkweave Crusher
-1 Colossal Growth
-1 Flowstone Infusion
-1 Garna, Bloodfist of Keld
-1 Ghitu Amplifier
-1 In Thrall to the Pit
-1 Jaya's Firenado
-1 Nishoba Brawler
-1 Phyrexian Espionage
-1 Plains
-1 Radiant Grove
-1 Snarespinner
-1 Take Up the Shield
-1 Threats Undetected
-1 Zar Ojanen, Scion of Efrava
+1 Argivian Cavalier
+1 Argivian Phalanx
+1 Balduvian Atrocity
+1 Balduvian Berserker
+1 Geothermal Bog
+1 Haughty Djinn
+1 Haunting Figment
+1 Impede Momentum
+1 Mountain
+1 Sacred Peaks
+1 Talas Lookout
+1 Tolarian Terror
+1 Tori D'Avenant, Fury Rider
+1 Tribute to Urborg
+1 Writhing Necromass
