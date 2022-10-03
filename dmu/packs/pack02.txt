@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/dmu/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Argivian Phalanx
-1 Automatic Librarian
-1 Balmor, Battlemage Captain
-1 Extinguish the Light
-1 Goblin Picker
-1 In Thrall to the Pit
-1 Island
-1 Molten Tributary
-1 Queen Allenal of Ruadach
-1 Serra Paragon
+1 Benalish Faithbonder
+1 Citizen's Arrest
+1 Garna, Bloodfist of Keld
+1 Gibbering Barricade
+1 Haunted Mire
+1 Meria's Outrider
+1 Mountain
+1 Phyrexian Rager
+1 Relic of Legends
+1 Scout the Wilderness
 1 Shore Up
+1 Talas Lookout
 1 Tolarian Terror
-1 Urborg Repossession
-1 Vineshaper Prodigy
-1 Zar Ojanen, Scion of Efrava
+1 Warhost's Frenzy
+1 Yavimaya Coast

@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/dmu/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Ajani, Sleeper Agent
-1 Automatic Librarian
 1 Benalish Faithbonder
-1 Bortuk Bonerattle
+1 Bog Badger
+1 Crystal Grotto
 1 Furious Bellow
-1 Magnigoth Sentry
-1 Mountain
-1 Phoenix Chick
-1 Pixie Illusionist
-1 Sacred Peaks
-1 Scout the Wilderness
-1 Stall for Time
-1 Sunbathing Rootwalla
-1 Vanquisher's Axe
+1 Haunted Mire
+1 Queen Allenal of Ruadach
+1 Radha's Firebrand
+1 Soaring Drake
+1 Swamp
+1 Tidepool Turtle
+1 Timely Interference
+1 Tura Kennerüd, Skyknight
+1 Urborg Repossession
+1 Volshe Tideturner
 1 Zar Ojanen, Scion of Efrava
