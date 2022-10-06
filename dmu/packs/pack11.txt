@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/dmu/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Academy Wall
-1 Automatic Librarian
-1 Bortuk Bonerattle
-1 Braids, Arisen Nightmare
-1 Captain's Call
-1 Geothermal Bog
-1 Idyllic Beachfront
-1 Island
-1 Jaya's Firenado
-1 Molten Tributary
-1 Mossbeard Ancient
-1 Negate
-1 Runic Shot
-1 Sacred Peaks
-1 Vineshaper Prodigy
+1 Benalish Sleeper
+1 Broken Wings
+1 Coalition Skyknight
+1 Coral Colony
+1 Destroy Evil
+1 Floriferous Vinewall
+1 Gibbering Barricade
+1 Phyrexian Vivisector
+1 Rulik Mons, Warren Chief
+1 Shanna, Purifying Blade
+1 Smash to Dust
+1 Swamp
+1 Talas Lookout
+1 Tribute to Urborg
+1 Yavimaya Sojourner
