@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/dmu/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Battlefly Swarm
-1 Broken Wings
-1 Djinn of the Fountain
-1 Elfhame Wurm
-1 Gibbering Barricade
-1 Idyllic Beachfront
-1 Ivy, Gleeful Spellthief
-1 Jodah's Codex
-1 Magnigoth Sentry
-1 Phyrexian Vivisector
-1 Radha, Coalition Warlord
+1 Artillery Blast
+1 Bone Splinters
+1 Coalition Skyknight
+1 Forest
+1 Ghitu Amplifier
+1 Haughty Djinn
+1 Mesa Cavalier
+1 Phyrexian Espionage
+1 Pilfer
+1 Rulik Mons, Warren Chief
 1 Samite Herbalist
-1 Smash to Dust
-1 Swamp
-1 Thrill of Possibility
+1 Shield-Wall Sentinel
+1 Vanquisher's Axe
+1 Wooded Ridgeline
+1 Yavimaya Steelcrusher
