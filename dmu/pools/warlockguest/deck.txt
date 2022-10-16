@@ -1,0 +1,37 @@
+Deck
+2 Llanowar Greenwidow
+1 Floriferous Vinewall
+1 Deathbloom Gardener
+1 Squee, Dubious Monarch
+4 Forest
+1 Bone Splinters
+1 Knight of Dusk's Shadow
+2 Colossal Growth
+2 Extinguish the Light
+1 Haunted Mire
+1 Garna, Bloodfist of Keld
+4 Mountain
+1 Wooded Ridgeline
+1 Sprouting Goblin
+2 Lightning Strike
+2 Geothermal Bog
+1 Molten Monstrosity
+1 Meria's Outrider
+1 Defiler of Instinct
+1 Elfhame Wurm
+1 Writhing Necromass
+1 Lagomos, Hand of Hatred
+1 Uurg, Spawn of Turg
+4 Swamp
+1 The Cruelty of Gix
+1 Crystal Grotto
+
+Sideboard
+1 Swamp
+1 Urborg Repossession
+1 Yavimaya Steelcrusher
+1 Furious Bellow
+1 Goblin Picker
+1 Flowstone Infusion
+1 Thrill of Possibility
+1 Flowstone Kavu

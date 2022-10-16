@@ -1,0 +1,35 @@
+Deck
+1 Geothermal Bog
+2 Sunlit Marsh
+7 Mountain
+1 Destroy Evil
+1 Guardian of New Benalia
+1 Knight of Dawn's Light
+1 Samite Herbalist
+2 Take Up the Shield
+1 Electrostatic Infantry
+1 Lightning Strike
+3 Baird, Argivian Recruiter
+1 Keldon Strike Team
+2 Warhost's Frenzy
+3 Captain's Call
+1 Griffin Protector
+1 Prayer of Binding
+1 Argivian Phalanx
+1 Lagomos, Hand of Hatred
+2 Argivian Cavalier
+7 Plains
+
+Sideboard
+2 Benalish Sleeper
+3 Citizen's Arrest
+1 Take Up the Shield
+1 Destroy Evil
+1 Defiler of Instinct
+1 Take Up the Shield
+1 Heroic Charge
+1 Smash to Dust
+1 In Thrall to the Pit
+1 Garna, Bloodfist of Keld
+1 Yavimaya Steelcrusher
+1 Furious Bellow
