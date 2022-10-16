@@ -1,0 +1,46 @@
+Deck
+1 Idyllic Beachfront
+1 Contaminated Aquifer
+1 Radiant Grove
+1 Sacred Peaks
+1 Crystal Grotto
+5 Plains
+7 Swamp
+1 Bone Splinters
+1 Cult Conscript
+1 Cut Down
+1 Phyrexian Missionary
+1 Shadow-Rite Priest
+1 Elas il-Kor, Sadistic Pilgrim
+1 Salvaged Manaworker
+1 Anointed Peacekeeper
+1 Citizen's Arrest
+2 Eerie Soultender
+1 King Darien XLVIII
+1 Aron, Benalia's Ruin
+1 Relic of Legends
+1 Griffin Protector
+1 Prayer of Binding
+2 Extinguish the Light
+1 Phyrexian Warhorse
+1 Ratadrabik of Urborg
+1 Sol'Kanar the Tainted
+1 Leyline Binding
+1 Bortuk Bonerattle
+
+Sideboard
+1 Artillery Blast
+1 Benalish Faithbonder
+1 Samite Herbalist
+1 Take Up the Shield
+1 Mesa Cavalier
+1 Griffin Protector
+1 Negate
+1 Battlefly Swarm
+1 Sengir Connoisseur
+1 Smash to Dust
+1 Broken Wings
+1 Aron, Benalia's Ruin
+1 Contaminated Aquifer
+1 Shivan Reef
+1 Thran Portal

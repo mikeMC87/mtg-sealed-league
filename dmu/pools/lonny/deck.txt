@@ -1,0 +1,39 @@
+Deck
+2 Contaminated Aquifer
+1 Geothermal Bog
+2 Molten Tributary
+2 Crystal Grotto
+5 Island
+5 Swamp
+1 Rona's Vortex
+1 Shore Up
+1 Timely Interference
+1 Cut Down
+1 Urborg Repossession
+1 Essence Scatter
+2 Impulse
+1 Blight Pile
+2 Tribute to Urborg
+2 Vohar, Vodalian Desecrator
+1 Academy Wall
+1 Phyrexian Espionage
+1 Tolarian Geyser
+1 Gibbering Barricade
+2 Talas Lookout
+1 Frostfist Strider
+1 Sol'Kanar the Tainted
+2 Tolarian Terror
+
+Sideboard
+3 Forest
+1 Pixie Illusionist
+1 Bone Splinters
+1 Phyrexian Vivisector
+1 Balmor, Battlemage Captain
+2 Soaring Drake
+1 Shadow Prophecy
+1 Phyrexian Warhorse
+1 Nemata, Primeval Warden
+1 Frostfist Strider
+1 Najal, the Storm Runner
+1 Bortuk Bonerattle

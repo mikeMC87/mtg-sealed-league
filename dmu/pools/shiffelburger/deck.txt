@@ -1,0 +1,45 @@
+Deck
+1 Contaminated Aquifer
+1 Tangled Islet
+1 Plaza of Heroes
+6 Swamp
+3 Island
+5 Forest
+2 Battlefly Swarm
+1 Urborg Repossession
+1 Blight Pile
+1 Knight of Dusk's Shadow
+1 Tribute to Urborg
+1 Bite Down
+1 Nishoba Brawler
+1 Braids, Arisen Nightmare
+1 Phyrexian Rager
+1 Deathbloom Gardener
+1 Llanowar Greenwidow
+1 The Weatherseed Treaty
+1 Uurg, Spawn of Turg
+1 Tatyova, Steward of Tides
+2 Extinguish the Light
+1 Nemata, Primeval Warden
+1 Sphinx of Clear Skies
+1 The Cruelty of Gix
+1 Territorial Maro
+1 Bortuk Bonerattle
+1 Mossbeard Ancient
+
+Sideboard
+1 Idyllic Beachfront
+1 Radiant Grove
+1 Caves of Koilos
+1 Runic Shot
+1 Pixie Illusionist
+1 Cult Conscript
+1 Broken Wings
+1 Urborg Repossession
+1 Tribute to Urborg
+1 Vineshaper Prodigy
+1 Raff, Weatherlight Stalwart
+1 Choking Miasma
+1 King Darien XLVIII
+1 Relic of Legends
+1 Prayer of Binding

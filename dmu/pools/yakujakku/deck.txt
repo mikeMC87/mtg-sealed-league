@@ -1,0 +1,47 @@
+Deck
+2 Geothermal Bog
+2 Wooded Ridgeline
+2 Radiant Grove
+2 Sunlit Marsh
+1 Sacred Peaks
+4 Mountain
+4 Plains
+2 Flowstone Infusion
+1 Artillery Blast
+1 Phyrexian Missionary
+1 Take Up the Shield
+1 Valiant Veteran
+1 Lightning Strike
+1 Radha's Firebrand
+1 Thrill of Possibility
+1 Anointed Peacekeeper
+2 Argivian Cavalier
+1 Charismatic Vanguard
+1 Hurloon Battle Hymn
+1 Keldon Strike Team
+1 Captain's Call
+1 Griffin Protector
+1 Prayer of Binding
+1 Golden Argosy
+1 Defiler of Faith
+1 Hurler Cyclops
+1 Zar Ojanen, Scion of Efrava
+1 Argivian Phalanx
+1 Garna, Bloodfist of Keld
+
+Sideboard
+1 Benalish Faithbonder
+1 Destroy Evil
+1 Resolute Reinforcements
+1 Samite Herbalist
+1 Take Up the Shield
+1 Flowstone Infusion
+1 Fires of Victory
+1 Charismatic Vanguard
+1 Love Song of Night and Day
+1 Smash to Dust
+1 Yavimaya Steelcrusher
+1 Flowstone Kavu
+1 In Thrall to the Pit
+1 Jaya's Firenado
+1 Defiler of Instinct

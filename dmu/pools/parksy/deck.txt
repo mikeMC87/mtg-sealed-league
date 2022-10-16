@@ -1,0 +1,44 @@
+Deck
+2 Contaminated Aquifer
+1 Wooded Ridgeline
+1 Radiant Grove
+2 Sunlit Marsh
+1 Sacred Peaks
+1 Tangled Islet
+1 Crystal Grotto
+5 Forest
+3 Swamp
+1 Urborg Repossession
+1 Gaea's Might
+1 Tail Swipe
+2 Destroy Evil
+1 Tribute to Urborg
+2 Floriferous Vinewall
+1 Quirion Beastcaller
+1 Sunbathing Rootwalla
+1 Shadow Prophecy
+2 Deathbloom Gardener
+1 Tatyova, Steward of Tides
+1 Extinguish the Light
+1 Sheoldred, the Apocalypse
+1 Magnigoth Sentry
+1 Ertai Resurrected
+1 Meria's Outrider
+1 Silverback Elder
+1 Rith, Liberated Primeval
+1 Jodah's Codex
+1 Bortuk Bonerattle
+
+Sideboard
+1 Battlefly Swarm
+1 Blight Pile
+1 Electrostatic Infantry
+1 Hurloon Battle Hymn
+2 Gaea's Might
+1 Magnigoth Sentry
+1 Yavimaya Sojourner
+2 Elas il-Kor, Sadistic Pilgrim
+1 Salvaged Manaworker
+1 Sacred Peaks
+1 Forest
+2 Swamp

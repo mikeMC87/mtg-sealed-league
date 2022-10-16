@@ -1,0 +1,42 @@
+Deck
+1 Knight of Dusk's Shadow
+2 Floriferous Vinewall
+1 Eerie Soultender
+1 Sheoldred, the Apocalypse
+2 Nemata, Primeval Warden
+1 Bortuk Bonerattle
+1 Tolarian Terror
+1 Contaminated Aquifer
+1 Tangled Islet
+1 Crystal Grotto
+3 Forest
+4 Island
+7 Swamp
+2 Shore Up
+1 Cut Down
+1 Urborg Repossession
+1 Tail Swipe
+1 Essence Scatter
+1 Impulse
+1 Tribute to Urborg
+1 Phyrexian Espionage
+1 Tolarian Geyser
+1 Aggressive Sabotage
+1 The Weatherseed Treaty
+2 Extinguish the Light
+
+Sideboard
+1 Shore Up
+1 Timely Interference
+1 Joint Exploration
+1 Negate
+1 Phyrexian Espionage
+1 Tolarian Geyser
+2 Talas Lookout
+1 Bone Splinters
+1 Writhing Necromass
+1 Gaea's Might
+1 Broken Wings
+1 Elfhame Wurm
+1 Forest
+1 Island
