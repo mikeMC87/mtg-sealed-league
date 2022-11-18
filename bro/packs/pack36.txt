@@ -1,0 +1,16 @@
+// Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Argivian Avenger
+1 Battlefield Butcher
+1 Blitz Automaton
+1 Depth Charge Colossus
+1 Desynchronize
+1 Emergency Weld
+1 Fallaji Chaindancer
+1 Lat-Nam Adept
+1 Plains
+1 Raze to the Ground
+1 Repair and Recharge
+1 Retrieval Agent
+1 Stone Retrieval Unit
+1 Swiftfoot Boots
+1 Urza's Command

@@ -1,0 +1,16 @@
+// Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Burrowing Razormaw
+1 Disciples of Gix
+1 Disenchant
+1 Dredging Claw
+1 Fallaji Dragon Engine
+1 Flow of Knowledge
+1 Goblin Firebomb
+1 Hoarding Recluse
+1 Ichor Wellspring
+1 Island
+1 Mishra's Domination
+1 Prison Sentence
+1 Shoot Down
+1 Tocasia's Onulet
+1 Urza's Command

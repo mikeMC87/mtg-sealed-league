@@ -1,0 +1,16 @@
+// Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Ambush Paratrooper
+1 Ashnod's Intervention
+1 Calamity's Wake
+1 Clay Revenant
+1 Depth Charge Colossus
+1 Koilos Roc
+1 Mountain
+1 Over the Top
+1 Phalanx Vanguard
+1 Prison Sentence
+1 Quicksilver Amulet
+1 Rust Goliath
+1 Spectrum Sentinel
+1 Take Flight
+1 Yotian Medic

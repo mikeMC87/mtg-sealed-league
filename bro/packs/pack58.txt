@@ -1,0 +1,16 @@
+// Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Bitter Reunion
+1 Emergency Weld
+1 Flow of Knowledge
+1 Giant Cindermaw
+1 Gix's Caress
+1 Goblin Blast-Runner
+1 Liquimetal Coating
+1 Powerstone Engineer
+1 Retrieval Agent
+1 Shoot Down
+1 Sibling Rivalry
+1 Siege Veteran
+1 Swamp
+1 Thopter Architect
+1 Warlord's Elite
