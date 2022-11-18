@@ -1,0 +1,16 @@
+// Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Alloy Animist
+1 Coastal Bulwark
+1 Combat Thresher
+1 Conscripted Infantry
+1 Desynchronize
+1 Disfigure
+1 Elsewhere Flask
+1 Gaea's Gift
+1 Island
+1 Mass Production
+1 Overwhelming Remorse
+1 Perimeter Patrol
+1 Stone Retrieval Unit
+1 The Stasis Coffin
+1 Wasteful Harvest

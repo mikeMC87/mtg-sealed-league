@@ -1,0 +1,16 @@
+// Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Airlift Chaplain
+1 Clay Revenant
+1 Fallaji Vanguard
+1 Forest
+1 Junkyard Genius
+1 Mine Worker
+1 Mishra's Bauble
+1 Mishra's Command
+1 Mishra's Domination
+1 Mishra's Onslaught
+1 Penregon Strongbull
+1 Phalanx Vanguard
+1 Scrapwork Rager
+1 Tomakul Honor Guard
+1 Urza, Powerstone Prodigy

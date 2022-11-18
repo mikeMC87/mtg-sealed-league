@@ -1,0 +1,16 @@
+// Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Aeronaut Cavalry
+1 Blanchwood Armor
+1 Burnished Hart
+1 Burrowing Razormaw
+1 Curate
+1 Desynchronize
+1 Disfigure
+1 Emergency Weld
+1 Fallaji Vanguard
+1 Fauna Shaman
+1 Levitating Statue
+1 Loran's Escape
+1 Plains
+1 Sibling Rivalry
+1 Swiftgear Drake
