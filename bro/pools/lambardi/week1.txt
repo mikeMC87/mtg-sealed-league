@@ -1,1 +1,75 @@
-awaiting
+1 Loran's Escape
+1 Survivor of Korlis
+1 Ambush Paratrooper
+1 Phalanx Vanguard
+2 Powerstone Engineer
+1 Airlift Chaplain
+1 Prison Sentence
+2 Warlord's Elite
+1 Thopter Architect
+1 Great Desert Prospector
+2 Fallaji Archaeologist
+1 Machine Over Matter
+1 Scatter Ray
+1 Thopter Mechanic
+1 Stern Lesson
+2 Third Path Savant
+1 Lat-Nam Adept
+1 Take Flight
+1 Koilos Roc
+1 Teferi, Temporal Pilgrim
+2 Disfigure
+1 Emergency Weld
+1 Kill-Zone Acrobat
+1 Ravenous Gigamole
+2 No One Left Behind
+2 Overwhelming Remorse
+1 Trench Stalker
+1 Goblin Blast-Runner
+1 Dwarven Forge-Chanter
+1 Sardian Cliffstomper
+2 Whirling Strike
+1 Penregon Strongbull
+1 Tomakul Scrapsmith
+1 Arms Race
+1 Mishra's Onslaught
+1 Sibling Rivalry
+1 Tyrant of Kher Ridges
+2 Argothian Sprite
+1 Argothian Opportunist
+2 Fog of War
+1 Gwenna, Eyes of Gaea
+2 Perimeter Patrol
+1 Wasteful Harvest
+2 Hoarding Recluse
+1 Evangel of Synthesis
+1 Hajar, Loyal Bodyguard
+1 Battery Bearer
+1 Bone Saw
+1 Haywire Mite
+1 Spectrum Sentinel
+1 Yotian Frontliner
+1 Aeronaut's Wings
+1 Levitating Statue
+1 Mazemind Tome
+1 Mine Worker
+1 Sigil of Valor
+1 Sword of the Meek
+1 The Stone Brain
+1 Burnished Hart
+1 Pristine Talisman
+1 Supply Drop
+2 Tower Worker
+1 Veteran's Powerblade
+1 Scrapwork Rager
+1 Slagstone Refinery
+1 Perennial Behemoth
+1 Power Plant Worker
+2 Swiftgear Drake
+1 Tocasia's Onulet
+1 Cradle Clearcutter
+2 Goring Warplow
+1 Blitz Automaton
+1 Hulking Metamorph
+1 Rust Goliath
+1 Demolition Field
