@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Aeronaut's Wings
-1 Alloy Animist
-1 Epic Confrontation
-1 Fallaji Chaindancer
-1 Goblin Blast-Runner
-1 Gruesome Realization
-1 Island
-1 Mine Worker
-1 Mishra's Bauble
-1 Mishra's Onslaught
-1 Phyrexian Dragon Engine
-1 Retrieval Agent
-1 Stone Retrieval Unit
-1 Urza, Powerstone Prodigy
-1 Wasteful Harvest
+1 Carrion Locust
+1 Chromatic Star
+1 Coastal Bulwark
+1 Fade from History
+1 Forest
+1 Gurgling Anointer
+1 Hulking Metamorph
+1 Ravenous Gigamole
+1 Sarinth Steelseeker
+1 Scrapwork Rager
+1 Sibling Rivalry
+1 Tomakul Scrapsmith
+1 Tower Worker
+1 Veteran's Powerblade
+1 Wing Commando

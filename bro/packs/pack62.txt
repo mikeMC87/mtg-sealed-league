@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Ashnod's Intervention
-1 Bitter Reunion
-1 Blast Zone
-1 Boulderbranch Golem
-1 Burrowing Razormaw
-1 Excavation Explosion
-1 Great Desert Prospector
-1 Levitating Statue
-1 Loran's Escape
-1 Meticulous Excavation
-1 Perimeter Patrol
+1 Clay Revenant
+1 Depth Charge Colossus
+1 Fallaji Chaindancer
+1 Fauna Shaman
+1 Gruesome Realization
+1 Lat-Nam Adept
 1 Powerstone Fracture
+1 Rust Goliath
+1 Scrapwork Cohort
+1 Slagstone Refinery
+1 Su-Chi Cave Guard
 1 Swamp
-1 Swiftfoot Boots
-1 Yotian Tactician
+1 Tomakul Honor Guard
+1 Well of Lost Dreams
+1 Wing Commando

@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Burrowing Razormaw
-1 Corrupt
-1 Fateful Handoff
-1 Fog of War
-1 Gnarlroot Pallbearer
-1 Helm of the Host
-1 Liquimetal Coating
-1 Mountain
-1 Penregon Strongbull
-1 Phalanx Vanguard
-1 Slagstone Refinery
-1 Stern Lesson
-1 Thraxodemon
-1 Urza, Powerstone Prodigy
-1 Weakstone's Subjugation
+1 Audacity
+1 Battery Bearer
+1 Combat Courier
+1 Key to the City
+1 Kill-Zone Acrobat
+1 Mishra's Domination
+1 Mishra's Juggernaut
+1 Prison Sentence
+1 Ravenous Gigamole
+1 Simian Simulacrum
+1 Supply Drop
+1 Swamp
+1 Symmetry Matrix
+1 Veteran's Powerblade
+1 Wasteful Harvest

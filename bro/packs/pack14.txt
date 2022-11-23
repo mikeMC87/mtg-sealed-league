@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Argivian Avenger
-1 Argothian Sprite
-1 Bitter Reunion
-1 Desynchronize
-1 Epic Confrontation
-1 Fallaji Excavation
-1 Giant Growth
-1 Gix's Caress
-1 Lat-Nam Adept
+1 Burrowing Razormaw
+1 Corrupt
+1 Fateful Handoff
+1 Fog of War
+1 Gnarlroot Pallbearer
+1 Helm of the Host
+1 Liquimetal Coating
 1 Mountain
-1 Power Plant Worker
-1 Semblance Anvil
-1 Sibling Rivalry
-1 Teething Wurmlet
-1 The Fall of Kroog
+1 Penregon Strongbull
+1 Phalanx Vanguard
+1 Slagstone Refinery
+1 Stern Lesson
+1 Thraxodemon
+1 Urza, Powerstone Prodigy
+1 Weakstone's Subjugation
