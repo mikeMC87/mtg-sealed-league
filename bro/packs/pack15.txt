@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Argivian Avenger
+1 Air Marshal
 1 Argothian Sprite
-1 Bitter Reunion
-1 Desynchronize
-1 Epic Confrontation
+1 Astral Cornucopia
+1 Deadly Riposte
 1 Fallaji Excavation
-1 Giant Growth
-1 Gix's Caress
+1 Gwenna, Eyes of Gaea
 1 Lat-Nam Adept
+1 Lay Down Arms
+1 Mine Worker
 1 Mountain
+1 Penregon Strongbull
 1 Power Plant Worker
-1 Semblance Anvil
-1 Sibling Rivalry
-1 Teething Wurmlet
-1 The Fall of Kroog
+1 Third Path Savant
+1 Transmogrant Altar
+1 Veteran's Powerblade

@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Arms Race
-1 Astral Cornucopia
-1 Calamity's Wake
-1 Disfigure
-1 Gix's Caress
-1 Haywire Mite
-1 Koilos Roc
-1 Mightstone's Animation
-1 Mishra's Foundry
-1 Scrapwork Rager
+1 Curate
+1 Disenchant
+1 Fog of War
+1 Harbin, Vanguard Aviator
+1 Mishra's Juggernaut
+1 Mountain
+1 Ornithopter
+1 Power Plant Worker
+1 Recommission
+1 Recruitment Officer
+1 Scrapwork Mutt
 1 Sibling Rivalry
-1 Supply Drop
-1 Swamp
-1 Urza's Rebuff
-1 Whirling Strike
+1 Static Net
+1 Stern Lesson
+1 Take Flight

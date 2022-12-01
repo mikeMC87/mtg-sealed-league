@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Aeronaut's Wings
-1 Ambush Paratrooper
-1 Battlefield Butcher
-1 Blanchwood Prowler
-1 Cradle Clearcutter
-1 Goblin Blast-Runner
-1 Island
-1 Ivory Tower
-1 Loran's Escape
-1 Mine Worker
-1 Take Flight
-1 Underground River
+1 Air Marshal
+1 Astral Cornucopia
+1 Battlefield Forge
+1 Evolving Wilds
+1 Forest
+1 Gixian Skullflayer
+1 Gnarlroot Pallbearer
+1 Haywire Mite
+1 Military Discipline
+1 Raze to the Ground
+1 Scrapwork Rager
+1 Splitting the Powerstone
+1 Tomakul Scrapsmith
 1 Urza's Rebuff
-1 Warlord's Elite
-1 Yotian Medic
+1 Yotian Frontliner
