@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Blanchwood Prowler
-1 Clay Revenant
-1 Forging the Anchor
-1 Goring Warplow
-1 Haywire Mite
-1 Mine Worker
-1 Misery's Shadow
-1 Mishra's Domination
-1 Moment of Defiance
-1 Penregon Strongbull
-1 Skyfisher Spider
-1 Soul-Guide Lantern
-1 Survivor of Korlis
-1 Swamp
-1 Wasteful Harvest
+1 Boulderbranch Golem
+1 Disenchant
+1 Involuntary Cooldown
+1 Island
+1 Kill-Zone Acrobat
+1 Lay Down Arms
+1 Ornithopter
+1 Retrieval Agent
+1 Scrapwork Cohort
+1 Scrapwork Mutt
+1 Third Path Iconoclast
+1 Tomakul Honor Guard
+1 Tomakul Scrapsmith
+1 Trench Stalker
+1 Tyrant of Kher Ridges
