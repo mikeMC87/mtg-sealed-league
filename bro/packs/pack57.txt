@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Ambush Paratrooper
-1 Combat Thresher
-1 Defabricate
-1 Epic Confrontation
+1 Air Marshal
+1 Ashnod's Intervention
+1 Coastal Bulwark
+1 Dwarven Forge-Chanter
+1 Fallaji Chaindancer
+1 Gixian Infiltrator
 1 Gixian Skullflayer
 1 Gnarlroot Pallbearer
-1 Jalum Tome
-1 Loran's Escape
-1 Mishra's Onslaught
-1 Prison Sentence
-1 Swamp
-1 Terisian Mindbreaker
-1 Thran Vigil
-1 Tower Worker
-1 Trench Stalker
+1 Go for the Throat
+1 Liberator, Urza's Battlethopter
+1 Loran, Disciple of History
+1 Mountain
+1 Tocasia's Onulet
+1 Unwinding Clock
+1 Zephyr Sentinel

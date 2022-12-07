@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Aeronaut Cavalry
-1 Ashnod, Flesh Mechanist
-1 Burrowing Razormaw
-1 Deadly Riposte
-1 Gix's Caress
-1 Goblin Blast-Runner
-1 Heavyweight Demolisher
-1 Ornithopter
-1 Perimeter Patrol
-1 Plains
-1 Roc Hunter
-1 Scatter Ray
-1 Static Net
-1 Take Flight
-1 Weakstone's Subjugation
+1 Ambush Paratrooper
+1 Combat Thresher
+1 Defabricate
+1 Epic Confrontation
+1 Gixian Skullflayer
+1 Gnarlroot Pallbearer
+1 Jalum Tome
+1 Loran's Escape
+1 Mishra's Onslaught
+1 Prison Sentence
+1 Swamp
+1 Terisian Mindbreaker
+1 Thran Vigil
+1 Tower Worker
+1 Trench Stalker

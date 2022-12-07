@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Boulderbranch Golem
+1 Curate
 1 Disenchant
-1 Involuntary Cooldown
-1 Island
-1 Kill-Zone Acrobat
-1 Lay Down Arms
+1 Fog of War
+1 Harbin, Vanguard Aviator
+1 Mishra's Juggernaut
+1 Mountain
 1 Ornithopter
-1 Retrieval Agent
-1 Scrapwork Cohort
+1 Power Plant Worker
+1 Recommission
+1 Recruitment Officer
 1 Scrapwork Mutt
-1 Third Path Iconoclast
-1 Tomakul Honor Guard
-1 Tomakul Scrapsmith
-1 Trench Stalker
-1 Tyrant of Kher Ridges
+1 Sibling Rivalry
+1 Static Net
+1 Stern Lesson
+1 Take Flight
