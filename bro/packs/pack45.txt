@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Burrowing Razormaw
-1 Clay Revenant
-1 Deadly Riposte
-1 Epic Confrontation
-1 Forest
-1 Liquimetal Coating
-1 Mine Worker
-1 Mishra's Juggernaut
-1 Moment of Defiance
-1 Reconstructed Thopter
-1 Steel Exemplar
-1 Su-Chi Cave Guard
-1 The Stasis Coffin
-1 Third Path Savant
+1 Boulderbranch Golem
+1 Disenchant
+1 Involuntary Cooldown
+1 Island
+1 Kill-Zone Acrobat
+1 Lay Down Arms
+1 Ornithopter
+1 Retrieval Agent
+1 Scrapwork Cohort
+1 Scrapwork Mutt
+1 Third Path Iconoclast
+1 Tomakul Honor Guard
+1 Tomakul Scrapsmith
 1 Trench Stalker
+1 Tyrant of Kher Ridges

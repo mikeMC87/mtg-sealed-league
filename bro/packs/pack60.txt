@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Ambush Paratrooper
-1 Argothian Sprite
-1 Bushwhack
-1 Citanul Stalwart
-1 Fog of War
-1 Island
-1 Lat-Nam Adept
-1 Phyrexian Dragon Engine
-1 Sarinth Steelseeker
-1 Springleaf Drum
-1 Stern Lesson
-1 Su-Chi Cave Guard
-1 Swiftgear Drake
-1 Tocasia, Dig Site Mentor
+1 Aeronaut's Wings
+1 Argothian Opportunist
+1 Calamity's Wake
+1 Deadly Riposte
+1 Door to Nothingness
+1 Goblin Firebomb
+1 Mountain
+1 Power Plant Worker
+1 Retrieval Agent
+1 Stone Retrieval Unit
+1 The Temporal Anchor
+1 Thran Power Suit
+1 Tocasia's Onulet
 1 Urza's Rebuff
+1 Yotian Frontliner

@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Carrion Locust
-1 Curate
-1 Emergency Weld
-1 Energy Refractor
-1 Forging the Anchor
-1 Gix's Caress
-1 Gnawing Vermin
-1 Iron-Craw Crusher
-1 Liquimetal Coating
-1 Mountain
-1 Painful Quandary
-1 Perimeter Patrol
-1 Phalanx Vanguard
-1 Unleash Shell
-1 Warlord's Elite
+1 Argothian Opportunist
+1 Chromatic Star
+1 Citanul Stalwart
+1 Disenchant
+1 Fallaji Chaindancer
+1 Gnarlroot Pallbearer
+1 Hoarding Recluse
+1 Koilos Roc
+1 Mass Production
+1 Military Discipline
+1 Mishra's Juggernaut
+1 Plains
+1 Su-Chi Cave Guard
+1 Urza, Prince of Kroog
+1 Yotian Frontliner
