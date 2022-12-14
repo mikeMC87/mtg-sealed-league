@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Ambush Paratrooper
-1 Arms Race
-1 Coastal Bulwark
-1 Deadly Riposte
-1 Evangel of Synthesis
-1 Forest
-1 Giant Cindermaw
-1 Journeyer's Kite
-1 Mightstone's Animation
-1 Razorlash Transmogrant
-1 Scrapwork Cohort
-1 Tocasia's Onulet
-1 Union of the Third Path
-1 Weakstone's Subjugation
-1 Yotian Medic
+1 Airlift Chaplain
+1 Blitz Automaton
+1 Fallaji Vanguard
+1 Gaea's Gift
+1 Gixian Infiltrator
+1 Great Desert Prospector
+1 Hostile Negotiations
+1 Ivory Tower
+1 Mishra's Onslaught
+1 Mountain
+1 Phalanx Vanguard
+1 Ravenous Gigamole
+1 Repair and Recharge
+1 Spectrum Sentinel
+1 Whirling Strike
