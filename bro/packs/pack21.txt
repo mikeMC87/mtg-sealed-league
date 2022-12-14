@@ -1,16 +1,16 @@
 // Created by MtG Generator: http://mtgen.net/bro/exporter -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Astral Cornucopia
+1 Battlefield Forge
 1 Carrion Locust
-1 Epic Confrontation
-1 Fallaji Chaindancer
-1 Great Desert Prospector
-1 Hulking Metamorph
+1 Curate
+1 Desynchronize
+1 Evangel of Synthesis
+1 Fallaji Dragon Engine
 1 Island
-1 Liquimetal Coating
-1 Mine Worker
-1 Overwhelming Remorse
-1 Perimeter Patrol
-1 Powerstone Fracture
-1 Repair and Recharge
-1 Roc Hunter
-1 Urza, Lord Protector
-1 Yotian Dissident
+1 Penregon Strongbull
+1 Power Plant Worker
+1 Reconstructed Thopter
+1 Scatter Ray
+1 Third Path Savant
+1 Tower Worker
+1 Weakstone's Subjugation
