@@ -1,151 +1,121 @@
 1 Loran's Escape
 1 Survivor of Korlis
+1 Ambush Paratrooper
 1 Disenchant
-1 Phalanx Vanguard
+2 Phalanx Vanguard
 1 Powerstone Engineer
+1 Recommission
+1 Airlift Chaplain
 2 Prison Sentence
 1 Union of the Third Path
+1 Warlord's Elite
 1 Yotian Medic
+1 Static Net
 1 Aeronaut Cavalry
 1 Repair and Recharge
-1 Air Marshal
-2 Machine Over Matter
+1 Mass Production
+3 Air Marshal
+1 Curate
+1 Defabricate
+3 Machine Over Matter
+1 Forging the Anchor
+2 Stern Lesson
 1 Third Path Savant
-2 Urza's Rebuff
+3 Urza's Rebuff
 1 Involuntary Cooldown
-2 Mightstone's Animation
+1 Lat-Nam Adept
+4 Mightstone's Animation
 1 Retrieval Agent
 1 Take Flight
+1 Desynchronize
 1 Keeper of the Cadence
-1 Disfigure
+3 Disfigure
+1 Gnawing Vermin
+1 Emergency Weld
 1 Powerstone Fracture
 1 Thraxodemon
-1 Carrion Locust
+2 Carrion Locust
+1 Gix's Caress
 1 Gurgling Anointer
 1 Moment of Defiance
+1 Gixian Puppeteer
 1 Gix's Command
 1 No One Left Behind
-1 Overwhelming Remorse
+2 Overwhelming Remorse
+1 Painful Quandary
 1 Monastery Swiftspear
 2 Bitter Reunion
 1 Dwarven Forge-Chanter
-1 Conscripted Infantry
+2 Conscripted Infantry
 1 Draconic Destiny
 1 Giant Cindermaw
+1 Tomakul Scrapsmith
 3 Arms Race
-1 Fallaji Chaindancer
+2 Fallaji Chaindancer
 1 Mishra's Onslaught
 1 Pyrrhic Blast
 2 Sibling Rivalry
-1 Giant Growth
+2 Unleash Shell
+2 Alloy Animist
+1 Bushwhack
+1 Citanul Stalwart
+2 Giant Growth
 1 Teething Wurmlet
-1 Gaea's Gift
+1 Argothian Sprite
+1 Epic Confrontation
+2 Gaea's Gift
+1 Sarinth Steelseeker
 1 Tomakul Honor Guard
 1 Burrowing Razormaw
-2 Fog of War
-1 Perimeter Patrol
+3 Fog of War
+3 Perimeter Patrol
+1 Wasteful Harvest
 2 Hoarding Recluse
+1 Shoot Down
 1 Tawnos's Tinkering
 1 Gnarlroot Pallbearer
 1 Yotian Tactician
 1 Hajar, Loyal Bodyguard
+1 Tocasia, Dig Site Mentor
 1 Bone Saw
+1 Clay Revenant
 1 Goblin Firebomb
+1 Haywire Mite
+1 Springleaf Drum
+1 Yotian Frontliner
 2 Ashnod's Harvester
-1 Energy Refractor
+1 Coastal Bulwark
+1 Elsewhere Flask
+2 Energy Refractor
 1 Ichor Wellspring
+1 Liquimetal Coating
 1 Mask of the Jadecrafter
 1 Mine Worker
 1 Sigil of Valor
 1 Chromatic Lantern
+1 Foundry Inspector
+1 Phyrexian Dragon Engine
 1 Pristine Talisman
 1 Simian Simulacrum
+1 The Stasis Coffin
 1 Tower Worker
+1 Goblin Charbelcher
 2 Scrapwork Cohort
 1 Scrapwork Rager
-1 Stone Retrieval Unit
+2 Stone Retrieval Unit
 1 Power Plant Worker
 1 Steel Exemplar
+2 Swiftgear Drake
+1 Tocasia's Onulet
 1 Caged Sun
 2 Goring Warplow
 1 Boulderbranch Golem
+1 Combat Thresher
+1 Iron-Craw Crusher
 1 Phyrexian Fleshgorger
+1 Cityscape Leveler
+1 Su-Chi Cave Guard
 2 Depth Charge Colossus
 1 Rust Goliath
-1 Demolition Field
+2 Demolition Field
 1 Tocasia's Dig Site
-1 Air Marshal
-1 Defabricate
-1 Epic Confrontation
-1 Fallaji Chaindancer
-1 Giant Growth
-1 Gixian Puppeteer
-1 Goblin Charbelcher
-1 Machine Over Matter
-1 Mightstone's Animation
-1 Mountain
-1 Shoot Down
-1 Static Net
-1 Tocasia's Onulet
-1 Tomakul Scrapsmith
-1 Yotian Frontliner
-1 Alloy Animist
-1 Coastal Bulwark
-1 Combat Thresher
-1 Conscripted Infantry
-1 Desynchronize
-1 Disfigure
-1 Elsewhere Flask
-1 Gaea's Gift
-1 Island
-1 Mass Production
-1 Overwhelming Remorse
-1 Perimeter Patrol
-1 Stone Retrieval Unit
-1 The Stasis Coffin
-1 Wasteful Harvest
-1 Air Marshal
-1 Airlift Chaplain
-1 Alloy Animist
-1 Cityscape Leveler
-1 Clay Revenant
-1 Demolition Field
-1 Disfigure
-1 Foundry Inspector
-1 Haywire Mite
-1 Mightstone's Animation
-1 Mountain
-1 Recommission
-1 Stern Lesson
-1 Swiftgear Drake
-1 Unleash Shell
-1 Ambush Paratrooper
-1 Argothian Sprite
-1 Bushwhack
-1 Citanul Stalwart
-1 Fog of War
-1 Island
-1 Lat-Nam Adept
-1 Phyrexian Dragon Engine
-1 Sarinth Steelseeker
-1 Springleaf Drum
-1 Stern Lesson
-1 Su-Chi Cave Guard
-1 Swiftgear Drake
-1 Tocasia, Dig Site Mentor
-1 Urza's Rebuff
-1 Carrion Locust
-1 Curate
-1 Emergency Weld
-1 Energy Refractor
-1 Forging the Anchor
-1 Gix's Caress
-1 Gnawing Vermin
-1 Iron-Craw Crusher
-1 Liquimetal Coating
-1 Mountain
-1 Painful Quandary
-1 Perimeter Patrol
-1 Phalanx Vanguard
-1 Unleash Shell
-1 Warlord's Elite

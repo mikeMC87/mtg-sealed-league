@@ -1,150 +1,116 @@
-1 Loran's Escape
+2 Loran's Escape
 1 Survivor of Korlis
-1 Ambush Paratrooper
+2 Ambush Paratrooper
+1 Deadly Riposte
 1 Phalanx Vanguard
-2 Powerstone Engineer
+3 Powerstone Engineer
+1 Recommission
 1 Airlift Chaplain
-1 Prison Sentence
-2 Warlord's Elite
+2 Prison Sentence
+3 Warlord's Elite
+1 Yotian Medic
 1 Thopter Architect
+1 Aeronaut Cavalry
 1 Great Desert Prospector
+1 Air Marshal
+1 Defabricate
 2 Fallaji Archaeologist
 1 Machine Over Matter
-1 Scatter Ray
+3 Scatter Ray
 1 Thopter Mechanic
-1 Stern Lesson
+2 Stern Lesson
 2 Third Path Savant
-1 Lat-Nam Adept
+2 Lat-Nam Adept
+2 Mightstone's Animation
+1 Retrieval Agent
 1 Take Flight
+1 Flow of Knowledge
 1 Koilos Roc
 1 Teferi, Temporal Pilgrim
 2 Disfigure
 1 Emergency Weld
+1 Thran Vigil
+1 Carrion Locust
+1 Gix's Caress
+1 Gixian Skullflayer
 1 Kill-Zone Acrobat
 1 Ravenous Gigamole
-2 No One Left Behind
+3 No One Left Behind
 2 Overwhelming Remorse
-1 Trench Stalker
-1 Goblin Blast-Runner
+2 Trench Stalker
+1 Corrupt
+2 Goblin Blast-Runner
+1 Bitter Reunion
 1 Dwarven Forge-Chanter
+1 Roc Hunter
 1 Sardian Cliffstomper
 2 Whirling Strike
 1 Penregon Strongbull
-1 Tomakul Scrapsmith
-1 Arms Race
-1 Mishra's Onslaught
-1 Sibling Rivalry
+2 Raze to the Ground
+2 Tomakul Scrapsmith
+2 Arms Race
+3 Mishra's Onslaught
+2 Sibling Rivalry
+1 Unleash Shell
 1 Tyrant of Kher Ridges
+1 Bushwhack
+1 Citanul Stalwart
 2 Argothian Sprite
-1 Argothian Opportunist
+1 Epic Confrontation
+2 Argothian Opportunist
 2 Fog of War
 1 Gwenna, Eyes of Gaea
 2 Perimeter Patrol
 1 Wasteful Harvest
 2 Hoarding Recluse
+2 Gnarlroot Pallbearer
+1 Harbin, Vanguard Aviator
 1 Evangel of Synthesis
+1 Junkyard Genius
+2 Mishra, Tamer of Mak Fawa
 1 Hajar, Loyal Bodyguard
+1 Yotian Dissident
+1 Fallaji Vanguard
 1 Battery Bearer
 1 Bone Saw
+1 Chromatic Star
+1 Clay Revenant
+1 Combat Courier
+1 Goblin Firebomb
 1 Haywire Mite
 1 Spectrum Sentinel
 1 Yotian Frontliner
 1 Aeronaut's Wings
+1 Elsewhere Flask
 1 Levitating Statue
 1 Mazemind Tome
 1 Mine Worker
 1 Sigil of Valor
 1 Sword of the Meek
 1 The Stone Brain
+1 Thorn of Amethyst
+1 Adaptive Automaton
 1 Burnished Hart
+1 Jalum Tome
 1 Pristine Talisman
+1 Reconstructed Thopter
 1 Supply Drop
-2 Tower Worker
+3 Tower Worker
 1 Veteran's Powerblade
-1 Scrapwork Rager
+2 Scrapwork Rager
 1 Slagstone Refinery
 1 Perennial Behemoth
 1 Power Plant Worker
-2 Swiftgear Drake
-1 Tocasia's Onulet
+1 Self-Assembler
+3 Swiftgear Drake
+2 Tocasia's Onulet
 1 Cradle Clearcutter
 2 Goring Warplow
-1 Blitz Automaton
+2 Blitz Automaton
+1 Combat Thresher
+1 Terisian Mindbreaker
+2 Fallaji Dragon Engine
 1 Hulking Metamorph
 1 Rust Goliath
-1 Demolition Field
-1 Bitter Reunion
-1 Deadly Riposte
-1 Elsewhere Flask
-1 Fallaji Dragon Engine
-1 Fallaji Vanguard
-1 Goblin Blast-Runner
-1 Harbin, Vanguard Aviator
-1 Mightstone's Animation
-1 Mishra's Onslaught
-1 Mountain
-1 Raze to the Ground
-1 Recommission
-1 Warlord's Elite
-1 Yotian Dissident
-1 Yotian Medic
-1 Aeronaut Cavalry
-1 Argothian Opportunist
-1 Arms Race
-1 Blitz Automaton
-1 Combat Courier
-1 Demolition Field
-1 Gnarlroot Pallbearer
-1 Lat-Nam Adept
-1 Mishra, Tamer of Mak Fawa
-1 No One Left Behind
-1 Plains
-1 Powerstone Engineer
-1 Scatter Ray
-1 Self-Assembler
-1 Sibling Rivalry
-1 Adaptive Automaton
-1 Air Marshal
 1 Battlefield Forge
-1 Bushwhack
-1 Carrion Locust
-1 Citanul Stalwart
-1 Corrupt
-1 Goblin Firebomb
-1 Island
-1 Reconstructed Thopter
-1 Roc Hunter
-1 Scatter Ray
-1 Scrapwork Rager
-1 Stern Lesson
-1 Tomakul Scrapsmith
-1 Ambush Paratrooper
-1 Combat Thresher
-1 Defabricate
-1 Epic Confrontation
-1 Gixian Skullflayer
-1 Gnarlroot Pallbearer
-1 Jalum Tome
-1 Loran's Escape
-1 Mishra's Onslaught
-1 Prison Sentence
-1 Swamp
-1 Terisian Mindbreaker
-1 Thran Vigil
-1 Tower Worker
-1 Trench Stalker
-1 Chromatic Star
-1 Clay Revenant
-1 Fallaji Dragon Engine
-1 Flow of Knowledge
-1 Gix's Caress
-1 Junkyard Genius
-1 Mightstone's Animation
-1 Mishra, Tamer of Mak Fawa
-1 Raze to the Ground
-1 Retrieval Agent
-1 Swamp
-1 Swiftgear Drake
-1 Thorn of Amethyst
-1 Tocasia's Onulet
-1 Unleash Shell
+2 Demolition Field

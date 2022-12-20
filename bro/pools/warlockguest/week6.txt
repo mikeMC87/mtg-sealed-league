@@ -1,149 +1,114 @@
+2 Loran's Escape
+1 Meticulous Excavation
 1 Recruitment Officer
 2 Ambush Paratrooper
 1 Calamity's Wake
 2 Disenchant
 1 Phalanx Vanguard
-1 Powerstone Engineer
+3 Powerstone Engineer
+1 Airlift Chaplain
+1 Siege Veteran
+1 Warlord's Elite
+2 Yotian Medic
 1 Static Net
+1 Thopter Architect
 1 Aeronaut Cavalry
-1 Great Desert Prospector
+2 Great Desert Prospector
 2 Air Marshal
 1 Fallaji Archaeologist
 2 Machine Over Matter
 1 Scatter Ray
-1 Stern Lesson
+2 Stern Lesson
 1 Urza's Rebuff
 1 Involuntary Cooldown
+1 Mightstone's Animation
+1 Retrieval Agent
 1 Take Flight
 1 Desynchronize
-3 Ashnod's Intervention
+1 Flow of Knowledge
+1 Keeper of the Cadence
+4 Ashnod's Intervention
 1 Disfigure
-1 Emergency Weld
+1 Dreams of Steel and Oil
+2 Emergency Weld
 1 Gixian Infiltrator
 1 Go for the Throat
-2 Thraxodemon
+1 Powerstone Fracture
+3 Thraxodemon
+1 Battlefield Butcher
+1 Gix's Caress
 1 Gixian Skullflayer
+1 Kill-Zone Acrobat
 2 Moment of Defiance
+2 Gixian Puppeteer
 1 Gix's Command
-1 No One Left Behind
+2 No One Left Behind
 2 Trench Stalker
 1 Corrupt
-2 Goblin Blast-Runner
-2 Bitter Reunion
+4 Goblin Blast-Runner
+4 Bitter Reunion
+1 Dwarven Forge-Chanter
 1 Feldon, Ronom Excavator
 1 Sardian Cliffstomper
+1 Conscripted Infantry
+2 Excavation Explosion
+1 Giant Cindermaw
 1 Mishra, Excavation Prodigy
 1 Raze to the Ground
 2 Tomakul Scrapsmith
-1 Arms Race
+2 Arms Race
 1 Mishra's Onslaught
-2 Sibling Rivalry
+3 Sibling Rivalry
+1 Unleash Shell
 1 Tyrant of Kher Ridges
 1 Alloy Animist
+1 Giant Growth
 2 Blanchwood Prowler
 1 Epic Confrontation
+1 Sarinth Steelseeker
 1 Tomakul Honor Guard
-1 Burrowing Razormaw
+2 Burrowing Razormaw
 1 Gwenna, Eyes of Gaea
-2 Hoarding Recluse
-1 Shoot Down
-1 Tawnos's Tinkering
+2 Perimeter Patrol
+3 Hoarding Recluse
+2 Shoot Down
+2 Tawnos's Tinkering
 1 Gnarlroot Pallbearer
+1 Yotian Tactician
+1 Mishra, Tamer of Mak Fawa
+1 Arbalest Engineers
 1 Hero of the Dunes
-1 Ornithopter
+2 Ornithopter
+1 Chromatic Star
+2 Combat Courier
+1 Spectrum Sentinel
 1 Springleaf Drum
+1 Coastal Bulwark
+1 Energy Refractor
 1 Ichor Wellspring
-1 Levitating Statue
+2 Levitating Statue
+1 Liquimetal Coating
 1 Mask of the Jadecrafter
+1 Mine Worker
 1 Phyrexian Revoker
 1 Scrapwork Mutt
 1 Sigil of Valor
+1 Swiftfoot Boots
+1 Sword of the Meek
 1 Thran Power Suit
 1 Phyrexian Dragon Engine
 1 Supply Drop
 1 The Stasis Coffin
-1 Tower Worker
+2 Tower Worker
 1 Mishra's Juggernaut
+1 Power Plant Worker
 1 Swiftgear Drake
+1 Cradle Clearcutter
 1 Goring Warplow
 2 Blitz Automaton
-1 Boulderbranch Golem
+3 Boulderbranch Golem
 1 Platinum Angel
 1 Su-Chi Cave Guard
 1 Depth Charge Colossus
-1 Evolving Wilds
-1 Ashnod's Intervention
-1 Bitter Reunion
 1 Blast Zone
-1 Boulderbranch Golem
-1 Burrowing Razormaw
-1 Excavation Explosion
-1 Great Desert Prospector
-1 Levitating Statue
-1 Loran's Escape
-1 Meticulous Excavation
-1 Perimeter Patrol
-1 Powerstone Fracture
-1 Swamp
-1 Swiftfoot Boots
-1 Yotian Tactician
-1 Arbalest Engineers
-1 Boulderbranch Golem
-1 Cradle Clearcutter
-1 Evolving Wilds
-1 Forest
-1 Giant Growth
-1 Loran's Escape
-1 Mightstone's Animation
-1 Mishra, Tamer of Mak Fawa
-1 Perimeter Patrol
-1 Power Plant Worker
-1 Powerstone Engineer
-1 Spectrum Sentinel
-1 Sword of the Meek
-1 Yotian Medic
-1 Bitter Reunion
-1 Emergency Weld
-1 Flow of Knowledge
-1 Giant Cindermaw
-1 Gix's Caress
-1 Goblin Blast-Runner
-1 Liquimetal Coating
-1 Powerstone Engineer
-1 Retrieval Agent
-1 Shoot Down
-1 Sibling Rivalry
-1 Siege Veteran
-1 Swamp
-1 Thopter Architect
-1 Warlord's Elite
-1 Airlift Chaplain
-1 Battlefield Butcher
-1 Coastal Bulwark
-1 Combat Courier
-1 Energy Refractor
-1 Gixian Puppeteer
-1 Hoarding Recluse
-1 Keeper of the Cadence
-1 Mountain
-1 Ornithopter
-1 Sarinth Steelseeker
-1 Stern Lesson
-1 Thraxodemon
-1 Tower Worker
-1 Yotian Medic
-1 Arms Race
-1 Chromatic Star
-1 Combat Courier
-1 Conscripted Infantry
-1 Dreams of Steel and Oil
-1 Dwarven Forge-Chanter
-1 Excavation Explosion
-1 Forest
-1 Gixian Puppeteer
-1 Goblin Blast-Runner
-1 Kill-Zone Acrobat
-1 Mine Worker
-1 No One Left Behind
-1 Tawnos's Tinkering
-1 Unleash Shell
+2 Evolving Wilds
