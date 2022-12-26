@@ -1,0 +1,36 @@
+Deck
+9 Island
+8 Swamp
+1 Disfigure
+1 Chromatic Star
+1 Combat Courier
+1 Fallaji Archaeologist
+1 Thopter Mechanic
+1 Evangel of Synthesis
+1 Levitating Statue
+1 Mazemind Tome
+2 Stern Lesson
+1 Adaptive Automaton
+2 Lat-Nam Adept
+2 Scrapwork Rager
+1 Teferi, Temporal Pilgrim
+1 No One Left Behind
+2 Overwhelming Remorse
+1 Trench Stalker
+2 Goring Warplow
+1 Hulking Metamorph
+
+Sideboard
+1 Air Marshal
+1 Fallaji Archaeologist
+1 Machine Over Matter
+3 Scatter Ray
+1 Take Flight
+1 Flow of Knowledge
+1 Disfigure
+1 Emergency Weld
+1 Carrion Locust
+1 No One Left Behind
+1 Corrupt
+1 Clay Revenant
+1 Elsewhere Flask

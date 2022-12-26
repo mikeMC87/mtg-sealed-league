@@ -1,0 +1,38 @@
+Deck
+9 Island
+8 Mountain
+2 Weakstone's Subjugation
+1 Fallaji Archaeologist
+2 Zephyr Sentinel
+1 Phyrexian Revoker
+1 Scrapwork Mutt
+1 Skystrike Officer
+1 Stern Lesson
+1 Urza, Powerstone Prodigy
+2 Excavation Explosion
+1 Foundry Inspector
+1 Thran Spider
+1 Visions of Phyrexia
+1 Saheeli, Filigree Master
+1 Helm of the Host
+1 Tyrant of Kher Ridges
+1 Steel Seraph
+1 Blitz Automaton
+2 Spotter Thopter
+1 Mishra's Command
+
+Sideboard
+1 Disenchant
+1 Static Net
+1 Weakstone's Subjugation
+1 Scatter Ray
+1 Keeper of the Cadence
+1 Koilos Roc
+1 Whirling Strike
+1 Conscripted Infantry
+1 Raze to the Ground
+1 Yotian Tactician
+1 Scrapwork Mutt
+1 Battlefield Forge
+1 Evolving Wilds
+2 Plains

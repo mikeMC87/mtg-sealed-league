@@ -1,0 +1,36 @@
+Deck
+1 Hall of Tagsin
+8 Mountain
+7 Swamp
+2 Disfigure
+1 Goblin Blast-Runner
+1 Monastery Swiftspear
+1 Chromatic Star
+2 Mishra's Research Desk
+1 Emergency Weld
+2 Gixian Infiltrator
+1 Thraxodemon
+2 Roc Hunter
+1 Ichor Wellspring
+1 Razorlash Transmogrant
+1 Scrapwork Mutt
+1 Battlefield Butcher
+1 Excavation Explosion
+2 Penregon Strongbull
+1 Liberator, Urza's Battlethopter
+1 Sibling Rivalry
+2 Scrapwork Rager
+
+Sideboard
+1 Disfigure
+1 Emergency Weld
+2 Gixian Skullflayer
+1 Moment of Defiance
+1 Raze to the Ground
+1 Sibling Rivalry
+2 Unleash Shell
+2 Levitating Statue
+1 Transmogrant Altar
+1 Mishra's Juggernaut
+1 Goring Warplow
+1 Fallaji Dragon Engine

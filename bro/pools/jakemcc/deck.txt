@@ -1,0 +1,34 @@
+Deck
+9 Mountain
+7 Swamp
+1 Ashnod, Flesh Mechanist
+3 Combat Courier
+1 Gixian Infiltrator
+2 Roc Hunter
+1 Scrapwork Mutt
+1 Gix's Caress
+1 Moment of Defiance
+1 Penregon Strongbull
+1 Junkyard Genius
+1 Phyrexian Dragon Engine
+2 Visions of Phyrexia
+1 Overwhelming Remorse
+2 Unleash Shell
+1 Precursor Golem
+1 Corrupt
+1 Argivian Avenger
+2 Fallaji Dragon Engine
+1 Skitterbeam Battalion
+
+Sideboard
+1 Go for the Throat
+1 Powerstone Fracture
+2 Kill-Zone Acrobat
+1 Corrupt
+1 Roc Hunter
+2 Raze to the Ground
+2 Sibling Rivalry
+1 Unleash Shell
+1 Goring Warplow
+1 Mountain
+2 Swamp
