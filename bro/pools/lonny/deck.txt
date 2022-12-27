@@ -1,0 +1,39 @@
+Deck
+1 Evolving Wilds
+7 Island
+8 Plains
+1 Loran's Escape
+2 Combat Courier
+2 Ambush Paratrooper
+1 Disenchant
+1 Recommission
+1 Soul Partition
+1 Drafna, Founder of Lat-Nam
+1 Ichor Wellspring
+1 Scrapwork Mutt
+1 Transmogrant's Crown
+1 Airlift Chaplain
+1 Siege Veteran
+1 Warlord's Elite
+1 Stern Lesson
+2 Wing Commando
+1 Static Net
+1 Yotian Tactician
+1 Scrapwork Cohort
+1 Aeronaut Cavalry
+1 Koilos Roc
+1 Kayla's Reconstruction
+
+Sideboard
+1 Lay Down Arms
+1 Military Discipline
+1 Survivor of Korlis
+1 Disenchant
+1 Weakstone's Subjugation
+1 Air Marshal
+1 Stern Lesson
+2 Urza's Rebuff
+1 Mightstone's Animation
+2 Desynchronize
+1 Supply Drop
+2 Tocasia's Onulet
