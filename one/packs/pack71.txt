@@ -1,0 +1,16 @@
+// Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Aspirant's Ascent
+1 Blightbelly Rat
+1 Churning Reservoir
+1 Contagious Vorrac
+1 Maze's Mantle
+1 Meldweb Curator
+1 Mirran Safehouse
+1 Oil-Gorger Troll
+1 Rebel Salvo
+1 Skyscythe Engulfer
+1 Swamp
+1 The Fair Basilica
+1 Thirsting Roots
+1 Trawler Drake
+1 Tyrranax Atrocity
