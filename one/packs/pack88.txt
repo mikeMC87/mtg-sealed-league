@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Blade of Shared Souls
-1 Furnace Punisher
-1 Glistener Seer
-1 Ichorspit Basilisk
-1 Incisor Glider
-1 Incubation Sac
-1 Mandible Justiciar
+1 Anoint with Affliction
+1 Basilica Shepherd
+1 Basilica Skullbomb
+1 Blightbelly Rat
+1 Contagious Vorrac
+1 Fleshless Gladiator
+1 Gitaxian Anatomist
+1 Infested Fleshcutter
+1 Island
+1 Kuldotha Cackler
+1 Maze Skullbomb
 1 Maze's Mantle
-1 Mountain
-1 Phyrexian Atlas
-1 Rustvine Cultivator
-1 Testament Bearer
-1 The Autonomous Furnace
-1 Thrummingbird
-1 Zealot's Conviction
+1 Mirran Safehouse
+1 Unctus's Retrofitter
+1 Unnatural Restoration

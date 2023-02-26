@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Armored Scrapgorger
-1 Awaken the Sleeper
-1 Experimental Augury
-1 Incisor Glider
-1 Infectious Inquiry
+1 Barbed Batterfist
+1 Bring the Ending
+1 Chittering Skitterling
+1 Expand the Sphere
 1 Island
 1 Lattice-Blade Mantis
-1 Myr Convert
-1 Offer Immortality
+1 Mesmerizing Dose
+1 Necrogen Rotpriest
 1 Oil-Gorger Troll
-1 Pestilent Syphoner
-1 Surgical Skullbomb
-1 The Dross Pits
-1 Thirsting Roots
-1 Vindictive Flamestoker
+1 Prophetic Prism
+1 Sinew Dancer
+1 Tablet of Compleation
+1 Terramorphic Expanse
+1 The Hunter Maze
+1 Tyrranax Atrocity

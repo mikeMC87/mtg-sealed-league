@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Basilica Shepherd
+1 Armored Scrapgorger
+1 Compleat Devotion
 1 Copper Longlegs
-1 Mountain
-1 Orthodoxy Enforcer
-1 Prologue to Phyresis
+1 Cutthroat Centurion
+1 Experimental Augury
+1 Fleshless Gladiator
+1 Forest
+1 Furnace Strider
+1 Mesmerizing Dose
+1 Migloz, Maze Crusher
+1 Myr Kinsmith
+1 Nahiri's Sacrifice
 1 Quicksilver Fisher
-1 Sheoldred's Edict
-1 Sheoldred's Headcleaver
-1 Slaughter Singer
-1 Surgical Skullbomb
-1 The Autonomous Furnace
-1 The Eternal Wanderer
-1 Transplant Theorist
-1 Vanish into Eternity
-1 Vivisurgeon's Insight
+1 Swooping Lookout
+1 Thrill of Possibility

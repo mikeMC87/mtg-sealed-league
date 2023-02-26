@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Dune Mover
-1 Evolving Adaptive
-1 Experimental Augury
-1 Forest
-1 Indoctrination Attendant
-1 Infested Fleshcutter
-1 Jor Kadeen, First Goldwarden
-1 Kuldotha Cackler
-1 Mesmerizing Dose
-1 Phyrexian Atlas
-1 Prophetic Prism
-1 Rebel Salvo
-1 Stinging Hivemaster
-1 Thirsting Roots
-1 Vulshok Splitter
+1 Basilica Shepherd
+1 Compleat Devotion
+1 Cutthroat Centurion
+1 Dross Skullbomb
+1 Duress
+1 Gitaxian Raptor
+1 Hazardous Blast
+1 Infectious Inquiry
+1 Island
+1 Maze's Mantle
+1 Plated Onslaught
+1 Resistance Reunited
+1 Resistance Skywarden
+1 Slobad, Iron Goblin
+1 The Hunter Maze

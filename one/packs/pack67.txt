@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Adaptive Sporesinger
 1 Aspirant's Ascent
-1 Branchblight Stalker
-1 Copperline Gorge
-1 Cutthroat Centurion
-1 Fleshless Gladiator
-1 Hexgold Halberd
-1 Indoctrination Attendant
-1 Island
+1 Contagious Vorrac
+1 Encroaching Mycosynth
+1 Forest
+1 Forgehammer Centurion
+1 Goldwarden's Helm
+1 Infectious Bite
+1 Meldweb Curator
+1 Minor Misstep
+1 Myr Kinsmith
+1 Offer Immortality
 1 Pestilent Syphoner
-1 Prophetic Prism
-1 Shrapnel Slinger
-1 Surgical Skullbomb
-1 Tyvar's Stand
-1 Vat of Rebirth
-1 Vivisurgeon's Insight
+1 The Surgical Bay
+1 Vat Emergence

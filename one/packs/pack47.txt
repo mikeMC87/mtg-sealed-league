@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Barbed Batterfist
-1 Bladed Ambassador
-1 Branchblight Stalker
-1 Cutthroat Centurion
-1 Drown in Ichor
-1 Infectious Inquiry
-1 Mercurial Spelldancer
-1 Orthodoxy Enforcer
-1 Quicksilver Fisher
+1 Annihilating Glare
+1 Cinderslash Ravager
+1 Dune Mover
+1 Font of Progress
+1 Goldwarden's Helm
+1 Incisor Glider
+1 Kuldotha Cackler
+1 Oil-Gorger Troll
+1 Predation Steward
+1 Reject Imperfection
 1 Swamp
-1 Sylvok Battle-Chair
-1 The Hunter Maze
+1 The Dross Pits
+1 The Surgical Bay
 1 Thirsting Roots
-1 Vanish into Eternity
-1 Zealot's Conviction
+1 Zenith Chronicler

@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Annihilating Glare
-1 Awaken the Sleeper
-1 Cutthroat Centurion
-1 Furnace Strider
-1 Gitaxian Raptor
-1 Norn's Wellspring
-1 Quicksilver Fisher
-1 Stinging Hivemaster
-1 Swamp
-1 Testament Bearer
-1 The Autonomous Furnace
-1 Trawler Drake
-1 Urabrask's Anointer
-1 Vulshok Splitter
-1 Watchful Blisterzoa
+1 Adaptive Sporesinger
+1 Bladehold War-Whip
+1 Bonepicker Skirge
+1 Cinderslash Ravager
+1 Crawling Chorus
+1 Cruel Grimnarch
+1 Gitaxian Anatomist
+1 Gulping Scraptrap
+1 Malcator's Watcher
+1 Mountain
+1 Ovika, Enigma Goliath
+1 Porcelain Zealot
+1 Ruthless Predation
+1 Skyscythe Engulfer
+1 Titanic Growth

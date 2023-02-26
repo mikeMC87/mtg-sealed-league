@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Argentum Masticore
-1 Branchblight Stalker
-1 Bring the Ending
-1 Charge of the Mites
-1 Distorted Curiosity
-1 Feed the Infection
-1 Forest
-1 Free from Flesh
-1 Malcator's Watcher
-1 Meldweb Curator
-1 Pestilent Syphoner
-1 Phyrexian Vindicator
-1 Rustvine Cultivator
+1 Blightbelly Rat
+1 Carnivorous Canopy
+1 Contagious Vorrac
+1 Ichorplate Golem
+1 Kaito, Dancing Shadow
+1 Maze's Mantle
+1 Offer Immortality
+1 Phyrexian Atlas
+1 Quicksilver Fisher
+1 Ravenous Necrotitan
+1 Resistance Reunited
+1 Sawblade Scamp
 1 Skyscythe Engulfer
-1 Tyvar's Stand
+1 Swamp
+1 Testament Bearer

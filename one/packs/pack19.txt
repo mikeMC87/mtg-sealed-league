@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Anoint with Affliction
-1 Apostle of Invasion
-1 Bilious Skulldweller
-1 Blazing Crescendo
+1 Blightbelly Rat
+1 Chimney Rabble
 1 Compleat Devotion
+1 Forgehammer Centurion
 1 Ichor Synthesizer
+1 Maze Skullbomb
 1 Mesmerizing Dose
-1 Mountain
-1 Plains
-1 Porcelain Zealot
-1 Prophetic Prism
-1 The Filigree Sylex
-1 The Surgical Bay
-1 Vivisurgeon's Insight
-1 Vulshok Splitter
+1 Mindsplice Apparatus
+1 Minor Misstep
+1 Shrapnel Slinger
+1 Slaughter Singer
+1 Swamp
+1 Urabrask's Anointer
+1 Whisper of the Dross
+1 Zealot's Conviction
