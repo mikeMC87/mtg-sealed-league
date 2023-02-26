@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Annex Sentry
-1 Bloated Contaminator
-1 Contagious Vorrac
-1 Escaped Experiment
-1 Expand the Sphere
-1 Ichor Synthesizer
-1 Indoctrination Attendant
+1 Barbed Batterfist
+1 Bladed Ambassador
+1 Branchblight Stalker
+1 Cutthroat Centurion
+1 Drown in Ichor
 1 Infectious Inquiry
-1 Mesmerizing Dose
-1 Mountain
-1 Rebel Salvo
-1 Rustvine Cultivator
-1 The Autonomous Furnace
+1 Mercurial Spelldancer
+1 Orthodoxy Enforcer
+1 Quicksilver Fisher
+1 Swamp
+1 Sylvok Battle-Chair
 1 The Hunter Maze
-1 Whisper of the Dross
+1 Thirsting Roots
+1 Vanish into Eternity
+1 Zealot's Conviction

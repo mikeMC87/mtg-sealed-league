@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Contagious Vorrac
-1 Gitaxian Raptor
-1 Ichor Synthesizer
-1 Ichormoon Gauntlet
-1 Malcator's Watcher
-1 Myr Custodian
-1 Oil-Gorger Troll
-1 Plains
-1 Prologue to Phyresis
-1 Quicksilver Fisher
-1 Reject Imperfection
-1 Sheoldred's Edict
-1 Swooping Lookout
-1 The Fair Basilica
-1 The Hunter Maze
+1 Basilica Skullbomb
+1 Charge of the Mites
+1 Chimney Rabble
+1 Crawling Chorus
+1 Forest
+1 Furnace Strider
+1 Gleeful Demolition
+1 Malcator, Purity Overseer
+1 Meldweb Curator
+1 Mirran Bardiche
+1 Necrogen Communion
+1 Prophetic Prism
+1 Ribskiff
+1 Vanish into Eternity
+1 Vivisurgeon's Insight

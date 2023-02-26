@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Aspirant's Ascent
-1 Bladegraft Aspirant
-1 Bring the Ending
-1 Conduit of Worlds
+1 Cacophony Scamp
+1 Copper Longlegs
 1 Dross Skullbomb
-1 Drown in Ichor
-1 Flensing Raptor
-1 Furnace Punisher
+1 Duress
+1 Fleshless Gladiator
+1 Goldwarden's Helm
 1 Infectious Inquiry
 1 Island
-1 Magmatic Sprinter
-1 Maze Skullbomb
-1 Skyscythe Engulfer
-1 Thrill of Possibility
+1 Predation Steward
+1 Scheming Aspirant
+1 The Dross Pits
+1 The Surgical Bay
 1 Titanic Growth
+1 Vat of Rebirth
+1 Zenith Chronicler

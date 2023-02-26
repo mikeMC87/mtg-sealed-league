@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Aspirant's Ascent
-1 Blue Sun's Twilight
-1 Carnivorous Canopy
-1 Churning Reservoir
-1 Drown in Ichor
-1 Fleshless Gladiator
-1 Forest
-1 Hazardous Blast
-1 Quicksilver Fisher
-1 Ruthless Predation
-1 Sheoldred's Headcleaver
-1 Sinew Dancer
-1 The Dross Pits
-1 Unnatural Restoration
-1 Vanish into Eternity
+1 Annihilating Glare
+1 Charge of the Mites
+1 Cruel Grimnarch
+1 Duelist of Deep Faith
+1 Escaped Experiment
+1 Glistener Seer
+1 Incubation Sac
+1 Indoctrination Attendant
+1 Infectious Bite
+1 Migloz, Maze Crusher
+1 Molten Rebuke
+1 Mountain
+1 Ribskiff
+1 The Hunter Maze
+1 Whisper of the Dross

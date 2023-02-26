@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
 1 Basilica Skullbomb
 1 Blazing Crescendo
-1 Bonepicker Skirge
-1 Chrome Prowler
-1 Cinderslash Ravager
-1 Cruel Grimnarch
-1 Dross Skullbomb
-1 Forest
-1 Leonin Lightbringer
-1 Molten Rebuke
-1 Nahiri's Sacrifice
-1 Oil-Gorger Troll
-1 Orthodoxy Enforcer
-1 Ossification
-1 Ria Ivor, Bane of Bladehold
+1 Churning Reservoir
+1 Compleat Devotion
+1 Crawling Chorus
+1 Flensing Raptor
+1 Fleshless Gladiator
+1 Incubation Sac
+1 Mountain
+1 Porcelain Zealot
+1 Skyscythe Engulfer
+1 The Autonomous Furnace
+1 The Hunter Maze
+1 Thrun, Breaker of Silence
+1 Vulshok Splitter
