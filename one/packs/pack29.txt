@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Apostle of Invasion
-1 Aspirant's Ascent
-1 Bladed Ambassador
-1 Blightbelly Rat
+1 Annihilating Glare
+1 Atraxa's Skitterfang
+1 Basilica Shepherd
 1 Charge of the Mites
-1 Duelist of Deep Faith
-1 Glistener Seer
-1 Hazardous Blast
-1 Incisor Glider
+1 Cutthroat Centurion
+1 Dune Mover
+1 Free from Flesh
+1 Infectious Inquiry
+1 Jor Kadeen, First Goldwarden
+1 Maze's Mantle
 1 Mountain
-1 Orthodoxy Enforcer
-1 Ruthless Predation
-1 The Seedcore
+1 Sinew Dancer
 1 Transplant Theorist
-1 Whisper of the Dross
+1 Tyrranax Atrocity
+1 Unctus's Retrofitter

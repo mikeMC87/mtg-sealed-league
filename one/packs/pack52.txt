@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Ambulatory Edifice
+1 Barbed Batterfist
 1 Basilica Skullbomb
-1 Blazing Crescendo
-1 Churning Reservoir
-1 Compleat Devotion
-1 Crawling Chorus
-1 Flensing Raptor
-1 Fleshless Gladiator
-1 Incubation Sac
-1 Mountain
-1 Porcelain Zealot
-1 Skyscythe Engulfer
-1 The Autonomous Furnace
-1 The Hunter Maze
-1 Thrun, Breaker of Silence
-1 Vulshok Splitter
+1 Blightbelly Rat
+1 Cutthroat Centurion
+1 Gitaxian Raptor
+1 Graaz, Unstoppable Juggernaut
+1 Indoctrination Attendant
+1 Lattice-Blade Mantis
+1 Orthodoxy Enforcer
+1 Prosthetic Injector
+1 Swamp
+1 Vivisection Evangelist
+1 Volt Charge
+1 Zealot's Conviction

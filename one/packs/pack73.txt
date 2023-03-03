@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Ambulatory Edifice
+1 Bladed Ambassador
 1 Blightbelly Rat
-1 Carnivorous Canopy
-1 Contagious Vorrac
-1 Ichorplate Golem
-1 Kaito, Dancing Shadow
-1 Maze's Mantle
-1 Offer Immortality
+1 Feed the Infection
+1 Incisor Glider
+1 Island
 1 Phyrexian Atlas
-1 Quicksilver Fisher
-1 Ravenous Necrotitan
-1 Resistance Reunited
-1 Sawblade Scamp
+1 Plague Nurse
+1 Sheoldred, the Apocalypse
+1 Sheoldred's Headcleaver
 1 Skyscythe Engulfer
-1 Swamp
-1 Testament Bearer
+1 The Surgical Bay
+1 Thirsting Roots
+1 Vivisurgeon's Insight
+1 Whisper of the Dross
