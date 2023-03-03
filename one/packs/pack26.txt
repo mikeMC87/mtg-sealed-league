@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Awaken the Sleeper
-1 Basilica Shepherd
+1 Branchblight Stalker
 1 Carnivorous Canopy
-1 Chittering Skitterling
-1 Compleat Devotion
-1 Contagious Vorrac
-1 Forest
-1 Hexgold Slash
-1 Karumonix, the Rat King
+1 Charge of the Mites
+1 Exuberant Fuseling
+1 Goldwarden's Helm
 1 Meldweb Curator
-1 Mirran Bardiche
-1 Stinging Hivemaster
-1 The Autonomous Furnace
-1 Venomous Brutalizer
-1 Vivisurgeon's Insight
+1 Plains
+1 Sinew Dancer
+1 Slaughter Singer
+1 Soulless Jailer
+1 Swooping Lookout
+1 Thrill of Possibility
+1 Tyrranax Atrocity
+1 Vanish into Eternity
+1 Volt Charge

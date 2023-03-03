@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Ambulatory Edifice
-1 Bladehold War-Whip
-1 Compleat Devotion
-1 Flensing Raptor
-1 Hazardous Blast
-1 Incubation Sac
+1 Basilica Skullbomb
+1 Chittering Skitterling
+1 Dross Skullbomb
+1 Duress
+1 Furnace Skullbomb
+1 Hexgold Slash
 1 Infectious Inquiry
-1 Mandible Justiciar
-1 Mercurial Spelldancer
-1 Mountain
-1 Resistance Skywarden
+1 Island
+1 Migloz, Maze Crusher
+1 Myr Kinsmith
+1 Scheming Aspirant
 1 Sheoldred's Headcleaver
-1 Sinew Dancer
-1 Surgical Skullbomb
-1 Vraska's Fall
+1 The Autonomous Furnace
+1 Transplant Theorist
+1 Volt Charge

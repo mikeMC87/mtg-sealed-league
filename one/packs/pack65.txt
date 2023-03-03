@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Argentum Masticore
-1 Branchblight Stalker
-1 Bring the Ending
-1 Charge of the Mites
-1 Distorted Curiosity
-1 Feed the Infection
+1 Bladed Ambassador
+1 Cacophony Scamp
+1 Cutthroat Centurion
 1 Forest
-1 Free from Flesh
-1 Malcator's Watcher
-1 Meldweb Curator
-1 Pestilent Syphoner
-1 Phyrexian Vindicator
-1 Rustvine Cultivator
-1 Skyscythe Engulfer
-1 Tyvar's Stand
+1 Goldwarden's Helm
+1 Hexgold Slash
+1 Ichor Synthesizer
+1 Incisor Glider
+1 Indoctrination Attendant
+1 Infectious Inquiry
+1 Kaito, Dancing Shadow
+1 Myr Custodian
+1 Predation Steward
+1 Tainted Observer
+1 Thirsting Roots

@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Contagious Vorrac
-1 Cutthroat Centurion
-1 Darkslick Shores
-1 Malcator, Purity Overseer
-1 Mandible Justiciar
+1 Adaptive Sporesinger
+1 Chrome Prowler
+1 Crawling Chorus
+1 Drown in Ichor
+1 Duress
+1 Gitaxian Raptor
 1 Myr Custodian
-1 Myr Kinsmith
-1 Nimraiser Paladin
-1 Plains
-1 Porcelain Zealot
-1 Prologue to Phyresis
-1 Sawblade Scamp
-1 Skyscythe Engulfer
-1 Tamiyo's Immobilizer
+1 Surgical Skullbomb
+1 Swamp
+1 Testament Bearer
+1 Tyvar's Stand
+1 Urabrask's Forge
+1 Vanish into Eternity
+1 Venomous Brutalizer
 1 Vraska's Fall

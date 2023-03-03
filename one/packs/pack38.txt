@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Bloated Contaminator
-1 Branchblight Stalker
+1 Barbed Batterfist
 1 Bring the Ending
-1 Contagious Vorrac
-1 Gitaxian Anatomist
-1 Hexgold Hoverwings
-1 Leonin Lightbringer
-1 Mirran Bardiche
-1 Orthodoxy Enforcer
-1 Paladin of Predation
-1 Plains
-1 Ribskiff
-1 Sheoldred's Headcleaver
+1 Chittering Skitterling
+1 Expand the Sphere
+1 Island
+1 Lattice-Blade Mantis
+1 Mesmerizing Dose
+1 Necrogen Rotpriest
+1 Oil-Gorger Troll
+1 Prophetic Prism
 1 Sinew Dancer
-1 Volt Charge
+1 Tablet of Compleation
+1 Terramorphic Expanse
+1 The Hunter Maze
+1 Tyrranax Atrocity

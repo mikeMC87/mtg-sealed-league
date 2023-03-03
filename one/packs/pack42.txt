@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Barbed Batterfist
-1 Bring the Ending
-1 Chittering Skitterling
-1 Expand the Sphere
-1 Island
-1 Lattice-Blade Mantis
-1 Mesmerizing Dose
-1 Necrogen Rotpriest
+1 Contagious Vorrac
+1 Gitaxian Raptor
+1 Ichor Synthesizer
+1 Ichormoon Gauntlet
+1 Malcator's Watcher
+1 Myr Custodian
 1 Oil-Gorger Troll
-1 Prophetic Prism
-1 Sinew Dancer
-1 Tablet of Compleation
-1 Terramorphic Expanse
+1 Plains
+1 Prologue to Phyresis
+1 Quicksilver Fisher
+1 Reject Imperfection
+1 Sheoldred's Edict
+1 Swooping Lookout
+1 The Fair Basilica
 1 The Hunter Maze
-1 Tyrranax Atrocity

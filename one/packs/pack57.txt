@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Furnace Punisher
-1 Goldwarden's Helm
-1 Indoctrination Attendant
-1 Mandible Justiciar
-1 Offer Immortality
+1 Annihilating Glare
+1 Apostle of Invasion
+1 Awaken the Sleeper
+1 Bladegraft Aspirant
+1 Blightbelly Rat
+1 Contagious Vorrac
+1 Duress
+1 Ichorspit Basilisk
+1 Koth, Fire of Resistance
+1 Oil-Gorger Troll
+1 Oxidda Finisher
 1 Plains
-1 Prologue to Phyresis
-1 Rustvine Cultivator
-1 Sheoldred's Headcleaver
-1 Shrapnel Slinger
 1 Stinging Hivemaster
-1 Surgical Skullbomb
-1 Tamiyo's Logbook
-1 Urabrask's Forge
-1 Vat Emergence
+1 Terramorphic Expanse
+1 Vanish into Eternity

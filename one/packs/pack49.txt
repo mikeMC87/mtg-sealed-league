@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Basilica Shepherd
-1 Bilious Skulldweller
-1 Bonepicker Skirge
-1 Compleat Devotion
+1 Bladegraft Aspirant
+1 Chrome Prowler
 1 Crawling Chorus
-1 Cruel Grimnarch
-1 Expand the Sphere
-1 Flensing Raptor
-1 Goldwarden's Helm
-1 Hexgold Slash
-1 Norn's Wellspring
+1 Escaped Experiment
+1 Experimental Augury
+1 Font of Progress
+1 Hexgold Hoverwings
+1 Infectious Inquiry
+1 Jor Kadeen, First Goldwarden
+1 Mandible Justiciar
+1 Mesmerizing Dose
 1 Plains
-1 Reject Imperfection
-1 Sheoldred's Headcleaver
-1 Shrapnel Slinger
+1 Quicksilver Fisher
+1 Scheming Aspirant
+1 The Hunter Maze

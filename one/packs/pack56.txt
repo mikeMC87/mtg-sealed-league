@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Bladegraft Aspirant
-1 Chrome Prowler
-1 Crawling Chorus
-1 Escaped Experiment
-1 Experimental Augury
-1 Font of Progress
-1 Hexgold Hoverwings
-1 Infectious Inquiry
-1 Jor Kadeen, First Goldwarden
-1 Mandible Justiciar
-1 Mesmerizing Dose
-1 Plains
-1 Quicksilver Fisher
-1 Scheming Aspirant
-1 The Hunter Maze
+1 Argentum Masticore
+1 Branchblight Stalker
+1 Bring the Ending
+1 Charge of the Mites
+1 Distorted Curiosity
+1 Feed the Infection
+1 Forest
+1 Free from Flesh
+1 Malcator's Watcher
+1 Meldweb Curator
+1 Pestilent Syphoner
+1 Phyrexian Vindicator
+1 Rustvine Cultivator
+1 Skyscythe Engulfer
+1 Tyvar's Stand
