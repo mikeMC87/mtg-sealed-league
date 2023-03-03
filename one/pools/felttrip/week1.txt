@@ -1,1 +1,66 @@
-// STILL NEED ORIGINAL POOL
+1 The Hunter Maze
+1 The Monumental Facade
+1 Rustvine Cultivator
+1 Barbed Batterfist
+1 Blazing Crescendo
+1 Armored Scrapgorger
+2 Copper Longlegs
+2 Titanic Growth
+1 Dune Mover
+1 Forgehammer Centurion
+1 Furnace Punisher
+2 Adaptive Sporesinger
+1 Carnivorous Canopy
+2 Ichorspit Basilisk
+2 Hazardous Blast
+1 Evolved Spinoderm
+1 Lattice-Blade Mantis
+1 Resistance Skywarden
+1 Thrun, Breaker of Silence
+1 Nissa, Ascended Animist
+1 Sinew Dancer
+3 Swooping Lookout
+2 Zealot's Conviction
+1 Compleat Devotion
+1 Incisor Glider
+1 Infested Fleshcutter
+2 Charge of the Mites
+1 Flensing Raptor
+2 Goldwarden's Helm
+1 Leonin Lightbringer
+1 Basilica Shepherd
+1 Aspirant's Ascent
+1 Font of Progress
+1 Glistener Seer
+1 Mercurial Spelldancer
+1 Eye of Malcator
+2 Mesmerizing Dose
+1 Unctus's Retrofitter
+1 Gitaxian Anatomist
+2 Meldweb Curator
+2 Anoint with Affliction
+1 Fleshless Gladiator
+1 Necrogen Communion
+1 Sheoldred's Edict
+1 Cutthroat Centurion
+1 Infectious Inquiry
+1 Stinging Hivemaster
+1 Ravenous Necrotitan
+1 Sheoldred's Headcleaver
+1 Gulping Scraptrap
+1 Sawblade Scamp
+1 Bladegraft Aspirant
+1 Kuldotha Cackler
+1 Maze's Mantle
+2 Ichorplate Golem
+1 Bladehold War-Whip
+2 Venomous Brutalizer
+2 Chimney Rabble
+1 Basilica Skullbomb
+1 Dross Skullbomb
+1 Soulless Jailer
+1 Noxious Assault
+1 Furnace Strider
+2 The Dross Pits
+1 The Fair Basilica
+2 Skyscythe Engulfer
