@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Atraxa's Skitterfang
-1 Basilica Shepherd
-1 Escaped Experiment
-1 Glistener Seer
-1 Mandible Justiciar
-1 Maze Skullbomb
-1 Myr Kinsmith
-1 Plains
-1 Planar Disruption
-1 Prophetic Prism
-1 Reject Imperfection
-1 Sinew Dancer
-1 Skyscythe Engulfer
-1 The Seedcore
-1 Veil of Assimilation
+1 Ambulatory Edifice
+1 Barbed Batterfist
+1 Basilica Skullbomb
+1 Blightbelly Rat
+1 Cutthroat Centurion
+1 Gitaxian Raptor
+1 Graaz, Unstoppable Juggernaut
+1 Indoctrination Attendant
+1 Lattice-Blade Mantis
+1 Orthodoxy Enforcer
+1 Prosthetic Injector
+1 Swamp
+1 Vivisection Evangelist
+1 Volt Charge
+1 Zealot's Conviction

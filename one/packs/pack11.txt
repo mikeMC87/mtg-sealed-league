@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/one -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Against All Odds
-1 Bilious Skulldweller
-1 Bring the Ending
-1 Contagious Vorrac
+1 Cacophony Scamp
+1 Copper Longlegs
+1 Dross Skullbomb
+1 Duress
+1 Fleshless Gladiator
 1 Goldwarden's Helm
-1 Hazardous Blast
-1 Indoctrination Attendant
 1 Infectious Inquiry
-1 Mountain
-1 Orthodoxy Enforcer
-1 Oxidda Finisher
-1 Prosthetic Injector
-1 Testament Bearer
-1 Thrill of Possibility
-1 Venser, Corpse Puppet
+1 Island
+1 Predation Steward
+1 Scheming Aspirant
+1 The Dross Pits
+1 The Surgical Bay
+1 Titanic Growth
+1 Vat of Rebirth
+1 Zenith Chronicler
