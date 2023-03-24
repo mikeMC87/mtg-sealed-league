@@ -1,0 +1,107 @@
+2 Sinew Dancer
+3 Swooping Lookout
+3 Zealot's Conviction
+2 Compleat Devotion
+1 Incisor Glider
+2 Infested Fleshcutter
+1 Mandible Justiciar
+1 Veil of Assimilation
+3 Charge of the Mites
+2 Flensing Raptor
+2 Goldwarden's Helm
+1 Leonin Lightbringer
+2 Vanish into Eternity
+1 Indoctrination Attendant
+2 Basilica Shepherd
+2 Aspirant's Ascent
+1 Font of Progress
+1 Glistener Seer
+1 Bring the Ending
+1 Escaped Experiment
+1 Malcator's Watcher
+1 Mercurial Spelldancer
+1 Blade of Shared Souls
+1 Chrome Prowler
+1 Eye of Malcator
+2 Gitaxian Raptor
+3 Mesmerizing Dose
+1 Unctus's Retrofitter
+1 Gitaxian Anatomist
+3 Meldweb Curator
+1 Meldweb Strider
+1 Quicksilver Fisher
+1 Vivisurgeon's Insight
+1 Blue Sun's Twilight
+1 Annihilating Glare
+2 Anoint with Affliction
+1 Drown in Ichor
+2 Fleshless Gladiator
+2 Necrogen Communion
+1 Offer Immortality
+1 Sheoldred's Edict
+2 Cutthroat Centurion
+2 Infectious Inquiry
+1 Stinging Hivemaster
+1 Vraska's Fall
+1 Ravenous Necrotitan
+2 Sheoldred's Headcleaver
+1 Gulping Scraptrap
+1 Churning Reservoir
+1 Sawblade Scamp
+1 Axiom Engraver
+1 Barbed Batterfist
+2 Blazing Crescendo
+1 Bladegraft Aspirant
+3 Forgehammer Centurion
+1 Furnace Punisher
+1 Kuldotha Cackler
+1 Rebel Salvo
+3 Chimney Rabble
+3 Hazardous Blast
+1 Furnace Strider
+1 Resistance Skywarden
+1 Incubation Sac
+3 Rustvine Cultivator
+1 Thirsting Roots
+1 Armored Scrapgorger
+1 Branchblight Stalker
+3 Copper Longlegs
+1 Ruthless Predation
+2 Titanic Growth
+2 Unnatural Restoration
+2 Adaptive Sporesinger
+2 Carnivorous Canopy
+1 Contagious Vorrac
+2 Ichorspit Basilisk
+1 Maze's Mantle
+1 Evolved Spinoderm
+1 Lattice-Blade Mantis
+2 Venomous Brutalizer
+1 Noxious Assault
+1 Thrun, Breaker of Silence
+2 Skyscythe Engulfer
+1 Nissa, Ascended Animist
+1 Cephalopod Sentry
+1 Cinderslash Ravager
+1 Ovika, Enigma Goliath
+1 Necrogen Rotpriest
+2 Bladehold War-Whip
+1 Basilica Skullbomb
+1 Dross Skullbomb
+1 Maze Skullbomb
+2 Dune Mover
+1 Monument to Perfection
+1 Myr Convert
+1 Soulless Jailer
+1 Atraxa's Skitterfang
+2 Ichorplate Golem
+1 Myr Kinsmith
+1 Blackcleave Cliffs
+4 The Dross Pits
+2 The Fair Basilica
+1 The Hunter Maze
+1 The Monumental Facade
+1 The Surgical Bay
+3 Forest
+1 Island
+1 Plains
