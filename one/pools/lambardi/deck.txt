@@ -1,0 +1,36 @@
+Deck
+9 Forest (USG) 348
+7 Mountain (USG) 343
+2 Hexgold Slash (ONE) 137
+1 Vindictive Flamestoker (ONE) 154
+1 Incubation Sac (ONE) 171
+1 Barbed Batterfist (ONE) 121
+1 Blazing Crescendo (ONE) 123
+3 Armored Scrapgorger (ONE) 158
+1 Cankerbloom (ONE) 161
+1 Ruthless Predation (ONE) 182
+1 Atraxa's Skitterfang (ONE) 223
+1 Volt Charge (ONE) 155
+1 Bloated Contaminator (ONE) 159
+2 Contagious Vorrac (ONE) 164
+1 Migloz, Maze Crusher (ONE) 210
+1 Hazardous Blast (ONE) 135
+1 Evolved Spinoderm (ONE) 166
+1 Lattice-Blade Mantis (ONE) 173
+1 Sawblade Scamp (ONE) 147
+2 Oil-Gorger Troll (ONE) 177
+1 Cinderslash Ravager (ONE) 200
+
+Sideboard
+1 Copper Longlegs (ONE) 165
+2 Titanic Growth (ONE) 187
+2 Carnivorous Canopy (ONE) 162
+1 Awaken the Sleeper (ONE) 119
+1 Sawblade Scamp (ONE) 147
+1 Molten Rebuke (ONE) 141
+1 Noxious Assault (ONE) 176
+1 Furnace Punisher (ONE) 132
+1 The Autonomous Furnace (ONE) 247
+1 Terramorphic Expanse (ONE) 261
+1 Mirrex (ONE) 254
+1 Furnace Strider (ONE) 133

@@ -1,0 +1,38 @@
+Deck
+1 The Monumental Facade (ONE) 255
+1 The Hunter Maze (ONE) 253
+8 Forest (ONE) 276
+7 Mountain (ONE) 275
+1 Incubation Sac (ONE) 171
+1 Rustvine Cultivator (ONE) 181
+1 Churning Reservoir (ONE) 127
+1 Armored Scrapgorger (ONE) 158
+1 Barbed Batterfist (ONE) 121
+1 Blazing Crescendo (ONE) 123
+2 Titanic Growth (ONE) 187
+1 Rebel Salvo (ONE) 144
+1 Contagious Vorrac (ONE) 164
+1 Furnace Punisher (ONE) 132
+1 Atraxa's Skitterfang (ONE) 223
+1 Forgehammer Centurion (ONE) 130
+1 Carnivorous Canopy (ONE) 162
+1 Evolved Spinoderm (ONE) 166
+1 Lattice-Blade Mantis (ONE) 173
+3 Hazardous Blast (ONE) 135
+1 Thrun, Breaker of Silence (ONE) 186
+1 Resistance Skywarden (ONE) 146
+1 Cinderslash Ravager (ONE) 200
+1 Nissa, Ascended Animist (ONE) 175
+
+Sideboard
+1 Rustvine Cultivator (ONE) 181
+1 Maze Skullbomb (ONE) 231
+1 Blazing Crescendo (ONE) 123
+1 Ruthless Predation (ONE) 182
+2 Copper Longlegs (ONE) 165
+1 Bladegraft Aspirant (ONE) 122
+2 Forgehammer Centurion (ONE) 130
+1 Carnivorous Canopy (ONE) 162
+2 Adaptive Sporesinger (ONE) 157
+2 Chimney Rabble (ONE) 126
+1 Furnace Strider (ONE) 133

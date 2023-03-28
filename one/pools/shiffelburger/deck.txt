@@ -1,0 +1,37 @@
+Deck
+1 Annihilating Glare (ONE) 80
+2 Bilious Skulldweller (ONE) 83
+9 Swamp (ONE) 274
+8 Forest (ONE) 276
+2 Anoint with Affliction (ONE) 81
+1 Blightbelly Rat (ONE) 85
+1 Drown in Ichor (ONE) 91
+1 Pestilent Syphoner (ONE) 103
+1 Cankerbloom (ONE) 161
+1 Infectious Bite (ONE) 172
+1 Ruthless Predation (ONE) 182
+1 Ambulatory Edifice (ONE) 79
+1 Stinging Hivemaster (ONE) 110
+2 Contagious Vorrac (ONE) 164
+1 Glissa Sunslayer (ONE) 202
+1 Archfiend of the Dross (ONE) 82
+1 Feed the Infection (ONE) 93
+2 Sheoldred, the Apocalypse (DMU) 107
+1 Plague Nurse (ONE) 179
+1 Vraska, Betrayal's Sting (ONE) 115
+1 Zopandrel, Hunger Dominus (ONE) 195
+
+Sideboard
+1 Copper Longlegs (ONE) 165
+1 Duress (ONE) 92
+2 Blightbelly Rat (ONE) 85
+2 Incubation Sac (ONE) 171
+1 Armored Scrapgorger (ONE) 158
+1 Cutthroat Centurion (ONE) 89
+1 Infectious Inquiry (ONE) 97
+1 Sheoldred's Headcleaver (ONE) 109
+1 Testament Bearer (ONE) 111
+1 Cruel Grimnarch (ONE) 88
+1 Predation Steward (ONE) 180
+1 Adaptive Sporesinger (ONE) 157
+1 Skyscythe Engulfer (ONE) 183

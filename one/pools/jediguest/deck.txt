@@ -1,0 +1,39 @@
+Deck
+1 Razorverge Thicket (ONE) 257
+1 Terramorphic Expanse (ONE) 261
+1 The Fair Basilica (ONE) 252
+1 The Hunter Maze (ONE) 253
+2 The Seedcore (ONE) 259
+4 Plains (DMU) 277
+2 Crawling Chorus (ONE) 8
+1 Swooping Lookout (ONE) 35
+2 Basilica Skullbomb (ONE) 224
+2 Compleat Devotion (ONE) 7
+1 Branchblight Stalker (ONE) 160
+2 Infectious Bite (ONE) 172
+1 Titanic Growth (ONE) 187
+2 Charge of the Mites (ONE) 6
+1 Flensing Raptor (ONE) 12
+2 Ichorspit Basilisk (ONE) 170
+1 Phyrexian Atlas (ONE) 237
+1 Porcelain Zealot (ONE) 30
+2 Lattice-Blade Mantis (ONE) 173
+1 Oil-Gorger Troll (ONE) 177
+1 Thrun, Breaker of Silence (ONE) 186
+1 Apostle of Invasion (ONE) 3
+1 Zopandrel, Hunger Dominus (ONE) 195
+6 Forest (DMU) 281
+
+Sideboard
+1 Copper Longlegs (ONE) 165
+1 Indoctrination Attendant (ONE) 16
+1 Jawbone Duelist (ONE) 18
+1 Duelist of Deep Faith (ONE) 9
+1 Compleat Devotion (ONE) 7
+1 Bladed Ambassador (ONE) 5
+1 Skyscythe Engulfer (ONE) 183
+1 Plague Nurse (ONE) 179
+3 Carnivorous Canopy (ONE) 162
+1 Titanic Growth (ONE) 187
+2 Ruthless Predation (ONE) 182
+1 Incubation Sac (ONE) 171

@@ -1,0 +1,35 @@
+Deck
+1 The Autonomous Furnace (ONE) 247
+8 Forest (THB) 286
+7 Mountain (THB) 284
+1 Cacophony Scamp (ONE) 124
+1 Hexgold Slash (ONE) 137
+1 Rustvine Cultivator (ONE) 181
+1 Barbed Batterfist (ONE) 121
+2 Blazing Crescendo (ONE) 123
+2 Shrapnel Slinger (ONE) 148
+1 Cankerbloom (ONE) 161
+1 Infectious Bite (ONE) 172
+2 Ruthless Predation (ONE) 182
+1 Titanic Growth (ONE) 187
+2 Bladegraft Aspirant (ONE) 122
+1 Furnace Punisher (ONE) 132
+2 Contagious Vorrac (ONE) 164
+3 Chimney Rabble (ONE) 126
+1 Lattice-Blade Mantis (ONE) 173
+1 Dragonwing Glider (ONE) 128
+1 Tyvar's Stand (ONE) 190
+
+Sideboard
+2 Vanish into Eternity (ONE) 36
+1 Free from Flesh (ONE) 131
+1 Nahiri's Sacrifice (ONE) 142
+1 Red Sun's Twilight (ONE) 145
+1 Incubation Sac (ONE) 171
+1 Rustvine Cultivator (ONE) 181
+1 Titanic Growth (ONE) 187
+1 Tyrranax Atrocity (ONE) 188
+2 Maze Skullbomb (ONE) 231
+1 Prophetic Prism (ONE) 238
+1 Argentum Masticore (ONE) 222
+2 Plains (THB) 278

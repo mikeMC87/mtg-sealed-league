@@ -1,0 +1,33 @@
+Deck
+1 Swooping Lookout (ONE) 35
+1 Crawling Chorus (ONE) 8
+1 Skrelv, Defector Mite (ONE) 33
+1 Sinew Dancer (ONE) 32
+1 Mirran Bardiche (ONE) 22
+1 Mandible Justiciar (ONE) 21
+1 Annex Sentry (ONE) 2
+2 Flensing Raptor (ONE) 12
+1 Chimney Rabble (ONE) 126
+1 Indoctrination Attendant (ONE) 16
+12 Plains (ONE) 272
+2 Basilica Shepherd (ONE) 4
+2 Hexgold Slash (ONE) 137
+1 Compleat Devotion (ONE) 7
+2 Charge of the Mites (ONE) 6
+1 Volt Charge (ONE) 155
+5 Mountain (ONE) 275
+2 Hazardous Blast (ONE) 135
+2 The Eternal Wanderer (ONE) 11
+
+Sideboard
+1 Charge of the Mites (ONE) 6
+1 Shrapnel Slinger (ONE) 148
+1 Barbed Batterfist (ONE) 121
+1 Awaken the Sleeper (ONE) 119
+2 Cacophony Scamp (ONE) 124
+1 Furnace Strider (ONE) 133
+1 Mirran Bardiche (ONE) 22
+3 Mountain (ONE) 275
+2 Plains (ONE) 272
+1 Vanish into Eternity (ONE) 36
+1 Plated Onslaught (ONE) 29
