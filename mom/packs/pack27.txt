@@ -1,0 +1,16 @@
+// Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Atraxa's Fall
+1 Consuming Aetherborn
+1 Disturbing Conversion
+1 Expedition Lookout
+1 Invasion of Muraganda
+1 Island
+1 Juri, Master of the Revue
+1 Kami of Whispered Hopes
+1 Kor Halberd
+1 Onakke Javelineer
+1 Phyrexian Censor
+1 Searing Barb
+1 Seraph of New Capenna
+1 Sheoldred
+1 Thrashing Frontliner

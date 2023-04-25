@@ -1,0 +1,16 @@
+// Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Etched Familiar
+1 Gnottvold Hermit
+1 Invasion of Ergamon
+1 Kithkin Billyrider
+1 Norn's Inquisitor
+1 Oculus Whelp
+1 Polukranos Reborn
+1 Reyav, Master Smith
+1 Searing Barb
+1 Stasis Field
+1 Swamp
+1 Tenured Oilcaster
+1 Thunderhead Squadron
+1 Tranquil Cove
+1 War Historian

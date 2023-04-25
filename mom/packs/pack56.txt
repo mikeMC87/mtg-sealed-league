@@ -1,0 +1,15 @@
+// Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Bladed Battle-Fan
+1 Bloodfell Caves
+1 Infected Defector
+1 Invasion of Mercadia
+1 Khenra Spellspear
+1 Kithkin Billyrider
+1 Mirrodin Avenged
+2 Mountain
+1 Order of the Mirror
+1 Storm the Seedcore
+1 Tranquil Cove
+1 Unseal the Necropolis
+1 Zada, Hedron Grinder
+1 Zephyr Singer
