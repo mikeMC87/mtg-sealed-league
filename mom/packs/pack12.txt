@@ -1,0 +1,16 @@
+// Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Dreg Recycler
+1 Eyes of Gitaxias
+1 Flitting Guerrilla
+1 Ichor Drinker
+1 Invasion of Kaldheim
+1 Jungle Hollow
+1 Kami of Whispered Hopes
+1 Kithkin Billyrider
+1 Ramosian Greatsword
+1 Saiba Cryptomancer
+1 Seraph of New Capenna
+1 Temporal Cleansing
+1 Timberland Ancient
+1 Wind-Scarred Crag
+1 Zada, Hedron Grinder

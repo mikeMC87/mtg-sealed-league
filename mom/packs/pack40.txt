@@ -1,0 +1,16 @@
+// Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Aegar, the Freezing Flame
+1 Angelic Intervention
+1 Blossoming Sands
+1 Corrupted Conviction
+1 Elesh Norn
+1 Furnace Reins
+1 Furtive Analyst
+1 Hangar Scrounger
+1 Invasion of Amonkhet
+1 Jungle Hollow
+1 Nezumi Freewheeler
+1 Oculus Whelp
+1 Onakke Javelineer
+1 Order of the Mirror
+1 Ral's Reinforcements
