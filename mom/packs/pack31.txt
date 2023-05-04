@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Assimilate Essence
-1 Attentive Skywarden
-1 Bonded Herdbeast
-1 Captive Weird
-1 Failed Conversion
-1 Flywheel Racer
-1 Halo-Charged Skaab
+1 Angelic Intervention
+1 Blossoming Sands
+1 Cut Short
+1 Deadly Derision
+1 Eyes of Gitaxias
+1 Gnottvold Hermit
+1 Imoti, Celebrant of Bounty
 1 Invasion of Tolvada
-1 Island
-1 Renata, Called to the Hunt
-1 Sandstalker Moloch
-1 Scoured Barrens
-1 Stormclaw Rager
-1 Trailblazing Historian
-1 Vanquish the Weak
+1 Merciless Repurposing
+1 Placid Rottentail
+1 Plains
+1 Thunderhead Squadron
+1 War-Trained Slasher
+1 Wildwood Escort
+1 Xerex Strobe-Knight

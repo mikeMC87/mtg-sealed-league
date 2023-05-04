@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Aerial Boost
-1 Assimilate Essence
-1 Dina, Soul Steeper
-1 Etali, Primal Conqueror
-1 Failed Conversion
-1 Invasion of Lorwyn
-1 Jungle Hollow
-1 Kitesail
-1 Oracle of Tragedy
-1 Phyrexian Gargantua
-1 Placid Rottentail
+1 Chomping Kavu
+1 Ephara's Dispersal
+1 Furtive Analyst
+1 Glistening Dawn
+1 Invasion of Eldraine
+1 Island
+1 Kwende, Pride of Femeref
+1 Polukranos Reborn
+1 Ral's Reinforcements
 1 Realmbreaker's Grasp
-1 Swordsworn Cavalier
-1 War Historian
-1 Zhalfirin Shapecraft
+1 Serpent-Blade Assailant
+1 Skyclave Aerialist
+1 Sun-Blessed Guardian
+1 Timberland Ancient
+1 Wildwood Escort
