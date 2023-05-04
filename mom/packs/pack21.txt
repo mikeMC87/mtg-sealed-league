@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Angelic Intervention
-1 Blossoming Sands
-1 Copper Host Crusher
+1 Aetherblade Agent
+1 Bloodfell Caves
 1 Invasion of Azgol
-1 Invasion of New Capenna
-1 Jungle Hollow
-1 Mirrodin Avenged
-1 Onakke Javelineer
-1 Polukranos Reborn
+1 Invasion of Zendikar
+1 Mirran Banesplitter
+1 Norn's Inquisitor
+1 Overgrown Pest
+1 Phyrexian Archivist
+1 Protocol Knight
+1 Realmbreaker's Grasp
+1 Rona, Herald of Invasion
 1 Rugged Highlands
-1 Saiba Cryptomancer
-1 Skittering Surveyor
-1 Swordsworn Cavalier
-1 Tangled Skyline
-1 Yarok, the Desecrated
+1 Swiftwater Cliffs
+1 Wind-Scarred Crag
+1 Zirda, the Dawnwaker
