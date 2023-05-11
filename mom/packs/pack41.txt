@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Alabaster Host Intercessor
-1 Burning Sun's Fury
-1 Cosmic Hunger
-1 Deadly Derision
-1 Gnottvold Hermit
-1 Harried Artisan
+1 Bladed Battle-Fan
+1 Bloodfell Caves
+1 Captive Weird
+1 Corrupted Conviction
+1 Dreg Recycler
+1 Firja, Judge of Valor
+1 Halo-Charged Skaab
 1 Ichor Drinker
-1 Invasion of Gobakhan
-1 Kami of Whispered Hopes
-1 Raff, Weatherlight Stalwart
-1 Seed of Hope
-1 Swordsworn Cavalier
-1 Tidal Terror
-1 Timberland Ancient
-1 Wind-Scarred Crag
+1 Invasion of Ikoria
+1 Karsus Depthguard
+1 Plains
+1 Ramosian Greatsword
+1 Seraph of New Capenna
+1 Storm the Seedcore
+1 War-Trained Slasher

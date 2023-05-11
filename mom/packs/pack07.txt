@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Aegar, the Freezing Flame
-1 Aerial Boost
-1 Alabaster Host Intercessor
+1 Angelic Intervention
+1 Baral, Chief of Compliance
 1 Cut Short
-1 Dismal Backwater
-1 Etched Familiar
-1 Invasion of Theros
-1 Karsus Depthguard
-1 Knight of the New Coalition
+1 Etched Host Doombringer
+1 Expedition Lookout
+1 Invasion of Kaladesh
+1 Meeting of Minds
 1 Merciless Repurposing
-1 Mutagen Connoisseur
-1 Preening Champion
-1 Scoured Barrens
+1 Moment of Truth
+1 Oculus Whelp
+1 Realmbreaker, the Invasion Tree
 1 Sun-Blessed Guardian
-1 Volcanic Spite
+1 Thunderhead Squadron
+1 Tranquil Cove
+1 Zada, Hedron Grinder
