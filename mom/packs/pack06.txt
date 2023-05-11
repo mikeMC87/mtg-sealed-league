@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Bloodfell Caves
-1 Coming In Hot
-1 Djeru and Hazoret
-1 Firja, Judge of Valor
-1 Golden-Scale Aeronaut
-1 Invasion of Kaladesh
-1 Iridescent Blademaster
-1 Jungle Hollow
-1 Khenra Spellspear
-1 Kitesail
+1 Aegar, the Freezing Flame
+1 Aerial Boost
+1 Alabaster Host Intercessor
+1 Cut Short
+1 Dismal Backwater
+1 Etched Familiar
+1 Invasion of Theros
+1 Karsus Depthguard
+1 Knight of the New Coalition
+1 Merciless Repurposing
+1 Mutagen Connoisseur
 1 Preening Champion
-1 Saiba Cryptomancer
-1 Sandstalker Moloch
-1 Trailblazing Historian
-1 Vanquish the Weak
+1 Scoured Barrens
+1 Sun-Blessed Guardian
+1 Volcanic Spite

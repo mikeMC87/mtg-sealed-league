@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Akki Scrapchomper
-1 Attentive Skywarden
-1 Blightreaper Thallid
-1 Bloodfell Caves
-1 Enduring Bondwarden
-1 Halo-Charged Skaab
-1 Hangar Scrounger
-1 Imoti, Celebrant of Bounty
+1 Aerial Boost
+1 Chomping Kavu
+1 Coming In Hot
+1 Cut Short
+1 Disturbing Conversion
+1 Ephara's Dispersal
+1 Furnace Reins
+1 Invasion of Belenon
 1 Invasion of Kaldheim
-1 Invasion of Muraganda
-1 Invasion of Regatha
-1 Scoured Barrens
-1 Searing Barb
-1 Traumatic Revelation
-1 Vengeant Earth
+1 Knight of the New Coalition
+1 Lutri, the Spellchaser
+1 Ral's Reinforcements
+1 Rugged Highlands
+1 Seraph of New Capenna
+1 Urn of Godfire
