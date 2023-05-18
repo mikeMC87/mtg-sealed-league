@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
+1 Aerial Boost
 1 Assimilate Essence
-1 Attentive Skywarden
-1 Bonded Herdbeast
-1 Captive Weird
+1 Dina, Soul Steeper
+1 Etali, Primal Conqueror
 1 Failed Conversion
-1 Flywheel Racer
-1 Halo-Charged Skaab
-1 Invasion of Tolvada
-1 Island
-1 Renata, Called to the Hunt
-1 Sandstalker Moloch
-1 Scoured Barrens
-1 Stormclaw Rager
-1 Trailblazing Historian
-1 Vanquish the Weak
+1 Invasion of Lorwyn
+1 Jungle Hollow
+1 Kitesail
+1 Oracle of Tragedy
+1 Phyrexian Gargantua
+1 Placid Rottentail
+1 Realmbreaker's Grasp
+1 Swordsworn Cavalier
+1 War Historian
+1 Zhalfirin Shapecraft
