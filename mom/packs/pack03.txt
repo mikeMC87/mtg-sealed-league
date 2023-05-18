@@ -1,16 +1,16 @@
 // Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Cut Short
-1 Furtive Analyst
-1 Golden-Scale Aeronaut
-1 Harried Artisan
-1 Infected Defector
-1 Invasion of Dominaria
-1 Invasion of Segovia
-1 Omen Hawker
-1 Onakke Javelineer
-1 Sigiled Sentinel
+1 Coming In Hot
+1 Copper Host Crusher
+1 Dreg Recycler
+1 Firesong and Sunspeaker
+1 Invasion of Regatha
+1 Portent Tracker
+1 Protocol Knight
+1 Ral's Reinforcements
+1 Ravenous Sailback
+1 Saiba Cryptomancer
+1 Scrollshift
 1 Swamp
-1 Trailblazing Historian
-1 Urn of Godfire
-1 Yargle, Glutton of Urborg
-1 Zhalfirin Shapecraft
+1 Thornwood Falls
+1 Urabrask
+1 Wildwood Escort
