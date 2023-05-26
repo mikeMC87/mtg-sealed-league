@@ -1,16 +1,15 @@
 // Created by MtG Generator: https://mtgen.net/mom/ -- Import to Magic the Gathering: Arena by selecting everything in this file and copying it to your clipboard. Within MtG: Arena, go to your decks and click Import.
-1 Chomping Kavu
-1 Ephara's Dispersal
-1 Furtive Analyst
-1 Glistening Dawn
-1 Invasion of Eldraine
-1 Island
-1 Kwende, Pride of Femeref
-1 Polukranos Reborn
-1 Ral's Reinforcements
-1 Realmbreaker's Grasp
-1 Serpent-Blade Assailant
-1 Skyclave Aerialist
-1 Sun-Blessed Guardian
-1 Timberland Ancient
-1 Wildwood Escort
+1 Bladed Battle-Fan
+1 Bloodfell Caves
+1 Infected Defector
+1 Invasion of Mercadia
+1 Khenra Spellspear
+1 Kithkin Billyrider
+1 Mirrodin Avenged
+2 Mountain
+1 Order of the Mirror
+1 Storm the Seedcore
+1 Tranquil Cove
+1 Unseal the Necropolis
+1 Zada, Hedron Grinder
+1 Zephyr Singer
