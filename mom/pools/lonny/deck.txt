@@ -1,0 +1,31 @@
+Deck
+2 Tranquil Cove (MOM) 275
+7 Island (MOM) 278
+8 Plains (MOM) 277
+3 Captive Weird (MOM) 49
+1 Alabaster Host Sanctifier (MOM) 4
+1 Dusk Legion Duelist (MOM) 11
+1 Norn's Inquisitor (MOM) 29
+2 Swordsworn Cavalier (MOM) 42
+2 Aerial Boost (MOM) 2
+1 Angelic Intervention (MOM) 5
+3 Sigiled Sentinel (MOM) 37
+1 Zhalfirin Lancer (MOM) 45
+2 Preening Champion (MOM) 73
+1 Invasion of Belenon (MOM) 20
+1 Meeting of Minds (MOM) 66
+1 Temporal Cleansing (MOM) 80
+1 Wicked Slumber (MOM) 84
+1 Invasion of Xerex (MOM) 242
+1 Sunfall (MOM) 40
+
+Sideboard
+1 Aerial Boost (MOM) 2
+1 Oracle of Tragedy (MOM) 71
+1 Stasis Field (MOM) 79
+1 Invasion of Vryn (MOM) 64
+1 Wicked Slumber (MOM) 84
+1 Surge of Salvation (MOM) 41
+1 Alabaster Host Intercessor (MOM) 3
+2 Assimilate Essence (MOM) 47
+1 Realmbreaker's Grasp (MOM) 33

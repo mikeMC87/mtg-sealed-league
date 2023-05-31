@@ -1,0 +1,55 @@
+Deck
+1 Dismal Backwater (MOM) 269
+1 Blossoming Sands (MOM) 268
+1 Scoured Barrens (MOM) 272
+1 Jungle Hollow (MOM) 270
+2 Thornwood Falls (MOM) 274
+6 Forest (ZNR) 278
+7 Island (ZNR) 271
+6 Swamp (ZNR) 274
+1 Ichor Drinker (MOM) 111
+1 Seed of Hope (MOM) 204
+1 Assimilate Essence (MOM) 47
+1 Oracle of Tragedy (MOM) 71
+1 Saiba Cryptomancer (MOM) 76
+2 Herbology Instructor (MOM) 189
+2 Wary Thespian (MOM) 215
+2 Invasion of Pyrulea (MOM) 240
+1 Ephara's Dispersal (MOM) 55
+1 Xerex Strobe-Knight (MOM) 85
+1 Collective Nightmare (MOM) 95
+1 Vanquish the Weak (MOM) 129
+1 Invasion of New Phyrexia (MOM) 239
+1 Doomskar Warrior (MOM) 185
+1 Rona, Herald of Invasion (MOM) 75
+1 Tangled Skyline (MOM) 209
+1 Glissa, Herald of Predation (MOM) 226
+1 Imoti, Celebrant of Bounty (MUL) 108
+1 Artistic Refusal (MOM) 46
+2 Invasion of Fiora (MOM) 114
+2 Skittering Surveyor (MOM) 264
+1 Gloomfang Mauler (MOM) 108
+1 Invasion of Ikoria (MOM) 190
+1 Invasion of Zendikar (MOM) 194
+1 Overgrown Pest (MOM) 197
+1 Baral, Chief of Compliance (MUL) 73
+2 Meeting of Minds (MOM) 66
+1 Merciless Repurposing (MOM) 117
+1 Blightreaper Thallid (MOM) 92
+
+Sideboard
+1 Expedition Lookout (MOM) 56
+1 Bladed Battle-Fan (MOM) 91
+1 Dreg Recycler (MOM) 100
+1 Traumatic Revelation (MOM) 127
+1 Urn of Godfire (MOM) 266
+1 Yorion, Sky Nomad (MUL) 129
+1 Aetherblade Agent (MOM) 88
+1 Protocol Knight (MOM) 74
+1 Wicked Slumber (MOM) 84
+1 Ichor Shade (MOM) 112
+1 Consuming Aetherborn (MOM) 97
+1 Tenured Oilcaster (MOM) 126
+1 Realmbreaker, the Invasion Tree (MOM) 263
+1 Blossoming Sands (MOM) 268
+1 Zhalfirin Shapecraft (MOM) 87

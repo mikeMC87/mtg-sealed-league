@@ -1,0 +1,22 @@
+Deck
+6 Island (SIR) 280
+7 Mountain (SIR) 286
+1 Captive Weird (MOM) 49
+2 Disturbing Conversion (MOM) 54
+2 Saiba Cryptomancer (MOM) 76
+2 Burning Sun's Fury (MOM) 133
+3 Khenra Spellspear (MOM) 151
+2 Ral's Reinforcements (MOM) 158
+1 Trailblazing Historian (MOM) 168
+2 Wrenn's Resolve (MOM) 173 
+1 Eyes of Gitaxias (MOM) 57
+1 Preening Champion (MOM) 73
+1 Xerex Strobe-Knight (MOM) 85
+1 Invasion of Regatha (MOM) 148
+1 Zirda, the Dawnwaker (MUL) 130
+1 Invasion of Vryn (MOM) 64
+1 Temporal Cleansing (MOM) 80
+1 Invasion of Kaldheim (MOM) 145
+2 Rampaging Raptor (MOM) 160
+1 Shatter the Source (MOM) 164
+1 Etali, Primal Conqueror (MOM) 137
