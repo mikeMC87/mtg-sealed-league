@@ -1,0 +1,39 @@
+Deck
+2 Jungle Hollow (MOM) 270
+6 Forest (USG) 348
+3 Plains (USG) 333
+6 Swamp (USG) 340
+2 Aetherblade Agent (MOM) 88
+2 Blightreaper Thallid (MOM) 92
+1 Final Flourish (MOM) 104
+2 Cosmic Hunger (MOM) 182
+1 Herbology Instructor (MOM) 189
+1 Wary Thespian (MOM) 215
+1 Ayara, Widow of the Realm (MOM) 90
+1 Bloated Processor (MOM) 93
+1 Kami of Whispered Hopes (MOM) 196
+1 Overgrown Pest (MOM) 197
+1 Polukranos Reborn (MOM) 200
+1 Sandstalker Moloch (MOM) 203
+1 Unseal the Necropolis (MOM) 128
+1 Archangel Elspeth (MOM) 6
+1 Pile On (MOM) 122
+1 Glistening Dawn (MOM) 187
+1 Thalia and The Gitrog Monster (MOM) 255
+1 Sheoldred (MOM) 125
+1 Vorinclex (MOM) 213
+1 Merciless Repurposing (MOM) 117
+
+Sideboard
+2 Ichor Drinker (MOM) 111
+1 Scorn-Blade Berserker (MOM) 124
+2 Atraxa's Fall (MOM) 176
+1 Portent Tracker (MOM) 201
+1 Flitting Guerrilla (MOM) 105
+1 Flitting Guerrilla (MOM) 105
+1 Render Inert (MOM) 123
+1 Vanquish the Weak (MOM) 129
+1 Invasion of Eldraine (MOM) 113
+2 Etched Host Doombringer (MOM) 102
+1 Ravenous Sailback (MOM) 202
+1 Yorion, Sky Nomad (MUL) 129

@@ -1,0 +1,41 @@
+Deck
+1 Dismal Backwater (MOM) 269
+2 Bloodfell Caves (MOM) 267
+2 Swiftwater Cliffs (MOM) 273
+2 Island (THB) 280
+5 Mountain (THB) 284
+5 Swamp (THB) 282
+1 Rona, Herald of Invasion (MOM) 75
+1 Blightreaper Thallid (MOM) 92
+1 Final Flourish (MOM) 104
+1 Nezumi Informant (MOM) 120
+2 Ral's Reinforcements (MOM) 158
+2 Thrashing Frontliner (MOM) 167
+2 Volcanic Spite (MOM) 170
+1 Wrenn's Resolve (MOM) 173
+2 Invasion of Azgol (MOM) 232
+2 Preening Champion (MOM) 73
+1 Invasion of Amonkhet (MOM) 231
+2 Deadly Derision (MOM) 99
+1 Invasion of Eldraine (MOM) 113
+1 Invasion of Innistrad (MOM) 115
+1 Invasion of Kaldheim (MOM) 145
+1 Shivan Branch-Burner (MOM) 165
+1 City on Fire (MOM) 135
+
+Sideboard
+1 Assimilate Essence (MOM) 47
+1 Corrupted Conviction (MOM) 98
+1 Ichor Drinker (MOM) 111
+1 Scorn-Blade Berserker (MOM) 124
+1 Aetherblade Agent (MOM) 88
+1 Compleated Huntmaster (MOM) 96
+1 Vanquish the Weak (MOM) 129
+1 Merciless Repurposing (MOM) 117
+1 Volcanic Spite (MOM) 170
+1 Furnace Reins (MOM) 141
+1 Into the Fire (MOM) 144
+1 Onakke Javelineer (MOM) 156
+1 Furnace Host Charger (MOM) 140
+1 Shatter the Source (MOM) 164
+1 Juri, Master of the Revue (MUL) 46
